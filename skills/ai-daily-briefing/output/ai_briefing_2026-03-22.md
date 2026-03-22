@@ -1,6 +1,6 @@
 # 🤖 AI 每日简报 - 2026-03-22
 
-生成时间: 2026-03-22 19:02:25
+生成时间: 2026-03-22 19:12:19
 
 共收集 140 条新闻
 
@@ -34,8 +34,8 @@
 
 - [Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/)
 - [The three pillars of JavaScript bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
-- [Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence](https://zenodo.org/records/18976656)
 - [Tinybox – A powerful computer for deep learning](https://tinygrad.org/#tinybox)
+- [Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence](https://zenodo.org/records/18976656)
 - [Chest Fridge (2009)](https://mtbest.net/chest-fridge/)
 
 ### 机器之心

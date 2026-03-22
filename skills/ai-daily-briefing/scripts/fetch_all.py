@@ -146,8 +146,13 @@ def fetch_rss_sources(sources_dict, category_name):
     for name, url in sources_dict.items():
         try:
             print(f"\n[{name}] 抓取中...", end=" ")
-            # 使用代理配置
-            feed = feedparser.parse(url, proxy=PROXY_CONFIG)
+            
+            # 使用requests获取RSS内容（支持代理）
+            response = requests.get(url, headers=HEADERS, proxies=PROXY_CONFIG, timeout=30)
+            response.raise_for_status()
+            
+            # 使用feedparser解析内容
+            feed = feedparser.parse(response.content)
             count = 0
             
             for entry in feed.entries[:10]:

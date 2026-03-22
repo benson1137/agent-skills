@@ -1,8 +1,8 @@
 # 🤖 AI 每日简报 - 2026-03-22
 
-生成时间: 2026-03-22 19:12:19
+生成时间: 2026-03-22 19:35:49
 
-共收集 140 条新闻
+共收集 139 条新闻
 
 ---
 
@@ -11,7 +11,6 @@
 ### TechCrunch AI
 
 - [Are AI tokens the new signing bonus or just a cost of doing business?](https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/)
-- [Publisher pulls horror novel ‘Shy Girl’ over AI concerns](https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/)
 
 ### 量子位
 
@@ -58,19 +57,19 @@
 
 ### Business Insider
 
+- [Uber's deal blitz to stop a robotaxi monopoly](https://www.businessinsider.com/uber-robotaxi-strategy-deals-partnerships-rivian-waymo-tesla-zoox-2026-3)
+- [I resented my parents for killing my creative career goals. I swore I'd never do the same to my kids — then I became a parent.](https://www.businessinsider.com/swore-never-kill-kids-career-dreams-became-a-mom-2026-3)
 - [Where TSA wait times are the longest, and how to check if your airport is impacted](https://www.businessinsider.com/tsa-wait-times-airports-with-longest-delays-how-to-check-2026-3)
 - [I spent every summer in Greece as a kid. Here are 8 places you should visit that aren't Mykonos or Athens.](https://www.businessinsider.com/best-places-to-visit-in-greece)
 - [We're unlocking a new vibe](https://www.businessinsider.com/bi-today-sunday-newsletter-vibe-coding-mode-2026-3)
-- [Tech guru Igor Pejic says an AI bust wouldn't rival the dot-com crash — but there'd be almost 'no place to hide'](https://www.businessinsider.com/igor-pejic-big-tech-ai-stocks-2026-market-crash-3)
-- [How Big Four firm KPMG is protecting itself from AI agents going rogue](https://www.businessinsider.com/when-to-use-a-kill-switch-against-ai-agents-kpmg-2026-3)
 
 ### Fortune
 
+- [Ironman’s CEO started out unloading trucks when he was 13. He warns Gen Z networking is ‘dangerous’—and to do this instead](https://fortune.com/2026/03/22/ironman-ceo-scott-derue-career-climb-gen-z-networking-advice-former-professor-dean-president/)
+- [Gen Z is using ChatGPT to practice salary negotiations and tough conversations before they happen](https://fortune.com/2026/03/22/gen-z-roleplay-chatgpt-difficult-conversations-work/)
+- [Our economy has been living in an Adam Smith world since 1776. Something different is coming](https://fortune.com/2026/03/22/economy-adam-smith-250th-anniversary-wealth-of-nations-outlook-ai/)
 - [To unwind from his 12-hour shifts, this doctor splits his year between Kentucky and Venice—he pulls into his $438K apartment by boat](https://fortune.com/2026/03/22/unwind-12-hour-shifts-doctor-alexander-gabrovsky-splits-year-kentucky-venice-pulls-into-apartment-by-boat/)
 - [AI may be helping more people start their own businesses, but without many employees](https://fortune.com/2026/03/22/ai-entrepreneurs-startups-layoffs-block-jack-dorsey-american-workers-future-of-work/)
-- [Mark Cuban bought a $25 million mansion sight unseen — and got it for 50% off. His secret? ‘The best guaranteed return on investment’](https://fortune.com/2026/03/22/mark-cuban-buying-home-at-discount-foreclosure-deals-investing-advice-billionaire-real-estate-strategy/)
-- [The K-shaped economy has left many six-figure earners ‘on thin ice’ as housing costs, lifestyle creep, and the job market put them at risk](https://fortune.com/2026/03/22/k-shaped-economy-six-figure-earners-on-thin-ice-housing-costs-lifestyle-creep-job-market-risks/)
-- [‘Almost exactly offsetting the boost’: Higher gasoline prices this year could wipe out tax refunds from Trump’s One Big Beautiful Bill Act](https://fortune.com/2026/03/22/gasoline-prices-offsetting-trump-one-big-beautiful-bill-act-tax-refund/)
 
 ### BBC Technology
 
@@ -129,8 +128,8 @@
 
 - [习近平向拉美和加勒比国家共同体第十届峰会致贺电](http://www.hubei.gov.cn/2019/ttxw/zsj/202603/t20260322_5896688.shtml)
 - [总书记的人民情怀 | “为民造福是最大政绩”](http://www.hubei.gov.cn/2019/ttxw/zsj/202603/t20260320_5895976.shtml)
+- [李强出席中国发展高层论坛2026年年会开幕式并发表主旨演讲](http://www.hubei.gov.cn/2019/ttxw/szywzl/202603/t20260322_5896692.shtml)
 - [李强对全国春季农业生产工作作出重要批示强调：高水平保障粮食等重要农产品稳定安全供给 为实现“十五五”良好开局提供有力支撑](http://www.hubei.gov.cn/2019/ttxw/szywzl/202603/t20260320_5896499.shtml)
-- [李强主持召开国务院第十一次全体会议](http://www.hubei.gov.cn/2019/ttxw/szywzl/202603/t20260317_5893565.shtml)
 - [16项中央财政政策稳定实施、多项直补到户——强农惠农富农 这些补贴可领](http://www.hubei.gov.cn/szyw/202603/t20260321_5896545.shtml)
 
 ### 武汉市经信局

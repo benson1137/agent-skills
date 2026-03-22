@@ -134,13 +134,23 @@ ALL_RSS_SOURCES.update(RSS_SOURCES_ACADEMIC)
 ALL_RSS_SOURCES.update(RSS_SOURCES_POLICY)
 
 
-def fetch_rss_sources(sources_dict, category_name):
-    """抓取RSS源"""
+def fetch_rss_sources(sources_dict, category_name, time_window_hours=24):
+    """抓取RSS源
+    
+    Args:
+        sources_dict: RSS源字典
+        category_name: 分类名称
+        time_window_hours: 时间窗口（小时），默认24小时，设为0则抓取所有
+    """
     print(f"\n{'='*60}")
     print(f"抓取 {category_name} RSS 源")
+    if time_window_hours > 0:
+        print(f"时间窗口: 最近 {time_window_hours} 小时")
+    else:
+        print(f"时间窗口: 所有可用文章")
     print('='*60)
     
-    time_window = datetime.now() - timedelta(hours=24)
+    time_window = datetime.now() - timedelta(hours=time_window_hours) if time_window_hours > 0 else None
     all_articles = []
     
     for name, url in sources_dict.items():
@@ -159,7 +169,8 @@ def fetch_rss_sources(sources_dict, category_name):
                 published = entry.get('published_parsed') or entry.get('updated_parsed')
                 if published:
                     pub_date = datetime(*published[:6])
-                    if pub_date > time_window:
+                    # 如果时间窗口为None或文章在时间窗口内
+                    if time_window is None or pub_date > time_window:
                         summary = entry.get('summary', '')
                         all_articles.append({
                             'source': name,

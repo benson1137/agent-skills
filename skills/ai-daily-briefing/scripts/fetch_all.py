@@ -414,7 +414,7 @@ GOV_WEB_SOURCES = {
         "title_selector": "a",
         "category": "政策与产业"
     },
-    # 武汉市各部门 (4个)
+    # 武汉市各部门 (7个)
     "武汉市经信局": {
         "url": "https://jxj.wuhan.gov.cn/",
         "selector": ".item",
@@ -434,6 +434,21 @@ GOV_WEB_SOURCES = {
     "武汉市卫健委": {
         "url": "https://wjw.wuhan.gov.cn/",
         "selector": "ul li",
+        "category": "政策与产业"
+    },
+    "武汉市发改委": {
+        "url": "https://fgw.wuhan.gov.cn/",
+        "selector": ".inItem li",
+        "category": "政策与产业"
+    },
+    "武汉市数据局": {
+        "url": "https://sjj.wuhan.gov.cn/",
+        "selector": ".picList li",
+        "category": "政策与产业"
+    },
+    "武汉市人社局": {
+        "url": "https://rsj.wuhan.gov.cn/",
+        "selector": ".news_tabs_second_2 li",
         "category": "政策与产业"
     },
 }

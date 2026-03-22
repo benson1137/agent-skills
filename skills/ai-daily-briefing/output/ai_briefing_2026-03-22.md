@@ -1,16 +1,12 @@
 # 🤖 AI 每日简报 - 2026-03-22
 
-生成时间: 2026-03-22 19:35:49
+生成时间: 2026-03-22 20:03:02
 
-共收集 139 条新闻
+共收集 156 条新闻
 
 ---
 
 ## 🤖 AI科技
-
-### TechCrunch AI
-
-- [Are AI tokens the new signing bonus or just a cost of doing business?](https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/)
 
 ### 量子位
 
@@ -32,10 +28,10 @@
 ### Hacker News
 
 - [Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/)
+- [Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM](https://github.com/danveloper/flash-moe)
 - [The three pillars of JavaScript bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
 - [Tinybox – A powerful computer for deep learning](https://tinygrad.org/#tinybox)
 - [Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence](https://zenodo.org/records/18976656)
-- [Chest Fridge (2009)](https://mtbest.net/chest-fridge/)
 
 ### 机器之心
 
@@ -57,11 +53,11 @@
 
 ### Business Insider
 
+- [I left Goldman Sachs to build a small baking business. Here's how my time at the firm is giving me a leg up.](https://www.businessinsider.com/allison-sheehan-goldman-sachs-investment-baker-entrepreneur-wall-street-2026-3)
+- [Where TSA wait times are the longest, and how to check if your airport is impacted](https://www.businessinsider.com/tsa-wait-times-airports-with-longest-delays-how-to-check-2026-3)
 - [Uber's deal blitz to stop a robotaxi monopoly](https://www.businessinsider.com/uber-robotaxi-strategy-deals-partnerships-rivian-waymo-tesla-zoox-2026-3)
 - [I resented my parents for killing my creative career goals. I swore I'd never do the same to my kids — then I became a parent.](https://www.businessinsider.com/swore-never-kill-kids-career-dreams-became-a-mom-2026-3)
-- [Where TSA wait times are the longest, and how to check if your airport is impacted](https://www.businessinsider.com/tsa-wait-times-airports-with-longest-delays-how-to-check-2026-3)
 - [I spent every summer in Greece as a kid. Here are 8 places you should visit that aren't Mykonos or Athens.](https://www.businessinsider.com/best-places-to-visit-in-greece)
-- [We're unlocking a new vibe](https://www.businessinsider.com/bi-today-sunday-newsletter-vibe-coding-mode-2026-3)
 
 ### Fortune
 
@@ -149,4 +145,18 @@
 ### 武汉市商务局
 
 - [水资源管理和保护](https://swj.wuhan.gov.cnswyw/swyw_szy)
+
+### 武汉市发改委
+
+- [习近平向拉美和加勒比国家共同体第十届峰会致贺电习近平向拉美和加勒比国家共同体第十届峰会致贺电2026-03-22总书记的人民情怀 | “为民造福是最大政绩”2026-03-20李强出席中国发展高层论坛2026年年会开幕式并发表主旨演讲2026-03-22李强对全国春季农业生产工作作出重要批示强调：高水平保障粮食等重要农产品稳定安全供给 为实现“十五五”良好开局提供有力支撑2026-03-2016项中央财政政策稳定实施、多项直补到户——强农惠农富农 这些补贴可领2026-03-21两部门提出16条举措促进青年就业2026-03-219部门发文促进旅行服务出口 扩大入境消费2026-03-21今年前2个月我国邮政寄递业务量完成331.4亿件2026-03-21](http://www.hubei.gov.cn/2019/ttxw/zsj/202603/t20260322_5896688.shtml)
+- [习近平向拉美和加勒比国家共同体第十届峰会致贺电2026-03-22](http://www.hubei.gov.cn/2019/ttxw/zsj/202603/t20260322_5896688.shtml)
+- [总书记的人民情怀 | “为民造福是最大政绩”2026-03-20](http://www.hubei.gov.cn/2019/ttxw/zsj/202603/t20260320_5895976.shtml)
+- [李强出席中国发展高层论坛2026年年会开幕式并发表主旨演讲2026-03-22](http://www.hubei.gov.cn/2019/ttxw/szywzl/202603/t20260322_5896692.shtml)
+- [李强对全国春季农业生产工作作出重要批示强调：高水平保障粮食等重要农产品稳定安全供给 为实现“十五五”良好开局提供有力支撑2026-03-20](http://www.hubei.gov.cn/2019/ttxw/szywzl/202603/t20260320_5896499.shtml)
+
+### 武汉市人社局
+
+- [对外服务电话](https://rsj.wuhan.gov.cn./zwgk_17/fdzdgknr/jgzn_71145/dwfwdh_71150/)
+- [12333在线咨询](https://rsj.wuhan.gov.cn./wechat/wxgzhsm/)
+- [纪检监督举报](https://rsj.wuhan.gov.cn./hdjl_17/jjjdjb/)
 

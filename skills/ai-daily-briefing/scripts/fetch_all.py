@@ -356,6 +356,173 @@ def fetch_web_source(name, url, selector, category, title_selector=None, link_se
         return []
 
 
+# ==================== 政府网站抓取 ====================
+
+# 政府网站配置
+GOV_WEB_SOURCES = {
+    # 中央部委 (3个)
+    "国务院": {
+        "url": "https://www.gov.cn/zhengce/zuixin/",
+        "selector": ".list li",
+        "title_selector": "a",
+        "category": "政策与产业"
+    },
+    "发改委": {
+        "url": "https://www.ndrc.gov.cn/",
+        "selector": ".news li",
+        "title_selector": "a",
+        "category": "政策与产业"
+    },
+    "网信办": {
+        "url": "https://www.cac.gov.cn/",
+        "selector": ".title a",
+        "category": "政策与产业"
+    },
+    # 地方政府 (4个)
+    "上海市政府": {
+        "url": "https://www.shanghai.gov.cn/",
+        "selector": ".item",
+        "title_selector": "a",
+        "category": "政策与产业"
+    },
+    "广东省政府": {
+        "url": "https://www.gd.gov.cn/",
+        "selector": "ul li",
+        "title_selector": "a",
+        "category": "政策与产业"
+    },
+    "深圳市政府": {
+        "url": "https://www.sz.gov.cn/",
+        "selector": ".news-item",
+        "title_selector": "a",
+        "category": "政策与产业"
+    },
+    "武汉市政府": {
+        "url": "https://www.wuhan.gov.cn/",
+        "selector": ".news-item",
+        "title_selector": "a",
+        "category": "政策与产业"
+    },
+    # 武汉市各部门 (4个)
+    "武汉市经信局": {
+        "url": "https://jxj.wuhan.gov.cn/",
+        "selector": ".item",
+        "title_selector": "a",
+        "category": "政策与产业"
+    },
+    "武汉市科技局": {
+        "url": "https://kjj.wuhan.gov.cn/",
+        "selector": "h3 a",
+        "category": "政策与产业"
+    },
+    "武汉市商务局": {
+        "url": "https://swj.wuhan.gov.cn/",
+        "selector": "h3 a",
+        "category": "政策与产业"
+    },
+    "武汉市卫健委": {
+        "url": "https://wjw.wuhan.gov.cn/",
+        "selector": "ul li",
+        "category": "政策与产业"
+    },
+}
+
+# AI/数字经济相关关键词
+AI_KEYWORDS = [
+    '人工智能', 'AI', '数字经济', '大数据', '云计算', '智能制造',
+    '数字化转型', '信息化', '数据要素', '算法', '机器学习', '深度学习',
+    '大模型', 'ChatGPT', '生成式AI', '自动驾驶', '智能计算',
+    '数字政府', '智慧城市', '工业互联网', '物联网', '5G', '区块链'
+]
+
+def fetch_gov_website(name, config):
+    """抓取政府网站"""
+    print(f"\n[{name}] 抓取中...", end=" ")
+    
+    url = config["url"]
+    selector = config["selector"]
+    title_selector = config.get("title_selector")
+    category = config.get("category", "政策与产业")
+    
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            context = browser.new_context(
+                user_agent=HEADERS['User-Agent'],
+                viewport={'width': 1920, 'height': 1080}
+            )
+            
+            page = context.new_page()
+            response = page.goto(url, wait_until='networkidle', timeout=30000)
+            
+            if response and response.status >= 400:
+                print(f"✗ HTTP {response.status}")
+                browser.close()
+                return []
+            
+            page.wait_for_timeout(3000)
+            content = page.content()
+            browser.close()
+        
+        soup = BeautifulSoup(content, 'html.parser')
+        articles = []
+        
+        items = soup.select(selector)
+        
+        for item in items[:15]:  # 政府网站取前15条
+            if title_selector:
+                title_elem = item.select_one(title_selector)
+            else:
+                title_elem = item
+            
+            if title_elem:
+                title = title_elem.get_text(strip=True)
+                
+                # 获取链接
+                link_elem = item if item.name == 'a' else item.find('a')
+                href = link_elem.get('href', '') if link_elem else ''
+                
+                if title and len(title) > 5:
+                    # 过滤AI相关政策
+                    is_ai_related = any(keyword in title for keyword in AI_KEYWORDS)
+                    
+                    if href and not href.startswith('http'):
+                        href = f"{url.rstrip('/')}{href}"
+                    
+                    articles.append({
+                        'source': name,
+                        'title': title,
+                        'link': href or url,
+                        'published': datetime.now().isoformat(),
+                        'summary': '',
+                        'category': category,
+                        'is_ai_related': is_ai_related  # 标记是否AI相关
+                    })
+        
+        # 统计AI相关政策
+        ai_count = sum(1 for a in articles if a.get('is_ai_related'))
+        print(f"✓ {len(articles)} 条 (AI相关: {ai_count} 条)")
+        return articles
+        
+    except Exception as e:
+        print(f"✗ 失败: {str(e)[:50]}")
+        return []
+
+def fetch_all_gov_websites():
+    """抓取所有政府网站"""
+    print("\n" + "="*60)
+    print("抓取政府网站 (政策与产业)")
+    print("="*60)
+    
+    all_articles = []
+    for name, config in GOV_WEB_SOURCES.items():
+        articles = fetch_gov_website(name, config)
+        all_articles.extend(articles)
+        time.sleep(1)  # 避免请求过快
+    
+    return all_articles
+
+
 def save_results(all_articles):
     """保存结果"""
     output_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'output')
@@ -471,6 +638,10 @@ def main():
     # 抓取板块4: 政策与产业
     rss_policy = fetch_rss_sources(RSS_SOURCES_POLICY, "政策与产业")
     all_articles.extend(rss_policy)
+    
+    # 抓取政府网站
+    gov_articles = fetch_all_gov_websites()
+    all_articles.extend(gov_articles)
     
     # 保存结果
     print("\n" + "="*60)

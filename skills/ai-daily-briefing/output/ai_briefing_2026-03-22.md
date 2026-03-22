@@ -1,8 +1,8 @@
 # 🤖 AI 每日简报 - 2026-03-22
 
-生成时间: 2026-03-22 10:24:59
+生成时间: 2026-03-22 19:02:25
 
-共收集 57 条新闻
+共收集 140 条新闻
 
 ---
 
@@ -10,29 +10,33 @@
 
 ### TechCrunch AI
 
+- [Are AI tokens the new signing bonus or just a cost of doing business?](https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/)
 - [Publisher pulls horror novel ‘Shy Girl’ over AI concerns](https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/)
-- [Delve accused of misleading customers with ‘fake compliance’](https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/)
-- [Why Wall Street wasn’t won over by Nvidia’s big conference](https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/)
 
-### The Verge AI
+### 量子位
 
-- [The gen AI Kool-Aid tastes like eugenics](https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview)
-- [Gemini task automation is slow, clunky, and super impressive](https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on)
+- [浙大团队破解多模态模型「盲目自信」：先校准置信度，再分配算力丨CVPR’26](https://www.qbitai.com/2026/03/391014.html)
+- [阶跃星辰率先适配微信生态，StepClaw“龙虾”即插即养即用](https://www.qbitai.com/2026/03/391010.html)
+- [大厂抢郭达雅进行时！DeepSeek核心成员还是个“综艺巨佬”](https://www.qbitai.com/2026/03/390990.html)
+- [上海凭什么敢自封“开发者之城”？看完这场大会议程我悟了](https://www.qbitai.com/2026/03/390977.html)
+
+### 36氪
+
+- [Nothing在中国发布Headphone (a)与Phone (4a)系列，在性能过剩时代继续押注“设计优先”丨最前线](https://36kr.com/p/3733553048256518?f=rss)
 
 ### InfoQ
 
 - [MCP Gateway：构建下一代 AI Agent 的“中枢网关”｜QCon北京](https://www.infoq.cn/article/wwu9ccjyS00J9YMgKHI7?utm_source=rss&utm_medium=article)
 - [Java近期资讯：Apache Solr 10、LangChain4j、Grails、JobRunr、Gradle、Devnexus和Commonhaus](https://www.infoq.cn/article/ia7cifkMwDqYjd1FsdEQ?utm_source=rss&utm_medium=article)
 - [宇树科技靠融资还是靠卖货活着？翻完招股书，我们挖到了这8个关键点](https://www.infoq.cn/article/lOkVPrOqAP8df2JEbwmU?utm_source=rss&utm_medium=article)
-- [Cursor 新模型被指就是Kimi K2.5，联创回应：确实是，下次我们会说清楚](https://www.infoq.cn/article/Uo9qDPlcoExt95xUG8N4?utm_source=rss&utm_medium=article)
 
 ### Hacker News
 
-- [Tinybox – Offline AI device 120B parameters](https://tinygrad.org/#tinybox)
-- [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/)
-- [Why craft-lovers are losing their craft](https://writings.hongminhee.org/2026/03/craft-alienation-llm/)
-- [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
-- [Chest Fridge](https://mtbest.net/chest-fridge/)
+- [Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/)
+- [The three pillars of JavaScript bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
+- [Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence](https://zenodo.org/records/18976656)
+- [Tinybox – A powerful computer for deep learning](https://tinygrad.org/#tinybox)
+- [Chest Fridge (2009)](https://mtbest.net/chest-fridge/)
 
 ### 机器之心
 
@@ -52,36 +56,98 @@
 
 ## 💼 商业财经
 
-### CNBC Finance
-
-- [SEC Commissioner Hester Peirce on ETFs: 'We want to work with people on new products'](https://www.cnbc.com/2026/03/21/crypto-tokenization-and-etfs-secs-peirce-indicates-openness.html)
-
 ### Business Insider
 
-- [I used Anthropic's Claude to pick Oscar winners at a party. It made odd mistakes, but still beat everyone else.](https://www.businessinsider.com/anthropic-claude-ai-pick-oscars-ballot-won-jagged-edge-2026-3)
-- [Work from home and cut frivolous journeys: What countries are telling people to do as oil prices spike](https://www.businessinsider.com/oil-price-spike-what-countries-are-telling-people-to-do-2026-3)
 - [Where TSA wait times are the longest, and how to check if your airport is impacted](https://www.businessinsider.com/tsa-wait-times-airports-with-longest-delays-how-to-check-2026-3)
-- [My husband and I have worked together for 15 years — and still like each other. Here's how we manage marriage and our business.](https://www.businessinsider.com/couple-work-together-keep-marriage-strong-maintain-relationship-2026-3)
-- [My mom rarely spoke about the grandmother I never met. Family heirlooms finally opened a door to our family's past.](https://www.businessinsider.com/heirlooms-photos-helped-uncover-family-past-connect-with-mom-2026-3)
+- [I spent every summer in Greece as a kid. Here are 8 places you should visit that aren't Mykonos or Athens.](https://www.businessinsider.com/best-places-to-visit-in-greece)
+- [We're unlocking a new vibe](https://www.businessinsider.com/bi-today-sunday-newsletter-vibe-coding-mode-2026-3)
+- [Tech guru Igor Pejic says an AI bust wouldn't rival the dot-com crash — but there'd be almost 'no place to hide'](https://www.businessinsider.com/igor-pejic-big-tech-ai-stocks-2026-market-crash-3)
+- [How Big Four firm KPMG is protecting itself from AI agents going rogue](https://www.businessinsider.com/when-to-use-a-kill-switch-against-ai-agents-kpmg-2026-3)
 
 ### Fortune
 
-- [Trump gives Iran 48 hours on Hormuz, threatens power plants](https://fortune.com/2026/03/21/trump-iran-war-48-hours-deadline-strait-of-hormuz-power-plants/)
-- [Israel says ‘war is not close to ending’ as its nuclear research center is targeted for first time, hours after Iranian enrichment site was hit](https://fortune.com/2026/03/21/israel-iran-war-not-close-ending-nuclear-research-center-iranian-enrichment-site/)
-- [OpenAI plans to almost double its headcount this year, FT says](https://fortune.com/2026/03/21/openai-double-headcount-this-year-sam-altman-anthropic-google/)
-- [BTS begins comeback tour to reclaim status as one of the world’s biggest pop acts after completing Korea’s mandatory military service](https://fortune.com/2026/03/21/bts-concert-seoul-comeback-world-tour-album-arirang/)
-- [U.S. allows sale of stranded Iran oil to cap fuel-price rises](https://fortune.com/2026/03/21/us-sanctions-sale-stranded-iran-oil-price-surge-strait-hormuz/)
+- [To unwind from his 12-hour shifts, this doctor splits his year between Kentucky and Venice—he pulls into his $438K apartment by boat](https://fortune.com/2026/03/22/unwind-12-hour-shifts-doctor-alexander-gabrovsky-splits-year-kentucky-venice-pulls-into-apartment-by-boat/)
+- [AI may be helping more people start their own businesses, but without many employees](https://fortune.com/2026/03/22/ai-entrepreneurs-startups-layoffs-block-jack-dorsey-american-workers-future-of-work/)
+- [Mark Cuban bought a $25 million mansion sight unseen — and got it for 50% off. His secret? ‘The best guaranteed return on investment’](https://fortune.com/2026/03/22/mark-cuban-buying-home-at-discount-foreclosure-deals-investing-advice-billionaire-real-estate-strategy/)
+- [The K-shaped economy has left many six-figure earners ‘on thin ice’ as housing costs, lifestyle creep, and the job market put them at risk](https://fortune.com/2026/03/22/k-shaped-economy-six-figure-earners-on-thin-ice-housing-costs-lifestyle-creep-job-market-risks/)
+- [‘Almost exactly offsetting the boost’: Higher gasoline prices this year could wipe out tax refunds from Trump’s One Big Beautiful Bill Act](https://fortune.com/2026/03/22/gasoline-prices-offsetting-trump-one-big-beautiful-bill-act-tax-refund/)
 
-### The Guardian Tech
+### BBC Technology
 
-- [‘Thank God they’re still alive’: Kaiser therapists claim its new screening system puts patients at higher risk by delaying their care](https://www.theguardian.com/technology/2026/mar/21/kaiser-permanente-therapists-ai-strike)
-- [Thousands of people are selling their identities to train AI – but at what cost?](https://www.theguardian.com/technology/2026/mar/21/ai-trainers-identity-cost)
-- [‘It’s stupid’: why western carmakers’ retreat from electric risks dooming them to irrelevance](https://www.theguardian.com/business/2026/mar/21/west-carmakers-retreat-electric-vehicle-risks-irrelevance-iran-war-evs-china)
+- [AI videos of sexualised black women removed from TikTok after BBC investigation](https://www.bbc.com/news/articles/c070e283k8vo?at_medium=RSS&at_campaign=rss)
 
 ## 📜 政策与产业
 
-### 199IT
+### 国务院
 
-- [货币的未来将走向何方？来自达沃斯领袖的洞见](http://www.199it.com/archives/1817895.html)
-- [从预测到实践：关于工作的未来，人工智能使用数据揭示了什么](http://www.199it.com/archives/1817890.html)
+- [中共中央办公厅 国务院办公厅印发《国有企业领导人员廉洁从业规定》](https://www.gov.cn/zhengce/202603/content_7063468.htm)
+- [中共中央办公厅印发《关于加强党建带团建工作的意见》](https://www.gov.cn/zhengce/202603/content_7063297.htm)
+- [国务院关于同意将四川省眉山市列为国家历史文化名城的批复](https://www.gov.cn/zhengce/content/202603/content_7063204.htm)
+- [中办国办关于做好第二轮土地承包到期后再延长30年试点工作的意见](https://www.gov.cn/zhengce/202603/content_7063138.htm)
+- [国务院关于修改《社会团体登记管理条例》的决定](https://www.gov.cn/zhengce/content/202603/content_7063044.htm)
+
+### 发改委
+
+- [郑栅洁主任主持召开民营企业座谈会 围绕贯彻全国两会精神推动服务业扩能提质 实现“十五五”...](https://www.ndrc.gov.cn./xwdt/xwfb/202603/t20260320_1404280.html)
+- [国家发展改革委规划司负责同志就国家发展规划法答记者问](https://www.ndrc.gov.cn./xwdt/xwfb/202603/t20260319_1404242.html)
+- [全面深入贯彻国家发展规划法 进一步彰显中国特色社会主义制度重要政治优势](https://www.ndrc.gov.cn./xwdt/xwfb/202603/t20260319_1404238.html)
+- [2026年3月9日国内成品油价格按机制调整](https://www.ndrc.gov.cn./xwdt/xwfb/202603/t20260309_1404075.html)
+- [国家发展改革委党组部署开展树立和践行正确政绩观学习教育工作](https://www.ndrc.gov.cn./xwdt/xwfb/202603/t20260302_1403970.html)
+
+### 网信办
+
+- [习近平会见土库曼斯坦民族领袖、人民委员会主席别尔德穆哈梅多夫](https://www.cac.gov.cn//www.cac.gov.cn/2026-03/18/c_1775568309709554.htm)
+- [十四届全国人大四次会议在京闭幕](https://www.cac.gov.cn//www.cac.gov.cn/2026-03/12/c_1775050873557630.htm)
+- [全国政协十四届四次会议在北京闭幕](https://www.cac.gov.cn//www.cac.gov.cn/2026-03/11/c_1774963843822770.htm)
+- [《网信系统学习宣传贯彻党的二十届四中全会精神》专题](https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/esjszqh/A0920011216index_1.htm)
+- [《2026年“E法同行”全国网络法治主题宣传活动》专题](https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/qgwlfzztxchd/A0920011303index_1.htm)
+
+### 上海市政府
+
+- [上海市发展和改革委员会](https://zwdt.sh.gov.cn/govPortals/municipalDepartments/SHFGSH)
+- [上海市农业农村委员会](https://zwdt.sh.gov.cn/govPortals/municipalDepartments/SHNYSH)
+- [上海市房屋管理局](https://zwdt.sh.gov.cn/govPortals/municipalDepartments/SHFWSH)
+- [上海市退役军人事务局](https://zwdt.sh.gov.cn/govPortals/municipalDepartments/SHYWSH)
+
+### 广东省政府
+
+- [李强主持召开国务院第十一次全体会议](http://www.gd.gov.cn/gdywdt/gdyw/content/post_4870532.html)
+- [深圳市领导干部会议召开](http://www.gd.gov.cn/gdywdt/gdyw/content/post_4872978.html)
+- [省委全面深化改革委员会召开会议](http://www.gd.gov.cn/gdywdt/gdyw/content/post_4872861.html)
+- [黄坤明会见国家开发银行行长谭炯](http://www.gd.gov.cn/gdywdt/gdyw/content/post_4872367.html)
+- [省委城市工作会议召开](http://www.gd.gov.cn/gdywdt/gdyw/content/post_4871757.html)
+
+### 深圳市政府
+
+- [深圳市规划和自然资源局大鹏管理局关于大鹏新区文化中心项目总平面图...](https://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_12694265.html)
+- [深圳市发展和改革委员会转发关于2026年棉花关税配额外优惠关税税...](https://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_12693520.html)
+- [深圳市乡村振兴和协作交流局关于公示深圳市2025年第四季度农牧领...](https://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_12693341.html)
+- [深圳市乡村振兴和协作交流局关于公布2025年深圳市乡村振兴和协作...](https://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_12692355.html)
+- [深圳市商务局关于《深圳市品牌展会（2023-2025年度）拟认定...](https://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_12692251.html)
+
+### 武汉市政府
+
+- [习近平向拉美和加勒比国家共同体第十届峰会致贺电](http://www.hubei.gov.cn/2019/ttxw/zsj/202603/t20260322_5896688.shtml)
+- [总书记的人民情怀 | “为民造福是最大政绩”](http://www.hubei.gov.cn/2019/ttxw/zsj/202603/t20260320_5895976.shtml)
+- [李强对全国春季农业生产工作作出重要批示强调：高水平保障粮食等重要农产品稳定安全供给 为实现“十五五”良好开局提供有力支撑](http://www.hubei.gov.cn/2019/ttxw/szywzl/202603/t20260320_5896499.shtml)
+- [李强主持召开国务院第十一次全体会议](http://www.hubei.gov.cn/2019/ttxw/szywzl/202603/t20260317_5893565.shtml)
+- [16项中央财政政策稳定实施、多项直补到户——强农惠农富农 这些补贴可领](http://www.hubei.gov.cn/szyw/202603/t20260321_5896545.shtml)
+
+### 武汉市经信局
+
+- [李强主持召开国务院常务会议](https://h.xinhuaxmt.com/vh512/share/13005098?docid=13005098&newstype=1001&d=13525d9)
+- [第二场部长通道 回应关切真抓实干（现场·部长通道）](https://www.peopleapp.com/column/30051596913-500007385075)
+- [世界看两会丨国际人士：中国高质量发展为全球经济注入稳定性](https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=3791285225425095504&toc_style_id=feeds_default&share_to=wechat&track_id=c61b6a85-20bc-4ecf-a644-502987326643)
+
+### 武汉市科技局
+
+- [政府信息公开](https://kjj.wuhan.gov.cn./zwgk_8/)
+- [项目申报与管理](https://kjj.wuhan.gov.cn./wmfw/fwsx/xmsbygl/)
+- [技术合同认定登记](https://kjj.wuhan.gov.cn./wmfw/fwsx/jshtdjrd/)
+- [高新技术企业认定](https://kjj.wuhan.gov.cn./wmfw/fwsx/gxjsqyrd/)
+- [专家评审专家征集](https://kjj.wuhan.gov.cn./wmfw/fwsx/zjpszjzj/)
+
+### 武汉市商务局
+
+- [水资源管理和保护](https://swj.wuhan.gov.cnswyw/swyw_szy)
 

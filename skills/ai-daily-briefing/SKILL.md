@@ -48,17 +48,21 @@ cat output/ai_briefing_$(date +%Y-%m-%d).md
 
 ## 实现状态
 
-| 板块 | 总数 | 自动抓取 | 待实现 |
-|------|------|----------|--------|
-| AI科技 | 14 | 14 | 0 |
-| 商业财经 | 10 | 6 | 4 |
-| 学术研究 | 5 | 5 | 0 |
-| 政策与产业 | 17 | 1 | 16 |
-| **总计** | **46** | **26** | **20** |
+| 板块 | 总数 | 自动抓取 | 待实现 | 覆盖率 |
+|------|------|----------|--------|--------|
+| AI科技 | 14 | 14 | 0 | 100% |
+| 商业财经 | 10 | 9 | 1 | 90% |
+| 学术研究 | 5 | 5 | 0 | 100% |
+| 政策与产业 | 17 | 1 | 16 | 6% |
+| **总计** | **46** | **29** | **17** | 63% |
 
-**详细实现状态**: 参见 [references/IMPLEMENTATION_STATUS.md](references/IMPLEMENTATION_STATUS.md)
+**详细实现状态**: 参见 [IMPLEMENTATION_STATUS.md](IMPLEMENTATION_STATUS.md)
 
-**新闻源获取指南**: 参见 [references/SOURCES_GUIDE.md](references/SOURCES_GUIDE.md)
+**新闻源获取指南**: 参见 [SOURCES_GUIDE.md](SOURCES_GUIDE.md)
+
+**可用源列表**: 参见 [AVAILABLE_SOURCES.md](AVAILABLE_SOURCES.md)
+
+**项目结构说明**: 参见 [PROJECT_STRUCTURE.md](PROJECT_STRUCTURE.md)
 
 ## 技术实现
 
@@ -81,9 +85,10 @@ cat output/ai_briefing_$(date +%Y-%m-%d).md
 
 | 脚本 | 功能 |
 |------|------|
-| `fetch_all.py` | 主抓取脚本，覆盖26个源 |
-| `fetch_jiqizhixin.py` | 机器之心专用 |
-| `fetch_ailab.py` | 新智元专用 |
+| `fetch_all.py` | 主抓取脚本，覆盖29个源 |
+| `fetch_jiqizhixin.py` | 机器之心专用（已整合到主脚本） |
+| `fetch_ailab.py` | 新智元专用（已整合到主脚本） |
+| `test_sources.py` | 新闻源测试脚本 |
 
 ## 定时任务
 
@@ -92,20 +97,30 @@ cat output/ai_briefing_$(date +%Y-%m-%d).md
 0 8 * * * cd /root/.openclaw/workspace/daily-ai-briefing && python3 scripts/fetch_all.py
 ```
 
+## 文档索引
+
+| 文档 | 说明 |
+|------|------|
+| [SKILL.md](SKILL.md) | 本文件 - 技能主文档 |
+| [IMPLEMENTATION_STATUS.md](IMPLEMENTATION_STATUS.md) | 详细实现状态报告 |
+| [SOURCES_GUIDE.md](SOURCES_GUIDE.md) | 新闻源获取指南 |
+| [AVAILABLE_SOURCES.md](AVAILABLE_SOURCES.md) | 可用源列表 |
+| [PROJECT_STRUCTURE.md](PROJECT_STRUCTURE.md) | 项目结构说明 |
+| [README.md](README.md) | 项目主文档 |
+
 ## 待实现功能
 
-### 高优先级
-- 财经网、第一财经、界面新闻网页抓取
+### 高优先级 (政府网站)
 - 国务院、发改委、网信办网页抓取
+- 工信部: HTTP 403，需研究绕过方案
 
-### 中优先级
-- 各省级市政府网站抓取
-- 武汉市各部门网站抓取
+### 中优先级 (地方政府)
+- 各省级市政府网站（上海、广东、深圳）
+- 武汉市政府及各部门网站
 
 ### 特殊处理
-- 工信部: HTTP 403，需研究绕过方案
 - 湖北省政府: HTTP 412，需处理预检限制
-- Forbes: RSS空内容，需替代源
+- Forbes: RSS空内容，已有其他商业媒体替代
 
 ## 目录结构
 

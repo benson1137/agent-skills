@@ -1,0 +1,601 @@
+{
+  "date": "2026-03-19",
+  "total": 85,
+  "articles": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
+      "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
+      "published": "2026-03-19T08:00:00",
+      "summary": "After compressing models from major AI labs including OpenAI, Meta, DeepSeek and Mistral AI, Multiverse Computing has launched both an app that showca..."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta is having trouble with rogue AI agents",
+      "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+      "published": "2026-03-18T23:42:46",
+      "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Sam Altman’s thank-you to coders draws the memes",
+      "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+      "published": "2026-03-18T23:12:58",
+      "summary": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+      "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+      "published": "2026-03-18T20:30:52",
+      "summary": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behal..."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
+      "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+      "published": "2026-03-18T20:01:19",
+      "summary": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming."
+    },
+    {
+      "source": "量子位",
+      "title": "飞书发布多款企业级 Agent 覆盖个人智能伙伴与业务系统",
+      "link": "https://www.qbitai.com/2026/03/389311.html",
+      "published": "2026-03-19T08:46:16",
+      "summary": "持续升级官方 OpenClaw 插件"
+    },
+    {
+      "source": "量子位",
+      "title": "蚂蚁数科发布“龙虾卫士”，护航OpenClaw智能体安全落地",
+      "link": "https://www.qbitai.com/2026/03/389305.html",
+      "published": "2026-03-19T08:38:15",
+      "summary": "拥有可解释、可控制、可追溯的安全基石"
+    },
+    {
+      "source": "量子位",
+      "title": "钉钉发布多款AI硬件 推出AI创新工场计划",
+      "link": "https://www.qbitai.com/2026/03/389301.html",
+      "published": "2026-03-19T08:36:37",
+      "summary": "帮助开发者打造AI时代的创新产品"
+    },
+    {
+      "source": "量子位",
+      "title": "英伟达首台DGX GB300，老黄亲自登门送给他",
+      "link": "https://www.qbitai.com/2026/03/389255.html",
+      "published": "2026-03-19T07:51:50",
+      "summary": "卡帕西"
+    },
+    {
+      "source": "量子位",
+      "title": "AI球球直播喊话全人类：开源脑机接口，开源科技文明",
+      "link": "https://www.qbitai.com/2026/03/389188.html",
+      "published": "2026-03-19T07:29:19",
+      "summary": "AI球球：为开源脑机而战"
+    },
+    {
+      "source": "Hacker News",
+      "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
+      "link": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
+      "published": "2026-03-19T10:17:46",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47437101\">Comments</a>"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Conway's Game of Life, in real life",
+      "link": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
+      "published": "2026-03-19T03:55:03",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47434732\">Comments</a>"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+      "link": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+      "published": "2026-03-15T15:59:09",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47388658\">Comments</a>"
+    },
+    {
+      "source": "Hacker News",
+      "title": "Warranty Void If Regenerated",
+      "link": "https://nearzero.software/p/warranty-void-if-regenerated",
+      "published": "2026-03-18T20:45:54",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47431237\">Comments</a>"
+    },
+    {
+      "source": "Hacker News",
+      "title": "OpenRocket",
+      "link": "https://openrocket.info/",
+      "published": "2026-03-15T12:20:14",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47386703\">Comments</a>"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "David Sacks’ big Iran warning gets big time ignored",
+      "link": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket",
+      "published": "2026-03-18T18:44:21",
+      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in yo..."
+    },
+    {
+      "source": "The Verge AI",
+      "title": "ChatGPT did not cure a dog’s cancer",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
+      "published": "2026-03-18T18:14:39",
+      "summary": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story spread with the..."
+    },
+    {
+      "source": "The Verge AI",
+      "title": "DLSS 5: Has Nvidia&#8217;s AI graphics technology gone too far?",
+      "link": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering",
+      "published": "2026-03-18T12:30:00",
+      "summary": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gam..."
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse",
+      "link": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
+      "published": "2026-03-17T18:00:00",
+      "summary": "Yesterday Nvidia revealed its latest upscaling tech, called DLSS 5, which it described as \"the company's most significant breakthrough in computer gra..."
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Now everyone in the US is getting Google&#8217;s personalized Gemini AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
+      "published": "2026-03-17T16:33:41",
+      "summary": "Google announced on Tuesday that all users in the US will now have access to its Personal Intelligence feature, which lets you connect various Google ..."
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Musk’s tactic of blaming users for Grok sex images may be foiled by EU law",
+      "link": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/",
+      "published": "2026-03-18T21:32:20",
+      "summary": "Planned EU ban on nudify apps would likely force Musk to make Grok less \"spicy.\""
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Samsung Galaxy S26 Ultra review: Private and performant",
+      "link": "https://arstechnica.com/reviews/2026/03/samsung-galaxy-s26-ultra-review-private-and-performant/",
+      "published": "2026-03-17T14:18:08",
+      "summary": "If you want to spend $1,300 on a phone, it might as well be this one."
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "After complaints, Google will make it easier to disable gen AI search in Photos",
+      "link": "https://arstechnica.com/ai/2026/03/google-backtracks-on-ai-search-in-photos-adds-toggle-for-fast-classic-search/",
+      "published": "2026-03-10T18:37:12",
+      "summary": "One toggle for \"fast classic search.\""
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Gemini burrows deeper into Google Workspace with revamped document creation and editing",
+      "link": "https://arstechnica.com/ai/2026/03/gemini-burrows-deeper-into-google-workspace-with-revamped-document-creation-and-editing/",
+      "published": "2026-03-10T16:01:52",
+      "summary": "Gemini can now pull context from your files, emails, and more to create and edit documents."
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Google's new command-line tool can plug OpenClaw into your Workspace data",
+      "link": "https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/",
+      "published": "2026-03-06T19:56:20",
+      "summary": "This could make it easier to use multiple Workspace APIs, but it's not yet an official Google product."
+    },
+    {
+      "source": "36氪",
+      "title": "氪星晚报｜澳大利亚就业依然强劲，支持澳央行的鹰派立场；首款国产化“龙虾云电脑”发布；法官下令恢复美国之音员工职务，推翻特朗普关停决定",
+      "link": "https://36kr.com/p/3729727275220613?f=rss",
+      "published": "2026-03-19T10:39:47",
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://www.36kr.com/newsflashes/3729201896996481\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>马斯克：..."
+    },
+    {
+      "source": "36氪",
+      "title": "AWE 2026观察：AI重构家庭空间",
+      "link": "https://36kr.com/p/3729551142534532?f=rss",
+      "published": "2026-03-19T08:27:34",
+      "summary": "<p>作者：王利</p>\n  <p>编辑：王小坤</p>\n  <p>想象一下，你身处一间密闭场所，四周音箱环绕。接着，音乐响起，声音从不同方向传来：有的掠过头顶，有的在左耳回响，每个声源的位置都清晰可辨。随后，你戴上一副耳机。奇怪的是，耳机隔音似乎并不好，外面声音清晰依旧。听了一会，你有些腻了，摘下..."
+    },
+    {
+      "source": "36氪",
+      "title": "超级创业者时代：如何让个人拥有组织级能力",
+      "link": "https://36kr.com/p/3729545296559749?f=rss",
+      "published": "2026-03-19T07:45:41",
+      "summary": "<h3><strong>序章｜一个人，就是一家公司：第四次个体经济浪潮正在爆发</strong></h3>\n  <p>历史上每一次生产关系的重构，都诞生于旧有组织形态的瓶颈与新技术力量的碰撞。从1980年代的街头个体户，到1999年《个人独资企业法》确立的法人主体，再到2014年“大众创业、万众创新..."
+    },
+    {
+      "source": "36氪",
+      "title": "长三角企业国际化合作发展交流会暨新华·中国企业出海合作中心（长三角）在宁启幕",
+      "link": "https://36kr.com/p/3729511818001799?f=rss",
+      "published": "2026-03-19T06:55:53",
+      "summary": "<p>3月17日，以“从长三角到全球：共筑企业出海新航线”为主题的长三角企业国际化合作发展交流会暨“新华·中国企业出海合作中心（长三角）”启动仪式在南京新华国际会议中心隆重举行，活动由香港长三角企业家国际联盟与江苏省国际商会联合主办。</p>\n  <p class=\"image-wrapper\"><..."
+    },
+    {
+      "source": "36氪",
+      "title": "因胜传媒成功协办长三角企业国际化合作发展交流会",
+      "link": "https://36kr.com/p/3729505125350792?f=rss",
+      "published": "2026-03-19T06:49:21",
+      "summary": "<p>2026年3月17日，由香港长三角企业家国际联盟与江苏省国际商会联合主办、南京因胜文化传媒有限公司（简称“因胜传媒”）独家协办的“从长三角到全球：共筑企业出海新航线”为主题的长三角企业国际化合作发展交流会暨“新华·中国企业出海合作中心（长三角）”启动仪式在南京新华国际会议中心隆重举行。</p>..."
+    },
+    {
+      "source": "GitHub Blog",
+      "title": "Investing in the people shaping open source and securing the future together",
+      "link": "https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/",
+      "published": "2026-03-17T16:00:00",
+      "summary": "<p>See how GitHub is investing in open source security funding maintainers, partnering with Alpha-Omega, and expanding access to help reduce burden an..."
+    },
+    {
+      "source": "GitHub Blog",
+      "title": "GitHub for Beginners: Getting started with GitHub Actions",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/",
+      "published": "2026-03-16T16:00:00",
+      "summary": "<p>Set up your first GitHub Actions workflow in this how-to guide.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beg..."
+    },
+    {
+      "source": "GitHub Blog",
+      "title": "Continuous AI for accessibility: How GitHub transforms feedback into inclusion",
+      "link": "https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/",
+      "published": "2026-03-12T16:00:00",
+      "summary": "<p>AI automates triage for accessibility feedback, allowing us to focus on fixing barriers—turning a chaotic backlog into continuous, rapid resolution..."
+    },
+    {
+      "source": "GitHub Blog",
+      "title": "GitHub availability report: February 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-february-2026/",
+      "published": "2026-03-12T03:23:54",
+      "summary": "<p>In February, we experienced six incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blo..."
+    },
+    {
+      "source": "GitHub Blog",
+      "title": "Addressing GitHub’s recent availability issues",
+      "link": "https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/",
+      "published": "2026-03-11T21:41:51",
+      "summary": "<p>GitHub recently experienced several availability incidents. We understand the impact these outages have on our customers and are sharing details on..."
+    },
+    {
+      "source": "雷锋网",
+      "title": "电商版“龙虾”来了！阿里悟空发布，用AI帮商家7✖️24小时经营淘宝天猫店",
+      "link": "https://www.leiphone.com/category/industrynews/9lko1QGOpLvQcCZo.html",
+      "published": "2026-03-19T04:21:00",
+      "summary": "<p>电商版“龙虾”来了！近日，阿里巴巴正式推出全球首个企业级AI原生工作平台——“悟空”，在电商领域，淘宝、天猫核心经营能力将以Skill（技能模块）形式陆续接入，商家可以像搭积木一样，把这些Skill进行组合并在悟空上创造自己的AI工作流，搭建出一支可随时随地待命的覆盖开店、选品、营销、运营、发..."
+    },
+    {
+      "source": "雷锋网",
+      "title": "XR研究院数据：千问AI眼镜开售首周占据超70%线上份额",
+      "link": "https://www.leiphone.com/category/industrynews/fJAEnDT5kGypFxPV.html",
+      "published": "2026-03-19T03:27:00",
+      "summary": "<p>3月18日晚，XR研究院发布数据显示，千问AI眼镜自3月8日正式开售至3月15日，线上累计销量占国内AI智能眼镜市场总份额超70%，并连续8日稳居天猫、京东、抖音三大主流电商平台销量第一。</p><p>3月8日，千问首款同名AI硬件——千问AI眼镜G1正式发售。XR研究院对其进行跟踪，数据显示..."
+    },
+    {
+      "source": "雷锋网",
+      "title": "「日本最强AI」塌房！扒开代码全是DeepSeek，日本网友集体破防；腾讯年报披露：人均年薪成本超百万；网易否认「使用AI清退全部外包员工」",
+      "link": "https://www.leiphone.com/category/zaobao/kxvg430v4xWJt2Kw.html",
+      "published": "2026-03-19T01:04:00",
+      "summary": "<p style=\"text-align: center;\"><strong><span style=\"font-size: 24px;\">要闻提示</span></strong><br /></p><p style=\"text-align: justify;\">1.「日本最强AI」塌房了！扒开代码..."
+    },
+    {
+      "source": "雷锋网",
+      "title": "大模型不是银弹，自动驾驶仍有硬骨头",
+      "link": "https://www.leiphone.com/category/industrynews/6EKBBIHoW4kdGCAe.html",
+      "published": "2026-03-18T10:47:00",
+      "summary": "<p>每年的NVIDIA GTC，都是AI技术路线的风向标。</p><p>在这个舞台上，芯片、机器人、自动驾驶、AI模型交织在一起，讨论的往往不是某个产品，而是下一代技术范式。</p><p style=\"text-align: center;\"><img src=\"https://static.le..."
+    },
+    {
+      "source": "雷锋网",
+      "title": "淘天开启2027届实习生招聘：岗位全面拥抱AI，新增3类AI岗位",
+      "link": "https://www.leiphone.com/category/industrynews/ahNd1lApFdaIlcHH.html",
+      "published": "2026-03-18T07:42:00",
+      "summary": "<p style=\"text-align: center;\">&nbsp;<img src=\"https://static.leiphone.com/uploads/new/images/20260318/69ba5707a2f79.png?imageView2/2/w/740\" /></p><p ..."
+    },
+    {
+      "source": "InfoQ",
+      "title": "从AI编程到Agent开发 九章云极智算云助力生态普惠升级",
+      "link": "https://www.infoq.cn/article/d0fGGHB46WOiqtAUbgAF?utm_source=rss&utm_medium=article",
+      "published": "2026-03-19T15:04:13",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/d0fGGHB46WOiqtAUbgAF?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "source": "InfoQ",
+      "title": "发 token 当工资？工程师不只拿现金和期权，开始按 token 分身价了",
+      "link": "https://www.infoq.cn/article/ChuKpAjxIo4oA3DwsdD3?utm_source=rss&utm_medium=article",
+      "published": "2026-03-19T14:40:13",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ChuKpAjxIo4oA3DwsdD3?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "source": "InfoQ",
+      "title": "极客部落“OPC 创业者招募计划”正式启动 —— 携手朝阳区赋能 AI 时代独角兽，助推人才高质量发展",
+      "link": "https://www.infoq.cn/article/LbxEy5EyhN3e4CW05IIw?utm_source=rss&utm_medium=article",
+      "published": "2026-03-19T14:39:48",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/LbxEy5EyhN3e4CW05IIw?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "source": "InfoQ",
+      "title": "神秘爆款模型被小米认领！雷军直言超过马斯克 xAI Grok，罗福莉透露MiMo-V2-Pro将开源",
+      "link": "https://www.infoq.cn/article/RrUxZpVIe44S0slaHvr5?utm_source=rss&utm_medium=article",
+      "published": "2026-03-19T14:35:51",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/RrUxZpVIe44S0slaHvr5?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "source": "InfoQ",
+      "title": "ClickHouse 不再只有一个主索引：投影正式进化为真正的二级索引，查询提速 90%",
+      "link": "https://www.infoq.cn/article/qlqzZhgDNtM7eeuNsgGm?utm_source=rss&utm_medium=article",
+      "published": "2026-03-19T12:07:46",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/qlqzZhgDNtM7eeuNsgGm?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>"
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "OpenClaw demand in China is driving up the price of used MacBooks",
+      "link": "https://www.cnbc.com/2026/03/19/openclaw-demand-in-china-is-driving-up-the-price-of-secondhand-macbooks.html",
+      "published": "2026-03-19T11:02:11",
+      "summary": "People in China are rushing to buy preowned computers to try OpenClaw with demand for MacBooks particularly high, according to one reseller."
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "Here are the five key takeaways from this week's Fed meeting",
+      "link": "https://www.cnbc.com/2026/03/18/here-are-the-five-key-takeaways-from-this-weeks-fed-meeting.html",
+      "published": "2026-03-19T03:01:27",
+      "summary": "While no one expected the Fed to cut — much less hike — at this meeting, the market always looks for clues about what's next."
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "Fed still expects to cut rates once this year despite spiking oil prices",
+      "link": "https://www.cnbc.com/2026/03/18/dot-plot-fed-still-expects-to-cut-rates-once-this-year-despite-spiking-oil-prices-.html",
+      "published": "2026-03-18T18:59:40",
+      "summary": "The central bank's so-called dot plot showed a median estimate of 3.4% for the federal funds rate, the same as at the end of last year."
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "Here's what changed in the new Fed statement",
+      "link": "https://www.cnbc.com/2026/03/18/federal-reserve-meeting-statement-march.html",
+      "published": "2026-03-18T18:05:12",
+      "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in Janua..."
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "Fed votes to hold rates steady, notes 'uncertain' impacts from Iran war",
+      "link": "https://www.cnbc.com/2026/03/18/fed-interest-rate-decision-march-2026.html",
+      "published": "2026-03-19T03:01:02",
+      "summary": "The Federal Reserve on Wednesday released its decision in interest rates."
+    },
+    {
+      "source": "Fortune",
+      "title": "Exclusive: Posh lands $37M Series B to crack the ‘what are we doing tonight?’ problem",
+      "link": "https://fortune.com/2026/03/19/exclusive-posh-lands-37m-series-b-what-are-we-doing-tonight-problem/",
+      "published": "2026-03-19T11:25:56",
+      "summary": "The startup founded by two NYU students wants to turn your group chat into an actual plan—and has already processed $350 million in ticket sales."
+    },
+    {
+      "source": "Fortune",
+      "title": "The ‘vibe coding’ threat to enterprise software is overblown, Workday’s CEO says—here’s his vision for what actually comes next",
+      "link": "https://fortune.com/2026/03/18/workday-ceo-aneel-bhusri-what-comes-next-ai/",
+      "published": "2026-03-18T12:43:21",
+      "summary": "Workday's new Sana tools signal a shift toward AI agents in the future of finance."
+    },
+    {
+      "source": "Fortune",
+      "title": "Sunway Healthcare surges in first trading day, with hospital demand set to rise in a wealthier and older Malaysia",
+      "link": "https://fortune.com/2026/03/19/sunway-healthcare-ipo-malaysia-private-hospitals/",
+      "published": "2026-03-19T10:05:08",
+      "summary": "Malaysia has a rapidly aging population, with 14.5% of its population set to be 65 and older by 2040."
+    },
+    {
+      "source": "Fortune",
+      "title": "My daughters are entering the workforce in the AI era. Hard work isn’t enough anymore",
+      "link": "https://fortune.com/2026/03/19/gen-z-workforce-advice-ai-career-communication/",
+      "published": "2026-03-19T10:00:00",
+      "summary": "The \"first one in, last one out\" formula built careers for decades. As a CEO, I see that my daughters will need something different to succeed."
+    },
+    {
+      "source": "Fortune",
+      "title": "UL Solutions rolls out a new standard to fill a gap in AI regulation: ‘Innovation without safety is failure’",
+      "link": "https://fortune.com/2026/03/19/ul-solutions-new-standard-ceo-jennifer-scanlon/",
+      "published": "2026-03-19T09:08:14",
+      "summary": "Also: All the news and watercooler chat from Fortune."
+    },
+    {
+      "source": "The Guardian Tech",
+      "title": "Inside China’s robotics revolution",
+      "link": "https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution",
+      "published": "2026-03-19T05:01:00",
+      "summary": "<p>How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out </p><p>Chen Liang, t..."
+    },
+    {
+      "source": "The Guardian Tech",
+      "title": "‘We don’t tell the car what it should do’: my ride in a self-driving taxi",
+      "link": "https://www.theguardian.com/technology/2026/mar/19/my-ride-in-a-self-driving-taxi-london",
+      "published": "2026-03-19T05:01:00",
+      "summary": "<p>Driverless ‘robotaxis’ will be accepting fares in Britain’s biggest city by the end of next year. Can they deal with London’s medieval roads, horde..."
+    },
+    {
+      "source": "The Guardian Tech",
+      "title": "US startup advertises ‘AI bully’ role to test patience of leading chatbots",
+      "link": "https://www.theguardian.com/technology/2026/mar/19/us-startup-advertises-ai-bully-role-to-test-patience-of-leading-chatbots",
+      "published": "2026-03-19T10:00:05",
+      "summary": "<p>$800-a-day position involves exposing a chatbot’s inconsistencies as it forgets, fudges or hallucinates</p><p>Imagine a day at work where your main..."
+    },
+    {
+      "source": "The Guardian Tech",
+      "title": "Inside the fiery, deadly crashes involving the Tesla Cybertruck",
+      "link": "https://www.theguardian.com/technology/2026/mar/18/tesla-cybertruck-crashes-battery-fires",
+      "published": "2026-03-18T13:00:30",
+      "summary": "<p>Cybertrucks have locked passengers inside and burned so hot they’ve disintegrated drivers’ bones. Victims’ families blame what they say is the faul..."
+    },
+    {
+      "source": "The Guardian Tech",
+      "title": "We asked experts about the most responsible ways to use AI tools – here’s what they said",
+      "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/18/how-to-use-ai-tools-expert-guide",
+      "published": "2026-03-18T11:00:40",
+      "summary": "<p>Use AI as a brainstorming partner and organizer, but don’t outsource your judgment</p><ul><li><p><a href=\"https://www.theguardian.com/lifeandstyle/..."
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Generative AI-assisted Participatory Modeling in Socio-Environmental Planning under Deep Uncertainty",
+      "link": "https://arxiv.org/abs/2603.17021",
+      "published": "2026-03-19T04:00:00",
+      "summary": "arXiv:2603.17021v1 Announce Type: new \nAbstract: Socio-environmental planning under deep uncertainty requires researchers to identify and conceptualiz..."
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Transformers are Bayesian Networks",
+      "link": "https://arxiv.org/abs/2603.17063",
+      "published": "2026-03-19T04:00:00",
+      "summary": "arXiv:2603.17063v1 Announce Type: new \nAbstract: Transformers are the dominant architecture in AI, yet why they work remains poorly understood. This p..."
+    },
+    {
+      "source": "arXiv AI",
+      "title": "Cascade-Aware Multi-Agent Routing: Spatio-Temporal Sidecars and Geometry-Switching",
+      "link": "https://arxiv.org/abs/2603.17112",
+      "published": "2026-03-19T04:00:00",
+      "summary": "arXiv:2603.17112v1 Announce Type: new \nAbstract: A common architectural pattern in advanced AI reasoning systems is the symbolic graph network: specia..."
+    },
+    {
+      "source": "arXiv AI",
+      "title": "How Clued up are LLMs? Evaluating Multi-Step Deductive Reasoning in a Text-Based Game Environment",
+      "link": "https://arxiv.org/abs/2603.17169",
+      "published": "2026-03-19T04:00:00",
+      "summary": "arXiv:2603.17169v1 Announce Type: new \nAbstract: Deducing whodunit proves challenging for LLM agents. In this paper, we implement a text-based multi-a..."
+    },
+    {
+      "source": "arXiv AI",
+      "title": "AI Scientist via Synthetic Task Scaling",
+      "link": "https://arxiv.org/abs/2603.17216",
+      "published": "2026-03-19T04:00:00",
+      "summary": "arXiv:2603.17216v1 Announce Type: new \nAbstract: With the advent of AI agents, automatic scientific discovery has become a tenable goal. Many recent w..."
+    },
+    {
+      "source": "arXiv NLP",
+      "title": "Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context",
+      "link": "https://arxiv.org/abs/2603.15653",
+      "published": "2026-03-19T04:00:00",
+      "summary": "arXiv:2603.15653v1 Announce Type: new \nAbstract: Long-context handling remains a core challenge for language models: even with extended context window..."
+    },
+    {
+      "source": "arXiv NLP",
+      "title": "MedArena: Comparing LLMs for Medicine-in-the-Wild Clinician Preferences",
+      "link": "https://arxiv.org/abs/2603.15677",
+      "published": "2026-03-19T04:00:00",
+      "summary": "arXiv:2603.15677v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly central to clinician workflows, spanning clinical decis..."
+    },
+    {
+      "source": "arXiv NLP",
+      "title": "MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification",
+      "link": "https://arxiv.org/abs/2603.15726",
+      "published": "2026-03-19T04:00:00",
+      "summary": "arXiv:2603.15726v1 Announce Type: new \nAbstract: We present MiroThinker-1.7, a new research agent designed for complex long-horizon reasoning tasks. B..."
+    },
+    {
+      "source": "arXiv NLP",
+      "title": "Morphemes Without Borders: Evaluating Root-Pattern Morphology in Arabic Tokenizers and LLMs",
+      "link": "https://arxiv.org/abs/2603.15773",
+      "published": "2026-03-19T04:00:00",
+      "summary": "arXiv:2603.15773v1 Announce Type: new \nAbstract: This work investigates how effectively large language models (LLMs) and their tokenization schemes re..."
+    },
+    {
+      "source": "arXiv NLP",
+      "title": "COGNAC at SemEval-2026 Task 5: LLM Ensembles for Human-Level Word Sense Plausibility Rating in Challenging Narratives",
+      "link": "https://arxiv.org/abs/2603.15897",
+      "published": "2026-03-19T04:00:00",
+      "summary": "arXiv:2603.15897v1 Announce Type: new \nAbstract: We describe our system for SemEval-2026 Task 5, which requires rating the plausibility of given word ..."
+    },
+    {
+      "source": "199IT",
+      "title": "人力资本的关键场域：家庭、社区与职场",
+      "link": "http://www.199it.com/archives/1817298.html",
+      "published": "2026-03-18T22:00:43",
+      "summary": "数据显示，过去15年中，约三分之二的中低收入国家在人力资本关键指标上出现停滞甚至倒退，学习能力、健康水平与在岗技能均未改善 。"
+    },
+    {
+      "source": "199IT",
+      "title": "从ROI工具到增长引擎：绩效营销的再进化",
+      "link": "http://www.199it.com/archives/1790139.html",
+      "published": "2026-03-18T21:30:22",
+      "summary": "整体来看，绩效营销正处于从执行工具向增长操作系统跃迁的关键阶段。未来的竞争不再取决于预算规模或投放速度，而取决于测量体系的深度、内容生产的规模化能力以及组织内部的协同效率。能够打通数据、技术与创意，并实现品牌、绩效与客户体验一体化的企业，将在新一轮营销变革中获得持续性的结构优势。"
+    },
+    {
+      "source": "199IT",
+      "title": "KORN FERRY：2025年劳动力变革洞察报告",
+      "link": "http://www.199it.com/archives/1817297.html",
+      "published": "2026-03-18T20:38:41",
+      "summary": "2025年的劳动力市场呈现出明显的结构性重构。企业端通过削减层级、收紧薪酬与强化管理试图恢复效率，而员工端则在灵活性、收入与技术能力上提出更高要求，双方之间的权力博弈正在重塑组织运行逻辑。"
+    },
+    {
+      "source": "199IT",
+      "title": "BCG：企业如何应对气候挑战并创造价值",
+      "link": "http://www.199it.com/archives/1786324.html",
+      "published": "2026-03-18T20:00:27",
+      "summary": "从外部看，企业气候行动似乎正陷入停滞。仅有7%的企业完整报告范围1、2和3的温室气体排放量——低于2024年的9%和2023年的10%。同样，设定全范围减排目标的企业数量较2023年19%的峰值同比下降了三个百分点。气候相关风险的衡量也有限，仅12%的企业评估所有类型的实体风险与转型风险。"
+    },
+    {
+      "source": "199IT",
+      "title": "Gartner：2026年全球IT支出达到6.15万亿美元 同比增长10.8%",
+      "link": "http://www.199it.com/archives/1811318.html",
+      "published": "2026-03-18T18:00:08",
+      "summary": "全球IT支出预计将在2026年达到6.15万亿美元，较2025年增长10.8%。"
+    },
+    {
+      "source": "机器之心",
+      "title": "脑机接口赛道爆发在即，一场由AI主导的全球直播在发出什么预警？",
+      "link": "https://www.jiqizhixin.com/articles",
+      "published": "2026-03-19T12:00:00.540370",
+      "summary": ""
+    },
+    {
+      "source": "机器之心",
+      "title": "因聚而升，融智有为：华为中国合作伙伴大会2026成功启幕",
+      "link": "https://www.jiqizhixin.com/articles",
+      "published": "2026-03-19T12:00:00.540520",
+      "summary": ""
+    },
+    {
+      "source": "机器之心",
+      "title": "飞书发布飞书版“小龙虾”  用户一下点击即可拥有专属 Agent",
+      "link": "https://www.jiqizhixin.com/articles",
+      "published": "2026-03-19T12:00:00.540611",
+      "summary": ""
+    },
+    {
+      "source": "机器之心",
+      "title": "行业里程碑！智元 × 清华 × 麦吉尔：全球首创 MANSION 框架，打造下一代具身智能 “试验场”",
+      "link": "https://www.jiqizhixin.com/articles",
+      "published": "2026-03-19T12:00:00.540694",
+      "summary": ""
+    },
+    {
+      "source": "机器之心",
+      "title": "华为发布全新AI数据基础设施，加速全场景推理体验升级",
+      "link": "https://www.jiqizhixin.com/articles",
+      "published": "2026-03-19T12:00:00.540772",
+      "summary": ""
+    },
+    {
+      "source": "新智元",
+      "title": "企业级场景硬碰硬！国产智能体bit-Agent小青龙正面挑战OpenClaw小龙虾",
+      "link": "https://ailab.cn/20260313164742_1/",
+      "published": "2026-03-19T12:00:08.513822",
+      "summary": ""
+    },
+    {
+      "source": "新智元",
+      "title": "AI杀死SaaS？这个问题也许问错了",
+      "link": "https://ailab.cn/20260319164771_1/",
+      "published": "2026-03-19T12:00:08.513951",
+      "summary": ""
+    },
+    {
+      "source": "新智元",
+      "title": "两业融合的广州解法：AI如何串起一座城",
+      "link": "https://ailab.cn/20260319164756_1/",
+      "published": "2026-03-19T12:00:08.514035",
+      "summary": ""
+    },
+    {
+      "source": "新智元",
+      "title": "获近亿元融资，一家AI公司的两周转型小龙虾实战故事",
+      "link": "https://ailab.cn/20260310164710_1/",
+      "published": "2026-03-19T12:00:08.514118",
+      "summary": ""
+    },
+    {
+      "source": "新智元",
+      "title": "构建会思考的测试Agent：从自动化到自主智能的演进",
+      "link": "https://ailab.cn/20260311164728_1/",
+      "published": "2026-03-19T12:00:08.514197",
+      "summary": ""
+    }
+  ]
+}

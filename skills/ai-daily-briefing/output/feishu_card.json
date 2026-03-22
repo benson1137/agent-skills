@@ -1,0 +1,149 @@
+{
+  "config": {
+    "wide_screen_mode": true
+  },
+  "header": {
+    "title": {
+      "tag": "plain_text",
+      "content": "📰 AI每日简报"
+    },
+    "subtitle": {
+      "tag": "plain_text",
+      "content": "2026年03月19日 | 共85条"
+    },
+    "template": "blue"
+  },
+  "elements": [
+    {
+      "tag": "div",
+      "text": {
+        "tag": "lark_md",
+        "content": "**🤖 AI科技板块**"
+      }
+    },
+    {
+      "tag": "div",
+      "text": {
+        "tag": "lark_md",
+        "content": "• [TechCrunch AI] Multiverse Computing pushes its compressed AI mode...\n  [查看详情](https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/)"
+      }
+    },
+    {
+      "tag": "div",
+      "text": {
+        "tag": "lark_md",
+        "content": "• [TechCrunch AI] Meta is having trouble with rogue AI agents...\n  [查看详情](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/)"
+      }
+    },
+    {
+      "tag": "div",
+      "text": {
+        "tag": "lark_md",
+        "content": "• [TechCrunch AI] Sam Altman’s thank-you to coders draws the memes...\n  [查看详情](https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/)"
+      }
+    },
+    {
+      "tag": "hr"
+    },
+    {
+      "tag": "div",
+      "text": {
+        "tag": "lark_md",
+        "content": "**💼 商业财经板块**"
+      }
+    },
+    {
+      "tag": "div",
+      "text": {
+        "tag": "lark_md",
+        "content": "• [CNBC Finance] OpenClaw demand in China is driving up the price o...\n  [查看详情](https://www.cnbc.com/2026/03/19/openclaw-demand-in-china-is-driving-up-the-price-of-secondhand-macbooks.html)"
+      }
+    },
+    {
+      "tag": "div",
+      "text": {
+        "tag": "lark_md",
+        "content": "• [CNBC Finance] Here are the five key takeaways from this week's F...\n  [查看详情](https://www.cnbc.com/2026/03/18/here-are-the-five-key-takeaways-from-this-weeks-fed-meeting.html)"
+      }
+    },
+    {
+      "tag": "div",
+      "text": {
+        "tag": "lark_md",
+        "content": "• [CNBC Finance] Fed still expects to cut rates once this year desp...\n  [查看详情](https://www.cnbc.com/2026/03/18/dot-plot-fed-still-expects-to-cut-rates-once-this-year-despite-spiking-oil-prices-.html)"
+      }
+    },
+    {
+      "tag": "hr"
+    },
+    {
+      "tag": "div",
+      "text": {
+        "tag": "lark_md",
+        "content": "**🎓 学术研究板块**"
+      }
+    },
+    {
+      "tag": "div",
+      "text": {
+        "tag": "lark_md",
+        "content": "• [arXiv AI] Generative AI-assisted Participatory Modeling in S...\n  [查看详情](https://arxiv.org/abs/2603.17021)"
+      }
+    },
+    {
+      "tag": "div",
+      "text": {
+        "tag": "lark_md",
+        "content": "• [arXiv AI] Transformers are Bayesian Networks...\n  [查看详情](https://arxiv.org/abs/2603.17063)"
+      }
+    },
+    {
+      "tag": "div",
+      "text": {
+        "tag": "lark_md",
+        "content": "• [arXiv AI] Cascade-Aware Multi-Agent Routing: Spatio-Temporal...\n  [查看详情](https://arxiv.org/abs/2603.17112)"
+      }
+    },
+    {
+      "tag": "hr"
+    },
+    {
+      "tag": "div",
+      "text": {
+        "tag": "lark_md",
+        "content": "**📜 政策与产业板块**"
+      }
+    },
+    {
+      "tag": "div",
+      "text": {
+        "tag": "lark_md",
+        "content": "• [199IT] 人力资本的关键场域：家庭、社区与职场...\n  [查看详情](http://www.199it.com/archives/1817298.html)"
+      }
+    },
+    {
+      "tag": "div",
+      "text": {
+        "tag": "lark_md",
+        "content": "• [199IT] 从ROI工具到增长引擎：绩效营销的再进化...\n  [查看详情](http://www.199it.com/archives/1790139.html)"
+      }
+    },
+    {
+      "tag": "div",
+      "text": {
+        "tag": "lark_md",
+        "content": "• [199IT] KORN FERRY：2025年劳动力变革洞察报告...\n  [查看详情](http://www.199it.com/archives/1817297.html)"
+      }
+    },
+    {
+      "tag": "hr"
+    },
+    {
+      "tag": "div",
+      "text": {
+        "tag": "lark_md",
+        "content": "**📊 统计** | AI科技: 55条 | 商业财经: 15条 | 学术研究: 10条 | 政策产业: 5条"
+      }
+    }
+  ]
+}

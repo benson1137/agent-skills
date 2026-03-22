@@ -1,0 +1,948 @@
+{
+  "date": "2026-03-22",
+  "total": 57,
+  "by_source": {
+    "TechCrunch AI": [
+      {
+        "source": "TechCrunch AI",
+        "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+        "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+        "published": "2026-03-21T19:30:27",
+        "summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+        "category": "AI科技"
+      },
+      {
+        "source": "TechCrunch AI",
+        "title": "Delve accused of misleading customers with ‘fake compliance’",
+        "link": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+        "published": "2026-03-21T17:00:05",
+        "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+        "category": "AI科技"
+      },
+      {
+        "source": "TechCrunch AI",
+        "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+        "link": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+        "published": "2026-03-21T16:28:00",
+        "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
+        "category": "AI科技"
+      }
+    ],
+    "The Verge AI": [
+      {
+        "source": "The Verge AI",
+        "title": "The gen AI Kool-Aid tastes like eugenics",
+        "link": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
+        "published": "2026-03-21T14:00:00",
+        "summary": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, ...",
+        "category": "AI科技"
+      },
+      {
+        "source": "The Verge AI",
+        "title": "Gemini task automation is slow, clunky, and super impressive",
+        "link": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+        "published": "2026-03-21T11:30:00",
+        "summary": "I've been testing out Gemini's new task automation on the Pixel 10 Pro and the Galaxy S26 Ultra, which for the first time lets Gemini take the wheel and use apps for you. It's limited to a small subse...",
+        "category": "AI科技"
+      }
+    ],
+    "InfoQ": [
+      {
+        "source": "InfoQ",
+        "title": "MCP Gateway：构建下一代 AI Agent 的“中枢网关”｜QCon北京",
+        "link": "https://www.infoq.cn/article/wwu9ccjyS00J9YMgKHI7?utm_source=rss&utm_medium=article",
+        "published": "2026-03-22T10:02:00",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/wwu9ccjyS00J9YMgKHI7?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "Java近期资讯：Apache Solr 10、LangChain4j、Grails、JobRunr、Gradle、Devnexus和Commonhaus",
+        "link": "https://www.infoq.cn/article/ia7cifkMwDqYjd1FsdEQ?utm_source=rss&utm_medium=article",
+        "published": "2026-03-22T08:00:00",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ia7cifkMwDqYjd1FsdEQ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "宇树科技靠融资还是靠卖货活着？翻完招股书，我们挖到了这8个关键点",
+        "link": "https://www.infoq.cn/article/lOkVPrOqAP8df2JEbwmU?utm_source=rss&utm_medium=article",
+        "published": "2026-03-21T21:06:36",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/lOkVPrOqAP8df2JEbwmU?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "Cursor 新模型被指就是Kimi K2.5，联创回应：确实是，下次我们会说清楚",
+        "link": "https://www.infoq.cn/article/Uo9qDPlcoExt95xUG8N4?utm_source=rss&utm_medium=article",
+        "published": "2026-03-21T18:00:00",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Uo9qDPlcoExt95xUG8N4?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      }
+    ],
+    "Hacker News": [
+      {
+        "source": "Hacker News",
+        "title": "Tinybox – Offline AI device 120B parameters",
+        "link": "https://tinygrad.org/#tinybox",
+        "published": "2026-03-21T20:08:37",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47470773\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Professional video editing, right in the browser with WebGPU and WASM",
+        "link": "https://tooscut.app/",
+        "published": "2026-03-21T21:27:50",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47471601\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Why craft-lovers are losing their craft",
+        "link": "https://writings.hongminhee.org/2026/03/craft-alienation-llm/",
+        "published": "2026-03-22T00:46:32",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47473178\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Some things just take time",
+        "link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+        "published": "2026-03-21T14:46:56",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47467537\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Chest Fridge",
+        "link": "https://mtbest.net/chest-fridge/",
+        "published": "2026-03-22T01:02:10",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47473279\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Three Pillars of JavaScript Bloat",
+        "link": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+        "published": "2026-03-22T02:04:31",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47473718\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Do Not Turn Child Protection into Internet Access Control",
+        "link": "https://news.dyne.org/child-protection-is-not-access-control/",
+        "published": "2026-03-21T20:32:20",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47470991\">Comments</a>",
+        "category": "AI科技"
+      }
+    ],
+    "机器之心": [
+      {
+        "source": "机器之心",
+        "title": "谷歌Stitch「氛围设计」干崩Figma 8.8%股价：十年经验，败给巨头一次更新（附实测）",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.440138",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "比现有框架快22倍，浙大开源EasySteer：高性能LLM Steering统一框架",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.440353",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "「龙虾」爆火，token成「硬通货」后，这场AI比赛变得更重要了",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.440509",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "画质革命还是AI整容？DLSS 5引爆全网争议，老黄亲自下场论战",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.440659",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "ICLR 2026 | 清华提出交叉熵分解：“误差熵”才是大模型规模定律真正的驱动项",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.440805",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "Cursor套壳Kimi被抓包记",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.440956",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "ICLR 2026 | 大模型的无监督强化学习能走多远？清华团队给出了系统性答案",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.441112",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "ICLR 2026 | Shop-R1: 给AI补上「内心戏」，在RL博弈中复刻人类网购脑",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.441264",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "超越OpenClaw表象，这场闭门会直击下一代智能体范式跃迁",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.441417",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "突发！腾讯AI Lab撤销，部分人员并入混元",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.441567",
+        "summary": "",
+        "category": "AI科技"
+      }
+    ],
+    "新智元": [
+      {
+        "source": "新智元",
+        "title": "企业级场景硬碰硬！国产智能体bit-Agent小青龙正面挑战OpenClaw小龙虾",
+        "link": "https://ailab.cn/20260313164742_1/",
+        "published": "2026-03-22T10:24:24.218118",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "新智元",
+        "title": "AI杀死SaaS？这个问题也许问错了",
+        "link": "https://ailab.cn/20260319164771_1/",
+        "published": "2026-03-22T10:24:24.218308",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "新智元",
+        "title": "两业融合的广州解法：AI如何串起一座城",
+        "link": "https://ailab.cn/20260319164756_1/",
+        "published": "2026-03-22T10:24:24.218452",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "新智元",
+        "title": "获近亿元融资，一家AI公司的两周转型小龙虾实战故事",
+        "link": "https://ailab.cn/20260310164710_1/",
+        "published": "2026-03-22T10:24:24.218573",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "新智元",
+        "title": "构建会思考的测试Agent：从自动化到自主智能的演进",
+        "link": "https://ailab.cn/20260311164728_1/",
+        "published": "2026-03-22T10:24:24.218691",
+        "summary": "",
+        "category": "AI科技"
+      }
+    ],
+    "CNBC Finance": [
+      {
+        "source": "CNBC Finance",
+        "title": "SEC Commissioner Hester Peirce on ETFs: 'We want to work with people on new products'",
+        "link": "https://www.cnbc.com/2026/03/21/crypto-tokenization-and-etfs-secs-peirce-indicates-openness.html",
+        "published": "2026-03-21T15:00:01",
+        "summary": "SEC Commissioner Hester Peirce indicates an openness to work with Wall Street on fresh exchange-traded fund products tied to cryptocurrencies and tokenization.",
+        "category": "商业财经"
+      }
+    ],
+    "Business Insider": [
+      {
+        "source": "Business Insider",
+        "title": "I used Anthropic's Claude to pick Oscar winners at a party. It made odd mistakes, but still beat everyone else.",
+        "link": "https://www.businessinsider.com/anthropic-claude-ai-pick-oscars-ballot-won-jagged-edge-2026-3",
+        "published": "2026-03-21T23:26:36",
+        "summary": "Alistair Barr's AI-assisted Oscars ballot, powered by Anthropic's Claude, outperformed despite missing some categories.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Business Insider",
+        "title": "Work from home and cut frivolous journeys: What countries are telling people to do as oil prices spike",
+        "link": "https://www.businessinsider.com/oil-price-spike-what-countries-are-telling-people-to-do-2026-3",
+        "published": "2026-03-21T20:21:21",
+        "summary": "In the Philippines, government offices have been told to turn down their air conditioning, while in the UK, motorists are being advised to drive less.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Business Insider",
+        "title": "Where TSA wait times are the longest, and how to check if your airport is impacted",
+        "link": "https://www.businessinsider.com/tsa-wait-times-airports-with-longest-delays-how-to-check-2026-3",
+        "published": "2026-03-21T19:41:00",
+        "summary": "Delays at airport security checkpoints around the US are causing major disruption for travelers as unpaid TSA agents stop showing up for work.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Business Insider",
+        "title": "My husband and I have worked together for 15 years — and still like each other. Here's how we manage marriage and our business.",
+        "link": "https://www.businessinsider.com/couple-work-together-keep-marriage-strong-maintain-relationship-2026-3",
+        "published": "2026-03-21T16:25:01",
+        "summary": "Working together — in corporate jobs and with our own business — has taught us key strategies to help both our careers and marriage thrive.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Business Insider",
+        "title": "My mom rarely spoke about the grandmother I never met. Family heirlooms finally opened a door to our family's past.",
+        "link": "https://www.businessinsider.com/heirlooms-photos-helped-uncover-family-past-connect-with-mom-2026-3",
+        "published": "2026-03-21T15:03:01",
+        "summary": "I inherited keepsakes from a grandmother I never knew. Sharing their photos with my mom sparked many conversations about our family's history.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Business Insider",
+        "title": "My twins had never spent more than a night apart. When one went to Europe for 6 weeks, they barely spoke.",
+        "link": "https://www.businessinsider.com/identical-twins-six-weeks-apart-barely-texted-2026-3",
+        "published": "2026-03-21T14:42:01",
+        "summary": "After doing everything together their entire lives, my twin sons separated for six weeks and hardly checked in. It was good for their relationship.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Business Insider",
+        "title": "From suffrage to speakeasies, 65 photos show what life was like for women in the 1920s",
+        "link": "https://www.businessinsider.com/photos-show-life-like-women-100-years-ago",
+        "published": "2026-03-21T14:07:01",
+        "summary": "The 1920s were a period of great change. Vintage photographs provide a glimpse at what life was like for women throughout the decade.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Business Insider",
+        "title": "California settles with school district involved in 2023 Business Insider investigation over its handling of sexual misconduct complaints",
+        "link": "https://www.businessinsider.com/el-monte-settlement-misconduct-complaints-business-insider-investigation-2026-3",
+        "published": "2026-03-21T13:59:40",
+        "summary": "The El Monte Union High School District must appoint a compliance coordinator and roll out an electronic sexual misconduct complaint system.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Business Insider",
+        "title": "Elon Musk offers to pay the salaries of TSA agents as Trump threatens to replace them with ICE",
+        "link": "https://www.businessinsider.com/elon-musk-tsa-salaries-airports-security-lines-2026-3",
+        "published": "2026-03-21T13:38:28",
+        "summary": "Elon Musk wants to pay the salaries of TSA agents who have either been working unpaid or not showing up for work, causing huge lines at US airports.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Business Insider",
+        "title": "I tried 5 fast-food fish sandwiches and ranked them from worst to best",
+        "link": "https://www.businessinsider.com/best-fast-food-fish-sandwiches-ranked-review",
+        "published": "2026-03-21T13:06:01",
+        "summary": "I tried and ranked fish sandwiches from McDonald's, Burger King, Wendy's, and Popeyes.",
+        "category": "商业财经"
+      }
+    ],
+    "Fortune": [
+      {
+        "source": "Fortune",
+        "title": "Trump gives Iran 48 hours on Hormuz, threatens power plants",
+        "link": "https://fortune.com/2026/03/21/trump-iran-war-48-hours-deadline-strait-of-hormuz-power-plants/",
+        "published": "2026-03-22T00:55:45",
+        "summary": "The comments from Trump marked a dramatic escalation his rhetoric about the strait, a day after he said he was thinking about “winding down” the military operation.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "Israel says ‘war is not close to ending’ as its nuclear research center is targeted for first time, hours after Iranian enrichment site was hit",
+        "link": "https://fortune.com/2026/03/21/israel-iran-war-not-close-ending-nuclear-research-center-iranian-enrichment-site/",
+        "published": "2026-03-21T23:34:42",
+        "summary": "Israel's military said it was not able to intercept missiles that hit the southern cities of Dimona and Arad.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "OpenAI plans to almost double its headcount this year, FT says",
+        "link": "https://fortune.com/2026/03/21/openai-double-headcount-this-year-sam-altman-anthropic-google/",
+        "published": "2026-03-21T23:21:47",
+        "summary": "The maker of AI assistant ChatGPT will look to increase headcount to about 8,000 from about 4,500, according to the Financial Times.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "BTS begins comeback tour to reclaim status as one of the world’s biggest pop acts after completing Korea’s mandatory military service",
+        "link": "https://fortune.com/2026/03/21/bts-concert-seoul-comeback-world-tour-album-arirang/",
+        "published": "2026-03-21T23:10:04",
+        "summary": "The hourlong concert came after the group on Friday released its fifth album, “ARIRANG,” which sold nearly 4 million copies in its first day.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "U.S. allows sale of stranded Iran oil to cap fuel-price rises",
+        "link": "https://fortune.com/2026/03/21/us-sanctions-sale-stranded-iran-oil-price-surge-strait-hormuz/",
+        "published": "2026-03-21T22:57:29",
+        "summary": "The measure follows similar moves for Russian oil on the water in a bid to ease an unprecedented fuel supply crunch caused by the war.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "The U.S. has the world’s most advanced military, but the unforgiving economics of wars in Iran and Ukraine show quantity has a quality all its own",
+        "link": "https://fortune.com/2026/03/21/us-military-economics-warfare-iran-ukraine-defense-industrial-base-drones/",
+        "published": "2026-03-21T22:13:01",
+        "summary": "\"The future of warfare is Ukraine producing 7 million drones per year right now,\" former CIA director and retired Gen. David Patraeus said.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "Trump says he will order ICE to airports for security amid government shutdown and vows to arrest ‘all illegal immigrants’",
+        "link": "https://fortune.com/2026/03/21/trump-ice-agent-airports-security-government-shutdown-immigrantion-arrests/",
+        "published": "2026-03-21T19:34:53",
+        "summary": "“I look forward to moving ICE in on Monday, and have already told them to, “GET READY.” NO MORE WAITING, NO MORE GAMES!” Trump wrote.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "It’s not just vaccines. Parents are refusing other routine preventive care for newborns—even protection from severe bleeding and blindness",
+        "link": "https://fortune.com/2026/03/21/anti-vaccine-parents-routine-preventive-care-newborns-vitamin-k-shots/",
+        "published": "2026-03-21T19:24:21",
+        "summary": "A recent study in the Journal of the American Medical Association found that refusals of vitamin K shots nearly doubled between 2017 and 2024, from 2.9% to 5.2%.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "Former FBI Director Robert Mueller, who led agency after 9/11 and investigated Russia-Trump campaign ties, dies at 81",
+        "link": "https://fortune.com/2026/03/21/former-fbi-director-robert-mueller-obituary-9-11-russia-trump-campaign-investigation/",
+        "published": "2026-03-21T19:06:28",
+        "summary": "Mueller was a patrician Princeton graduate and Vietnam veteran who walked away from a lucrative midcareer job to stay in public service.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "OpenAI cofounder says he hasn’t written a line of code in months and is in a ‘state of psychosis’ trying to figure out what’s possible",
+        "link": "https://fortune.com/2026/03/21/andrej-karpathy-openai-cofounder-ai-agents-coding-state-of-psychosis-openclaw/",
+        "published": "2026-03-21T18:18:31",
+        "summary": "\"I don't think a normal person actually realizes that this happened or how dramatic it was.\"",
+        "category": "商业财经"
+      }
+    ],
+    "The Guardian Tech": [
+      {
+        "source": "The Guardian Tech",
+        "title": "‘Thank God they’re still alive’: Kaiser therapists claim its new screening system puts patients at higher risk by delaying their care",
+        "link": "https://www.theguardian.com/technology/2026/mar/21/kaiser-permanente-therapists-ai-strike",
+        "published": "2026-03-21T17:00:57",
+        "summary": "<p>Kaiser pushed back on striking workers’ claims and AI fears, saying it delivers ‘timely, high-quality care to meet members’ needs’</p><p>Ilana Marcucci-Morris is worried about the patients she trea...",
+        "category": "商业财经"
+      },
+      {
+        "source": "The Guardian Tech",
+        "title": "Thousands of people are selling their identities to train AI – but at what cost?",
+        "link": "https://www.theguardian.com/technology/2026/mar/21/ai-trainers-identity-cost",
+        "published": "2026-03-21T14:00:54",
+        "summary": "<p>Gig AI trainers worldwide are selling moments of their lives, including calls and texts, to AI companies for quick cash</p><p>One morning last year, Jacobus Louw set out on his daily neighborhood w...",
+        "category": "商业财经"
+      },
+      {
+        "source": "The Guardian Tech",
+        "title": "‘It’s stupid’: why western carmakers’ retreat from electric risks dooming them to irrelevance",
+        "link": "https://www.theguardian.com/business/2026/mar/21/west-carmakers-retreat-electric-vehicle-risks-irrelevance-iran-war-evs-china",
+        "published": "2026-03-21T12:00:52",
+        "summary": "<p>Iran war should be wake-up call about costs of not going full throttle towards EVs as Chinese have done, experts say</p><p>By the 1980s, Detroit’s once titanic carmakers were being upended by rival...",
+        "category": "商业财经"
+      }
+    ],
+    "199IT": [
+      {
+        "source": "199IT",
+        "title": "货币的未来将走向何方？来自达沃斯领袖的洞见",
+        "link": "http://www.199it.com/archives/1817895.html",
+        "published": "2026-03-21T10:27:45",
+        "summary": "当地缘政治格局持续变动，全球经济经历深刻转型之际，这种调整究竟呈现何种形态？货币的未来又将何去何从？",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "从预测到实践：关于工作的未来，人工智能使用数据揭示了什么",
+        "link": "http://www.199it.com/archives/1817890.html",
+        "published": "2026-03-21T10:26:44",
+        "summary": "直到最近，研究人工智能对劳动力市场影响的研究人员都不得不面对一个根本限制：没有实际使用数据，我们只能依靠“暴露度”进行理论上的衡量，估计不同职业易受人工智能冲击影响的程度。",
+        "category": "政策与产业"
+      }
+    ]
+  },
+  "by_category": {
+    "AI科技": [
+      {
+        "source": "TechCrunch AI",
+        "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+        "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+        "published": "2026-03-21T19:30:27",
+        "summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+        "category": "AI科技"
+      },
+      {
+        "source": "TechCrunch AI",
+        "title": "Delve accused of misleading customers with ‘fake compliance’",
+        "link": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+        "published": "2026-03-21T17:00:05",
+        "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+        "category": "AI科技"
+      },
+      {
+        "source": "TechCrunch AI",
+        "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+        "link": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+        "published": "2026-03-21T16:28:00",
+        "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
+        "category": "AI科技"
+      },
+      {
+        "source": "The Verge AI",
+        "title": "The gen AI Kool-Aid tastes like eugenics",
+        "link": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
+        "published": "2026-03-21T14:00:00",
+        "summary": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, ...",
+        "category": "AI科技"
+      },
+      {
+        "source": "The Verge AI",
+        "title": "Gemini task automation is slow, clunky, and super impressive",
+        "link": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+        "published": "2026-03-21T11:30:00",
+        "summary": "I've been testing out Gemini's new task automation on the Pixel 10 Pro and the Galaxy S26 Ultra, which for the first time lets Gemini take the wheel and use apps for you. It's limited to a small subse...",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "MCP Gateway：构建下一代 AI Agent 的“中枢网关”｜QCon北京",
+        "link": "https://www.infoq.cn/article/wwu9ccjyS00J9YMgKHI7?utm_source=rss&utm_medium=article",
+        "published": "2026-03-22T10:02:00",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/wwu9ccjyS00J9YMgKHI7?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "Java近期资讯：Apache Solr 10、LangChain4j、Grails、JobRunr、Gradle、Devnexus和Commonhaus",
+        "link": "https://www.infoq.cn/article/ia7cifkMwDqYjd1FsdEQ?utm_source=rss&utm_medium=article",
+        "published": "2026-03-22T08:00:00",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ia7cifkMwDqYjd1FsdEQ?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "宇树科技靠融资还是靠卖货活着？翻完招股书，我们挖到了这8个关键点",
+        "link": "https://www.infoq.cn/article/lOkVPrOqAP8df2JEbwmU?utm_source=rss&utm_medium=article",
+        "published": "2026-03-21T21:06:36",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/lOkVPrOqAP8df2JEbwmU?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "Cursor 新模型被指就是Kimi K2.5，联创回应：确实是，下次我们会说清楚",
+        "link": "https://www.infoq.cn/article/Uo9qDPlcoExt95xUG8N4?utm_source=rss&utm_medium=article",
+        "published": "2026-03-21T18:00:00",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/Uo9qDPlcoExt95xUG8N4?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Tinybox – Offline AI device 120B parameters",
+        "link": "https://tinygrad.org/#tinybox",
+        "published": "2026-03-21T20:08:37",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47470773\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Professional video editing, right in the browser with WebGPU and WASM",
+        "link": "https://tooscut.app/",
+        "published": "2026-03-21T21:27:50",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47471601\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Why craft-lovers are losing their craft",
+        "link": "https://writings.hongminhee.org/2026/03/craft-alienation-llm/",
+        "published": "2026-03-22T00:46:32",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47473178\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Some things just take time",
+        "link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+        "published": "2026-03-21T14:46:56",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47467537\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Chest Fridge",
+        "link": "https://mtbest.net/chest-fridge/",
+        "published": "2026-03-22T01:02:10",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47473279\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "The Three Pillars of JavaScript Bloat",
+        "link": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+        "published": "2026-03-22T02:04:31",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47473718\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Do Not Turn Child Protection into Internet Access Control",
+        "link": "https://news.dyne.org/child-protection-is-not-access-control/",
+        "published": "2026-03-21T20:32:20",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47470991\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "谷歌Stitch「氛围设计」干崩Figma 8.8%股价：十年经验，败给巨头一次更新（附实测）",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.440138",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "比现有框架快22倍，浙大开源EasySteer：高性能LLM Steering统一框架",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.440353",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "「龙虾」爆火，token成「硬通货」后，这场AI比赛变得更重要了",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.440509",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "画质革命还是AI整容？DLSS 5引爆全网争议，老黄亲自下场论战",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.440659",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "ICLR 2026 | 清华提出交叉熵分解：“误差熵”才是大模型规模定律真正的驱动项",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.440805",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "Cursor套壳Kimi被抓包记",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.440956",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "ICLR 2026 | 大模型的无监督强化学习能走多远？清华团队给出了系统性答案",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.441112",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "ICLR 2026 | Shop-R1: 给AI补上「内心戏」，在RL博弈中复刻人类网购脑",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.441264",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "超越OpenClaw表象，这场闭门会直击下一代智能体范式跃迁",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.441417",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "突发！腾讯AI Lab撤销，部分人员并入混元",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-22T10:24:15.441567",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "新智元",
+        "title": "企业级场景硬碰硬！国产智能体bit-Agent小青龙正面挑战OpenClaw小龙虾",
+        "link": "https://ailab.cn/20260313164742_1/",
+        "published": "2026-03-22T10:24:24.218118",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "新智元",
+        "title": "AI杀死SaaS？这个问题也许问错了",
+        "link": "https://ailab.cn/20260319164771_1/",
+        "published": "2026-03-22T10:24:24.218308",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "新智元",
+        "title": "两业融合的广州解法：AI如何串起一座城",
+        "link": "https://ailab.cn/20260319164756_1/",
+        "published": "2026-03-22T10:24:24.218452",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "新智元",
+        "title": "获近亿元融资，一家AI公司的两周转型小龙虾实战故事",
+        "link": "https://ailab.cn/20260310164710_1/",
+        "published": "2026-03-22T10:24:24.218573",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "新智元",
+        "title": "构建会思考的测试Agent：从自动化到自主智能的演进",
+        "link": "https://ailab.cn/20260311164728_1/",
+        "published": "2026-03-22T10:24:24.218691",
+        "summary": "",
+        "category": "AI科技"
+      }
+    ],
+    "商业财经": [
+      {
+        "source": "CNBC Finance",
+        "title": "SEC Commissioner Hester Peirce on ETFs: 'We want to work with people on new products'",
+        "link": "https://www.cnbc.com/2026/03/21/crypto-tokenization-and-etfs-secs-peirce-indicates-openness.html",
+        "published": "2026-03-21T15:00:01",
+        "summary": "SEC Commissioner Hester Peirce indicates an openness to work with Wall Street on fresh exchange-traded fund products tied to cryptocurrencies and tokenization.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Business Insider",
+        "title": "I used Anthropic's Claude to pick Oscar winners at a party. It made odd mistakes, but still beat everyone else.",
+        "link": "https://www.businessinsider.com/anthropic-claude-ai-pick-oscars-ballot-won-jagged-edge-2026-3",
+        "published": "2026-03-21T23:26:36",
+        "summary": "Alistair Barr's AI-assisted Oscars ballot, powered by Anthropic's Claude, outperformed despite missing some categories.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Business Insider",
+        "title": "Work from home and cut frivolous journeys: What countries are telling people to do as oil prices spike",
+        "link": "https://www.businessinsider.com/oil-price-spike-what-countries-are-telling-people-to-do-2026-3",
+        "published": "2026-03-21T20:21:21",
+        "summary": "In the Philippines, government offices have been told to turn down their air conditioning, while in the UK, motorists are being advised to drive less.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Business Insider",
+        "title": "Where TSA wait times are the longest, and how to check if your airport is impacted",
+        "link": "https://www.businessinsider.com/tsa-wait-times-airports-with-longest-delays-how-to-check-2026-3",
+        "published": "2026-03-21T19:41:00",
+        "summary": "Delays at airport security checkpoints around the US are causing major disruption for travelers as unpaid TSA agents stop showing up for work.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Business Insider",
+        "title": "My husband and I have worked together for 15 years — and still like each other. Here's how we manage marriage and our business.",
+        "link": "https://www.businessinsider.com/couple-work-together-keep-marriage-strong-maintain-relationship-2026-3",
+        "published": "2026-03-21T16:25:01",
+        "summary": "Working together — in corporate jobs and with our own business — has taught us key strategies to help both our careers and marriage thrive.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Business Insider",
+        "title": "My mom rarely spoke about the grandmother I never met. Family heirlooms finally opened a door to our family's past.",
+        "link": "https://www.businessinsider.com/heirlooms-photos-helped-uncover-family-past-connect-with-mom-2026-3",
+        "published": "2026-03-21T15:03:01",
+        "summary": "I inherited keepsakes from a grandmother I never knew. Sharing their photos with my mom sparked many conversations about our family's history.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Business Insider",
+        "title": "My twins had never spent more than a night apart. When one went to Europe for 6 weeks, they barely spoke.",
+        "link": "https://www.businessinsider.com/identical-twins-six-weeks-apart-barely-texted-2026-3",
+        "published": "2026-03-21T14:42:01",
+        "summary": "After doing everything together their entire lives, my twin sons separated for six weeks and hardly checked in. It was good for their relationship.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Business Insider",
+        "title": "From suffrage to speakeasies, 65 photos show what life was like for women in the 1920s",
+        "link": "https://www.businessinsider.com/photos-show-life-like-women-100-years-ago",
+        "published": "2026-03-21T14:07:01",
+        "summary": "The 1920s were a period of great change. Vintage photographs provide a glimpse at what life was like for women throughout the decade.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Business Insider",
+        "title": "California settles with school district involved in 2023 Business Insider investigation over its handling of sexual misconduct complaints",
+        "link": "https://www.businessinsider.com/el-monte-settlement-misconduct-complaints-business-insider-investigation-2026-3",
+        "published": "2026-03-21T13:59:40",
+        "summary": "The El Monte Union High School District must appoint a compliance coordinator and roll out an electronic sexual misconduct complaint system.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Business Insider",
+        "title": "Elon Musk offers to pay the salaries of TSA agents as Trump threatens to replace them with ICE",
+        "link": "https://www.businessinsider.com/elon-musk-tsa-salaries-airports-security-lines-2026-3",
+        "published": "2026-03-21T13:38:28",
+        "summary": "Elon Musk wants to pay the salaries of TSA agents who have either been working unpaid or not showing up for work, causing huge lines at US airports.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Business Insider",
+        "title": "I tried 5 fast-food fish sandwiches and ranked them from worst to best",
+        "link": "https://www.businessinsider.com/best-fast-food-fish-sandwiches-ranked-review",
+        "published": "2026-03-21T13:06:01",
+        "summary": "I tried and ranked fish sandwiches from McDonald's, Burger King, Wendy's, and Popeyes.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "Trump gives Iran 48 hours on Hormuz, threatens power plants",
+        "link": "https://fortune.com/2026/03/21/trump-iran-war-48-hours-deadline-strait-of-hormuz-power-plants/",
+        "published": "2026-03-22T00:55:45",
+        "summary": "The comments from Trump marked a dramatic escalation his rhetoric about the strait, a day after he said he was thinking about “winding down” the military operation.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "Israel says ‘war is not close to ending’ as its nuclear research center is targeted for first time, hours after Iranian enrichment site was hit",
+        "link": "https://fortune.com/2026/03/21/israel-iran-war-not-close-ending-nuclear-research-center-iranian-enrichment-site/",
+        "published": "2026-03-21T23:34:42",
+        "summary": "Israel's military said it was not able to intercept missiles that hit the southern cities of Dimona and Arad.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "OpenAI plans to almost double its headcount this year, FT says",
+        "link": "https://fortune.com/2026/03/21/openai-double-headcount-this-year-sam-altman-anthropic-google/",
+        "published": "2026-03-21T23:21:47",
+        "summary": "The maker of AI assistant ChatGPT will look to increase headcount to about 8,000 from about 4,500, according to the Financial Times.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "BTS begins comeback tour to reclaim status as one of the world’s biggest pop acts after completing Korea’s mandatory military service",
+        "link": "https://fortune.com/2026/03/21/bts-concert-seoul-comeback-world-tour-album-arirang/",
+        "published": "2026-03-21T23:10:04",
+        "summary": "The hourlong concert came after the group on Friday released its fifth album, “ARIRANG,” which sold nearly 4 million copies in its first day.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "U.S. allows sale of stranded Iran oil to cap fuel-price rises",
+        "link": "https://fortune.com/2026/03/21/us-sanctions-sale-stranded-iran-oil-price-surge-strait-hormuz/",
+        "published": "2026-03-21T22:57:29",
+        "summary": "The measure follows similar moves for Russian oil on the water in a bid to ease an unprecedented fuel supply crunch caused by the war.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "The U.S. has the world’s most advanced military, but the unforgiving economics of wars in Iran and Ukraine show quantity has a quality all its own",
+        "link": "https://fortune.com/2026/03/21/us-military-economics-warfare-iran-ukraine-defense-industrial-base-drones/",
+        "published": "2026-03-21T22:13:01",
+        "summary": "\"The future of warfare is Ukraine producing 7 million drones per year right now,\" former CIA director and retired Gen. David Patraeus said.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "Trump says he will order ICE to airports for security amid government shutdown and vows to arrest ‘all illegal immigrants’",
+        "link": "https://fortune.com/2026/03/21/trump-ice-agent-airports-security-government-shutdown-immigrantion-arrests/",
+        "published": "2026-03-21T19:34:53",
+        "summary": "“I look forward to moving ICE in on Monday, and have already told them to, “GET READY.” NO MORE WAITING, NO MORE GAMES!” Trump wrote.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "It’s not just vaccines. Parents are refusing other routine preventive care for newborns—even protection from severe bleeding and blindness",
+        "link": "https://fortune.com/2026/03/21/anti-vaccine-parents-routine-preventive-care-newborns-vitamin-k-shots/",
+        "published": "2026-03-21T19:24:21",
+        "summary": "A recent study in the Journal of the American Medical Association found that refusals of vitamin K shots nearly doubled between 2017 and 2024, from 2.9% to 5.2%.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "Former FBI Director Robert Mueller, who led agency after 9/11 and investigated Russia-Trump campaign ties, dies at 81",
+        "link": "https://fortune.com/2026/03/21/former-fbi-director-robert-mueller-obituary-9-11-russia-trump-campaign-investigation/",
+        "published": "2026-03-21T19:06:28",
+        "summary": "Mueller was a patrician Princeton graduate and Vietnam veteran who walked away from a lucrative midcareer job to stay in public service.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "OpenAI cofounder says he hasn’t written a line of code in months and is in a ‘state of psychosis’ trying to figure out what’s possible",
+        "link": "https://fortune.com/2026/03/21/andrej-karpathy-openai-cofounder-ai-agents-coding-state-of-psychosis-openclaw/",
+        "published": "2026-03-21T18:18:31",
+        "summary": "\"I don't think a normal person actually realizes that this happened or how dramatic it was.\"",
+        "category": "商业财经"
+      },
+      {
+        "source": "The Guardian Tech",
+        "title": "‘Thank God they’re still alive’: Kaiser therapists claim its new screening system puts patients at higher risk by delaying their care",
+        "link": "https://www.theguardian.com/technology/2026/mar/21/kaiser-permanente-therapists-ai-strike",
+        "published": "2026-03-21T17:00:57",
+        "summary": "<p>Kaiser pushed back on striking workers’ claims and AI fears, saying it delivers ‘timely, high-quality care to meet members’ needs’</p><p>Ilana Marcucci-Morris is worried about the patients she trea...",
+        "category": "商业财经"
+      },
+      {
+        "source": "The Guardian Tech",
+        "title": "Thousands of people are selling their identities to train AI – but at what cost?",
+        "link": "https://www.theguardian.com/technology/2026/mar/21/ai-trainers-identity-cost",
+        "published": "2026-03-21T14:00:54",
+        "summary": "<p>Gig AI trainers worldwide are selling moments of their lives, including calls and texts, to AI companies for quick cash</p><p>One morning last year, Jacobus Louw set out on his daily neighborhood w...",
+        "category": "商业财经"
+      },
+      {
+        "source": "The Guardian Tech",
+        "title": "‘It’s stupid’: why western carmakers’ retreat from electric risks dooming them to irrelevance",
+        "link": "https://www.theguardian.com/business/2026/mar/21/west-carmakers-retreat-electric-vehicle-risks-irrelevance-iran-war-evs-china",
+        "published": "2026-03-21T12:00:52",
+        "summary": "<p>Iran war should be wake-up call about costs of not going full throttle towards EVs as Chinese have done, experts say</p><p>By the 1980s, Detroit’s once titanic carmakers were being upended by rival...",
+        "category": "商业财经"
+      }
+    ],
+    "政策与产业": [
+      {
+        "source": "199IT",
+        "title": "货币的未来将走向何方？来自达沃斯领袖的洞见",
+        "link": "http://www.199it.com/archives/1817895.html",
+        "published": "2026-03-21T10:27:45",
+        "summary": "当地缘政治格局持续变动，全球经济经历深刻转型之际，这种调整究竟呈现何种形态？货币的未来又将何去何从？",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "从预测到实践：关于工作的未来，人工智能使用数据揭示了什么",
+        "link": "http://www.199it.com/archives/1817890.html",
+        "published": "2026-03-21T10:26:44",
+        "summary": "直到最近，研究人工智能对劳动力市场影响的研究人员都不得不面对一个根本限制：没有实际使用数据，我们只能依靠“暴露度”进行理论上的衡量，估计不同职业易受人工智能冲击影响的程度。",
+        "category": "政策与产业"
+      }
+    ]
+  }
+}

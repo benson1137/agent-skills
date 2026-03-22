@@ -1,0 +1,2260 @@
+{
+  "date": "2026-03-20",
+  "total": 138,
+  "by_source": {
+    "TechCrunch AI": [
+      {
+        "source": "TechCrunch AI",
+        "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+        "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+        "published": "2026-03-19T22:09:24",
+        "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
+        "category": "AI科技"
+      },
+      {
+        "source": "TechCrunch AI",
+        "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+        "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+        "published": "2026-03-19T19:09:02",
+        "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
+        "category": "AI科技"
+      },
+      {
+        "source": "TechCrunch AI",
+        "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+        "link": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+        "published": "2026-03-19T17:24:13",
+        "summary": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
+        "category": "AI科技"
+      },
+      {
+        "source": "TechCrunch AI",
+        "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+        "link": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
+        "published": "2026-03-19T16:14:00",
+        "summary": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.",
+        "category": "AI科技"
+      },
+      {
+        "source": "TechCrunch AI",
+        "title": "TechCrunch Startup Battlefield 200 nominations are still open",
+        "link": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
+        "published": "2026-03-19T15:00:00",
+        "summary": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access.",
+        "category": "AI科技"
+      },
+      {
+        "source": "TechCrunch AI",
+        "title": "Amazon brings Alexa+ to the UK",
+        "link": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
+        "published": "2026-03-19T12:27:24",
+        "summary": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
+        "category": "AI科技"
+      },
+      {
+        "source": "TechCrunch AI",
+        "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
+        "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
+        "published": "2026-03-19T08:00:00",
+        "summary": "After compressing models from major AI labs, including OpenAI, Meta, DeepSeek, and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models an...",
+        "category": "AI科技"
+      }
+    ],
+    "The Verge AI": [
+      {
+        "source": "The Verge AI",
+        "title": "OpenAI is planning a desktop ‘superapp’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+        "published": "2026-03-20T00:09:38",
+        "summary": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making th...",
+        "category": "AI科技"
+      },
+      {
+        "source": "The Verge AI",
+        "title": "A rogue AI led to a serious security incident at Meta",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+        "published": "2026-03-19T18:20:05",
+        "summary": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The I...",
+        "category": "AI科技"
+      },
+      {
+        "source": "The Verge AI",
+        "title": "Adobe’s AI image generator can now be trained on your own art",
+        "link": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
+        "published": "2026-03-19T13:00:00",
+        "summary": "Adobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creat...",
+        "category": "AI科技"
+      },
+      {
+        "source": "The Verge AI",
+        "title": "Fitbit&#8217;s AI health coach will soon be able to read your medical records",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
+        "published": "2026-03-19T12:27:23",
+        "summary": "Would you share your medical records with a personal trainer? How about a virtual one? Google, which this week announced it is giving Fitbit's AI health coach the ability to read your medical records,...",
+        "category": "AI科技"
+      }
+    ],
+    "GitHub Blog": [
+      {
+        "source": "GitHub Blog",
+        "title": "Rethinking open source mentorship in the AI era",
+        "link": "https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/",
+        "published": "2026-03-19T18:00:00",
+        "summary": "<p>As contribution volume grows, mentorship signals are harder to read. The 3 Cs framework helps maintainers mentor more strategically... without burning out.</p>\n<p>The post <a href=\"https://github.b...",
+        "category": "AI科技"
+      },
+      {
+        "source": "GitHub Blog",
+        "title": "How Squad runs coordinated AI agents inside your repository",
+        "link": "https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/",
+        "published": "2026-03-19T16:09:50",
+        "summary": "<p>An inside look at repository-native orchestration with GitHub Copilot and the design patterns behind multi-agent workflows that stay inspectable, predictable, and collaborative. </p>\n<p>The post <a...",
+        "category": "AI科技"
+      }
+    ],
+    "量子位": [
+      {
+        "source": "量子位",
+        "title": "Qwen3.5-Max预览版首度亮相，阿里千问登顶中国最强模型",
+        "link": "https://www.qbitai.com/2026/03/389610.html",
+        "published": "2026-03-20T02:11:30",
+        "summary": "阿里千问位列全球前五",
+        "category": "AI科技"
+      },
+      {
+        "source": "量子位",
+        "title": "Meta Agent失控泄密，小扎紧急拉响顶格警报",
+        "link": "https://www.qbitai.com/2026/03/389570.html",
+        "published": "2026-03-20T00:52:59",
+        "summary": "能让小扎栽跟头的，还得是“AI”。",
+        "category": "AI科技"
+      },
+      {
+        "source": "量子位",
+        "title": "黄仁勋：每一家工业企业都将成为机器人公司！连发物理AI全家桶",
+        "link": "https://www.qbitai.com/2026/03/389569.html",
+        "published": "2026-03-20T00:52:21",
+        "summary": "抛出了一整套物理AI基础设施",
+        "category": "AI科技"
+      },
+      {
+        "source": "量子位",
+        "title": "太初元碁推出企业级“养虾”方案，发布太初龙虾一体机（TecoClaw）",
+        "link": "https://www.qbitai.com/2026/03/389562.html",
+        "published": "2026-03-19T12:35:39",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "量子位",
+        "title": "阿里宣布AI战略商业目标：未来五年，云和AI商业化收入突破1000亿美元",
+        "link": "https://www.qbitai.com/2026/03/389559.html",
+        "published": "2026-03-19T12:07:52",
+        "summary": "正式突破1000亿元人民币",
+        "category": "AI科技"
+      },
+      {
+        "source": "量子位",
+        "title": "阿里财报电话会：平头哥GPU芯片已累计规模化交付47万片",
+        "link": "https://www.qbitai.com/2026/03/389556.html",
+        "published": "2026-03-19T12:05:42",
+        "summary": "涵盖包括互联网、金融服务、自动驾驶等多个行业。",
+        "category": "AI科技"
+      },
+      {
+        "source": "量子位",
+        "title": "老黄怒怼玩家根本不懂AI！英伟达新AI功能遭全网抵制，游戏圈炸锅了",
+        "link": "https://www.qbitai.com/2026/03/389447.html",
+        "published": "2026-03-19T11:35:27",
+        "summary": "游戏角色集体“整容”了",
+        "category": "AI科技"
+      },
+      {
+        "source": "量子位",
+        "title": "于骞出席德国慕尼黑汽车论坛：世界模型+强化学习是通向物理AI的必经之路",
+        "link": "https://www.qbitai.com/2026/03/389442.html",
+        "published": "2026-03-19T11:02:55",
+        "summary": "世界模型+强化学习",
+        "category": "AI科技"
+      },
+      {
+        "source": "量子位",
+        "title": "同事群里催催催，龙虾自动回回回！刚发布的「飞书龙虾」把我解脱了",
+        "link": "https://www.qbitai.com/2026/03/389322.html",
+        "published": "2026-03-19T10:45:00",
+        "summary": "无需部署，人人可用",
+        "category": "AI科技"
+      },
+      {
+        "source": "量子位",
+        "title": "斯洛伐克首次迎来无人驾驶，文远知行全球版图扩至十二国",
+        "link": "https://www.qbitai.com/2026/03/389315.html",
+        "published": "2026-03-19T10:20:38",
+        "summary": "文远知行将进一步深化在欧洲市场的商业化布局。",
+        "category": "AI科技"
+      }
+    ],
+    "36氪": [
+      {
+        "source": "36氪",
+        "title": "从能力到商品：Skills市场正在重塑开发者的生产方式",
+        "link": "https://36kr.com/p/3730644353286150?f=rss",
+        "published": "2026-03-20T02:19:20",
+        "summary": "<p>技能是产业竞争力的重要体现方式之一 。在上海，一场 AI 时代的技能革命也在悄然展开——进入 2026 年，新赛季的竞争不再是大模型间的参数比拼，而是谁能真正走进工厂、实验室和写字楼，变成“会做事”的生产力工具。开源项目 OpenClaw 的迅速走红，折射出以 Skills 市场等形式的开放共享的新趋势——或许正是那把撬开这场 Agent 变革的锁钥。</p>\n  <p>简言之， Skill...",
+        "category": "AI科技"
+      },
+      {
+        "source": "36氪",
+        "title": "港中文95后博士、OPPO员工做了款AI可穿戴硬件，要成为用户全天候情感导师｜硬氪首发",
+        "link": "https://36kr.com/p/3729647028960903?f=rss",
+        "published": "2026-03-20T01:20:00",
+        "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，深圳十镜科技有限公司（以下简称“十镜科技”）近日完成数千万元天使轮融资，本轮由元禾原点投资，融资资金将主要用于核心技术研发、产品结构迭代优化及小批量量产落地。首款产品Spiro计划于&nbsp;2026年4月在北美独立站上线、6月量产。</p>\n  <p>十镜科技成立于2025年7月，创始人兼CEO赵之赫是一名95后连续...",
+        "category": "AI科技"
+      },
+      {
+        "source": "36氪",
+        "title": "8点1氪丨贾国龙推出新品牌“天边砂锅焖面”；涨价4000元，新一代小米SU7起售价21.99万元；麦当劳回应卖蛋挞",
+        "link": "https://36kr.com/p/3730515366871046?f=rss",
+        "published": "2026-03-19T23:59:21",
+        "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>ZARA、H&amp;M、拉夫劳伦等，被海关总署点名通报</li>\n   <li>腾讯股价大跌原因：加大AI投入或削减回购</li>\n   <li>欧盟证实：马斯克X缴纳1.2亿欧元罚款</li>\n   <li>中国移动“移动梦网”等业务将下线</li>\n   <li>现货黄金跌破4700美元</li>\n   <li>腾讯回应在美游戏投资...",
+        "category": "AI科技"
+      },
+      {
+        "source": "36氪",
+        "title": "氪星晚报｜��大利亚就业依然强劲，支持澳央行的鹰派立场；首款国产化“龙虾云电脑”发布；法官下令恢复美国之音员工职务，推翻特朗普关停决定",
+        "link": "https://36kr.com/p/3729727275220613?f=rss",
+        "published": "2026-03-19T10:39:47",
+        "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://www.36kr.com/newsflashes/3729201896996481\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>马斯克：SpaceX AI和特斯拉预计将继续大规模订购英伟达芯片</strong></a></p>\n  <p...",
+        "category": "AI科技"
+      },
+      {
+        "source": "36氪",
+        "title": "AWE 2026观察：AI重构家庭空间",
+        "link": "https://36kr.com/p/3729551142534532?f=rss",
+        "published": "2026-03-19T08:27:34",
+        "summary": "<p>作者：王利</p>\n  <p>编辑：王小坤</p>\n  <p>想象一下，你身处一间密闭场所，四周音箱环绕。接着，音乐响起，声音从不同方向传来：有的掠过头顶，有的在左耳回响，每个声源的位置都清晰可辨。随后，你戴上一副耳机。奇怪的是，耳机隔音似乎并不好，外面声音清晰依旧。听了一会，你有些腻了，摘下耳机，才发现四周的音箱早已关闭——刚才以为仍由音箱播放的音乐，其实一直出自耳机。</p>\n  <p>...",
+        "category": "AI科技"
+      },
+      {
+        "source": "36氪",
+        "title": "超级创业者时代：如何让个人拥有组织级能力",
+        "link": "https://36kr.com/p/3729545296559749?f=rss",
+        "published": "2026-03-19T07:45:41",
+        "summary": "<h3><strong>序章｜一个人，就是一家公司：第四次个体经济浪潮正在爆发</strong></h3>\n  <p>历史上每一次生产关系的重构，都诞生于旧有组织形态的瓶颈与新技术力量的碰撞。从1980年代的街头个体户，到1999年《个人独资企业法》确立的法人主体，再到2014年“大众创业、万众创新”的移动互联网浪潮——中国个体经济政策的每一次跃升，都是时代的一次集体答卷。</p>\n  <p>而今...",
+        "category": "AI科技"
+      },
+      {
+        "source": "36氪",
+        "title": "长三角企业国际化合作发展交流会暨新华·中国企业出海合作中心（长三角）在宁启幕",
+        "link": "https://36kr.com/p/3729511818001799?f=rss",
+        "published": "2026-03-19T06:55:53",
+        "summary": "<p>3月17日，以“从长三角到全球：共筑企业出海新航线”为主题的长三角企业国际化合作发展交流会暨“新华·中国企业出海合作中心（长三角）”启动仪式在南京新华国际会议中心隆重举行，活动由香港长三角企业家国际联盟与江苏省国际商会联合主办。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/...",
+        "category": "AI科技"
+      },
+      {
+        "source": "36氪",
+        "title": "因胜传媒成功协办长三角企业国际化合作发展交流会",
+        "link": "https://36kr.com/p/3729505125350792?f=rss",
+        "published": "2026-03-19T06:49:21",
+        "summary": "<p>2026年3月17日，由香港长三角企业家国际联盟与江苏省国际商会联合主办、南京因胜文化传媒有限公司（简称“因胜传媒”）独家协办的“从长三角到全球：共筑企业出海新航线”为主题的长三角企业国际化合作发展交流会暨“新华·中国企业出海合作中心（长三角）”启动仪式在南京新华国际会议中心隆重举行。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img....",
+        "category": "AI科技"
+      },
+      {
+        "source": "36氪",
+        "title": "腾讯不愿在微信里躺平",
+        "link": "https://36kr.com/p/3729475100917126?f=rss",
+        "published": "2026-03-19T06:23:30",
+        "summary": "<p>作者&nbsp;|&nbsp;张帆 黄绎达</p>\n  <p>编辑&nbsp;|&nbsp;黄绎达</p>\n  <p>腾讯依旧还是那个稳健的腾讯。</p>\n  <p>3月18日，腾讯公布了2025年全年业绩。财报数据显示，公司在2025年实现收入7518亿元，同比增长14%；同期实现经营利润2416亿元，同比增长16%；同期Non-IFRS归母净利润录得2596亿元，同比增长17%。</p>...",
+        "category": "AI科技"
+      },
+      {
+        "source": "36氪",
+        "title": "揭秘蔚来芯片分拆始末，正积极接触多头部车企 | 36氪独家",
+        "link": "https://36kr.com/p/3729446000967304?f=rss",
+        "published": "2026-03-19T05:49:13",
+        "summary": "<p>3月10日，蔚来汽车公布财报，2025年四季度盈利超12亿元。这是蔚来在连续多个季度亏损数十亿元后，首次单季度盈利。</p>\n  <p>在这份盈利的财报背后，李斌对企业进行了一系列改革以严控成本，同时也将部分投入巨大的业务做了拆分以改善财务结构。</p>\n  <p>芯片业务无疑是蔚来最“烧钱”的业务之一。李斌曾在2025年的中国电动汽车百人会论坛上，测算过NX9031芯片的研发成本——一颗N...",
+        "category": "AI科技"
+      }
+    ],
+    "雷锋网": [
+      {
+        "source": "雷锋网",
+        "title": "员工曝宇树对外标榜弹性双休，内部却是另一套规则，非常卷；永辉喊话山姆不要让供应商二选一，业内人士称他们在躲永辉；傅盛开撕周鸿祎",
+        "link": "https://www.leiphone.com/category/zaobao/KUOUGnow9NtG6kxq.html",
+        "published": "2026-03-20T00:51:00",
+        "summary": "<p style=\"text-align: center;\"><span style=\"font-size: 24px;\"><strong>要闻提示</strong></span><br /></p><p style=\"text-align: justify;\">1.宇树某程序员发帖称：宇树对外标榜弹性双休，内部却是另一套规则，非常卷</p><p style=\"text-align: justif...",
+        "category": "AI科技"
+      },
+      {
+        "source": "雷锋网",
+        "title": "超级创业者时代：如何让个人拥有组织级能力",
+        "link": "https://www.leiphone.com/category/industrynews/05NHwrQPUa9nsG7M.html",
+        "published": "2026-03-19T13:19:00",
+        "summary": "<h3>序章｜一个人，就是一家公司：第四次个体经济浪潮正在爆发</h3><p>历史上每一次生产关系的重构，都诞生于旧有组织形态的瓶颈与新技术力量的碰撞。从1980年代的街头个体户，到1999年《个人独资企业法》确立的法人主体，再到2014年“大众创业、万众创新”的移动互联网浪潮——中国个体经济政策的每一次跃升，都是时代的一次集体答卷。</p><p>而今天，<strong>随着Agent、OpenC...",
+        "category": "AI科技"
+      },
+      {
+        "source": "雷锋网",
+        "title": "阿里财报电话会：3月季度消费复苏明显，实物电商成交和CMR增速都显著回升",
+        "link": "https://www.leiphone.com/category/industrynews/A4j0I080EcQzwqqO.html",
+        "published": "2026-03-19T12:12:00",
+        "summary": "<p>3月19日晚间，阿里巴巴电商事业群CEO蒋凡在财报分析师会议上表示，3月季度已看到消费复苏比较明显，在即时零售战略的共同拉动下，实物电商成交和CMR增速都有显著回升。<br /></p><p>&nbsp;<span style=\"color: #FFFFFF;\">雷峰网</span></p><p><span style=\"color: #FFFFFF;\">&nbsp;</span></p><...",
+        "category": "AI科技"
+      },
+      {
+        "source": "雷锋网",
+        "title": "阿里财报电话会：平头哥GPU芯片已累计规模化交付47万片",
+        "link": "https://www.leiphone.com/category/industrynews/FRBajqXxesyPKYbv.html",
+        "published": "2026-03-19T11:55:00",
+        "summary": "<p>3月19日，在2026财年Q3财报分析师电话会上，阿里巴巴表示，平头哥自研的GPU芯片已实现规模化量产，截至26年2月，已经累计规模化交付47万片。在阿里云的实际业务场景，60%以上的平头哥芯片服务于外部商业化客户，已完成规模化外部客户AI任务适配，支持了400多家企业客户的AI任务，涵盖包括互联网、金融服务、自动驾驶等多个行业。<br /></p><p><span style=\"color...",
+        "category": "AI科技"
+      },
+      {
+        "source": "雷锋网",
+        "title": "阿里宣布AI战略商业目标：未来五年，云和AI商业化年收入突破1000亿美元",
+        "link": "https://www.leiphone.com/category/industrynews/FOvcT4JtrsGoDpbc.html",
+        "published": "2026-03-19T11:53:00",
+        "summary": "<p>&nbsp;3月19日，在阿里巴巴集团2026财年Q3财报分析师电话会上，CEO吴泳铭表示，阿里云2026财年截至2月底的外部商业化收入正式突破1000亿元人民币。面对长期的AI市场成长动能，阿里集团AI战略的商业目标也非常明确——未来五年，包含MaaS在内的云和AI商业化年收入突破1000亿美元。</p><p><span style=\"color: #FFFFFF;\">雷峰网</span>...",
+        "category": "AI科技"
+      },
+      {
+        "source": "雷锋网",
+        "title": "增速领跑！追觅科技获评英国《金融时报》年度高增长企业",
+        "link": "https://www.leiphone.com/category/industrynews/N6IqojhyxTPZJdfP.html",
+        "published": "2026-03-19T10:32:00",
+        "summary": "<p><br /></p><p>3月17日，追觅科技获评国际权威财经媒体《金融时报》年度高增长企业，凭借连续7年年复合增长率超100%的发展业绩强势登榜。该榜单由《金融时报》携手权威调研机构Statista联合发布，旨在寻找并表彰动力强劲、业务扩张迅速的企业，具有高度权威性和国际认可度。</p><p style=\"text-align: center;\"><img src=\"https://sta...",
+        "category": "AI科技"
+      },
+      {
+        "source": "雷锋网",
+        "title": "电商版“龙虾”来了！阿里悟空发布，用AI帮商家7✖️24小时经营淘宝天猫店",
+        "link": "https://www.leiphone.com/category/industrynews/9lko1QGOpLvQcCZo.html",
+        "published": "2026-03-19T04:21:00",
+        "summary": "<p>电商版“龙虾”来了！近日，阿里巴巴正式推出全球首个企业级AI原生工作平台——“悟空”，在电商领域，淘宝、天猫核心经营能力将以Skill（技能模块）形式陆续接入，商家可以像搭积木一样，把这些Skill进行组合并在悟空上创造自己的AI工作流，搭建出一支可随时随地待命的覆盖开店、选品、营销、运营、发货等各个环节的AI Agent团队。</p><p>更厉害的是，除了电商经营，商家还能通过悟空接入财税...",
+        "category": "AI科技"
+      }
+    ],
+    "InfoQ": [
+      {
+        "source": "InfoQ",
+        "title": "深圳 17 岁高中生回应成 Kimi 论文第一作者：不要造神，成果属于团队",
+        "link": "https://www.infoq.cn/article/CI5daAFmzhA1IWN2Z6zD?utm_source=rss&utm_medium=article",
+        "published": "2026-03-20T10:39:02",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/CI5daAFmzhA1IWN2Z6zD?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "Meta内部Agent失控升级：首个Sev 1级事故曝光，系统数据裸奔了两小时",
+        "link": "https://www.infoq.cn/article/IfVHPs1luTCi7om8XzgR?utm_source=rss&utm_medium=article",
+        "published": "2026-03-20T10:26:55",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IfVHPs1luTCi7om8XzgR?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "针对全球化规模的架构设计：深入了解DoorDash统一、模块化的配送员入驻平台",
+        "link": "https://www.infoq.cn/article/PmBbwTjmUHNToWXSyEp4?utm_source=rss&utm_medium=article",
+        "published": "2026-03-20T10:00:00",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/PmBbwTjmUHNToWXSyEp4?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "智能体架构的降龙十八掌：从原型到工程落地的“生死取舍”｜QCon北京",
+        "link": "https://www.infoq.cn/article/3BUqAjZIrpKVwfbpKqBX?utm_source=rss&utm_medium=article",
+        "published": "2026-03-20T09:55:00",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/3BUqAjZIrpKVwfbpKqBX?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "针对库存优化的 Snowflake Intelligence 供应链助手",
+        "link": "https://www.infoq.cn/article/p0UmiTXd3w2fAfIWV6r0?utm_source=rss&utm_medium=article",
+        "published": "2026-03-19T21:37:49",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/p0UmiTXd3w2fAfIWV6r0?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "我把 MiniMax M2.7 扔进真实业务里：它替我省了 BI 和程序员的钱",
+        "link": "https://www.infoq.cn/article/wxlURmwIyV0JWJRHswAx?utm_source=rss&utm_medium=article",
+        "published": "2026-03-19T21:35:07",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/wxlURmwIyV0JWJRHswAx?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "从AI编程到Agent开发 九章云极智算云助力生态普惠升级",
+        "link": "https://www.infoq.cn/article/d0fGGHB46WOiqtAUbgAF?utm_source=rss&utm_medium=article",
+        "published": "2026-03-19T15:04:13",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/d0fGGHB46WOiqtAUbgAF?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "发 token 当工资？工程师不只拿现金和期权，开始按 token 分身价了",
+        "link": "https://www.infoq.cn/article/ChuKpAjxIo4oA3DwsdD3?utm_source=rss&utm_medium=article",
+        "published": "2026-03-19T14:40:13",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ChuKpAjxIo4oA3DwsdD3?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "极客部落“OPC 创业者招募计划”正式启动 —— 携手朝阳区赋能 AI 时代独角兽，助推人才高质量发展",
+        "link": "https://www.infoq.cn/article/LbxEy5EyhN3e4CW05IIw?utm_source=rss&utm_medium=article",
+        "published": "2026-03-19T14:39:48",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/LbxEy5EyhN3e4CW05IIw?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "神秘爆款模型被小米认领！雷军直言超过马斯克 xAI Grok，罗福莉透露MiMo-V2-Pro将开源",
+        "link": "https://www.infoq.cn/article/RrUxZpVIe44S0slaHvr5?utm_source=rss&utm_medium=article",
+        "published": "2026-03-19T14:35:51",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/RrUxZpVIe44S0slaHvr5?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      }
+    ],
+    "Hacker News": [
+      {
+        "source": "Hacker News",
+        "title": "Push events into a running session with channels",
+        "link": "https://code.claude.com/docs/en/channels",
+        "published": "2026-03-20T00:22:08",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47448524\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Astral to Join OpenAI",
+        "link": "https://astral.sh/blog/openai",
+        "published": "2026-03-19T13:05:50",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47438723\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Drugwars for the TI-82/83/83 Calculators",
+        "link": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
+        "published": "2026-03-20T00:26:47",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47448566\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Google details new 24-hour process to sideload unverified Android apps",
+        "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+        "published": "2026-03-19T17:16:04",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47442690\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+        "link": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+        "published": "2026-03-20T01:09:45",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47448994\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Cockpit is a web-based graphical interface for servers",
+        "link": "https://github.com/cockpit-project/cockpit",
+        "published": "2026-03-19T20:33:02",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47445599\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+        "link": "https://github.com/KittenML/KittenTTS",
+        "published": "2026-03-19T15:56:06",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47441546\">Comments</a>",
+        "category": "AI科技"
+      }
+    ],
+    "机器之心": [
+      {
+        "source": "机器之心",
+        "title": "WWW2026｜让双塔“开天眼”：快手 GRank 赋予生成器“预判”能力，在线召回快准兼得",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.364557",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "Qwen3.5-Max预览版首度亮相，阿里千问登顶中国最强模型",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.365055",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "刚刚，OpenAI买下Python最强基建，准备垄断开发者「生产资料」",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.365344",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "北航，清华，北大联合发布： 异构智能体协同强化学习！",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.365595",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "让机器人感知「有证可查」：3D 视觉全局求解器综述",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.366062",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "脑机接口赛道爆发在即，一场由AI主导的全球直播在发出什么预警？",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.366233",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "因聚而升，融智有为：华为中国合作伙伴大会2026成功启幕",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.366402",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "飞书发布飞书版“小龙虾”  用户一下点击即可拥有专属 Agent",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.366549",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "行业里程碑！智元 × 清华 × 麦吉尔：全球首创 MANSION 框架，打造下一代具身智能 “试验场”",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.366722",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "华为发布全新AI数据基础设施，加速全场景推理体验升级",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.366873",
+        "summary": "",
+        "category": "AI科技"
+      }
+    ],
+    "新智元": [
+      {
+        "source": "新智元",
+        "title": "企业级场景硬碰硬！国产智能体bit-Agent小青龙正面挑战OpenClaw小龙虾",
+        "link": "https://ailab.cn/20260313164742_1/",
+        "published": "2026-03-20T03:53:50.107238",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "新智元",
+        "title": "AI杀死SaaS？这个问题也许问错了",
+        "link": "https://ailab.cn/20260319164771_1/",
+        "published": "2026-03-20T03:53:50.107386",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "新智元",
+        "title": "两业融合的广州解法：AI如何串起一座城",
+        "link": "https://ailab.cn/20260319164756_1/",
+        "published": "2026-03-20T03:53:50.107484",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "新智元",
+        "title": "获近亿元融资，一家AI公司的两周转型小龙虾实战故事",
+        "link": "https://ailab.cn/20260310164710_1/",
+        "published": "2026-03-20T03:53:50.107569",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "新智元",
+        "title": "构建会思考的测试Agent：从自动化到自主智能的演进",
+        "link": "https://ailab.cn/20260311164728_1/",
+        "published": "2026-03-20T03:53:50.107646",
+        "summary": "",
+        "category": "AI科技"
+      }
+    ],
+    "CNBC Finance": [
+      {
+        "source": "CNBC Finance",
+        "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
+        "link": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html",
+        "published": "2026-03-19T17:24:32",
+        "summary": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
+        "category": "商业财经"
+      },
+      {
+        "source": "CNBC Finance",
+        "title": "OpenClaw demand in China is driving up the price of used MacBooks",
+        "link": "https://www.cnbc.com/2026/03/19/openclaw-demand-in-china-is-driving-up-the-price-of-secondhand-macbooks.html",
+        "published": "2026-03-19T11:02:11",
+        "summary": "People in China are rushing to buy preowned computers to try OpenClaw with demand for MacBooks particularly high, according to one reseller.",
+        "category": "商业财经"
+      },
+      {
+        "source": "CNBC Finance",
+        "title": "Here's what changed in the new Fed statement",
+        "link": "https://www.cnbc.com/2026/03/18/federal-reserve-meeting-statement-march.html",
+        "published": "2026-03-19T14:09:38",
+        "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in January.",
+        "category": "商业财经"
+      },
+      {
+        "source": "CNBC Finance",
+        "title": "JPMorgan Chase taps A'ja Wilson, Tom Brady for new athlete wealth management push",
+        "link": "https://www.cnbc.com/2026/03/18/jpmorgan-athlete-wealth-management-tom-brady-dwyane-wade.html",
+        "published": "2026-03-19T14:20:28",
+        "summary": "JPMorgan's move reflects growing competition among banks and wealth managers to serve athletes, who are increasingly becoming entrepreneurs and investors.",
+        "category": "商业财经"
+      }
+    ],
+    "Fortune": [
+      {
+        "source": "Fortune",
+        "title": "Baked by Melissa’s founder was fired at 24. Two decades later, she’s ‘so freaking thrilled’ to step down as CEO",
+        "link": "https://fortune.com/2026/03/19/baked-by-melissas-founder-so-freaking-thrilled-to-step-down-as-ceo-melissa-ben-ishay/",
+        "published": "2026-03-19T20:35:48",
+        "summary": "The last cupcake brand standing from the 2010s boom is now open to a sale.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "Jack Schlossberg on why Democrats lost young men to Trump—and it starts with the reason he quit the Biden campaign",
+        "link": "https://fortune.com/2026/03/19/jack-schlossberg-young-men-trump-social-media-jfk-grandson/",
+        "published": "2026-03-19T18:40:49",
+        "summary": "Schlossberg also told Fortune which party really represents \"modernity,\" and why Democrats need to stand for something.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "Gen Z’s straight‑A boom is quietly shrinking their paychecks",
+        "link": "https://fortune.com/2026/03/19/gen-z-grade-inflation-earnings-loss-absences-suspensions/",
+        "published": "2026-03-19T21:10:57",
+        "summary": "Grade inflation offers short-term gains, but poorer future test scores, lower graduation rates, and lower annual earnings, a new study finds.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "The CEO of Patreon blasts AI companies for the ‘bogus excuse’ they’re using to not pay artists",
+        "link": "https://fortune.com/2026/03/19/ceo-patreon-jack-conte-influencers-content-creators-ai-openai-anthropic-copyright-fair-use-lawsuits/",
+        "published": "2026-03-19T18:36:54",
+        "summary": "Jack Conte says AI firms' fair use claims fall apart when you look at their Disney and Warner deals.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "TV host Mike Rowe slams schools for portraying skilled trades as a ‘consolation prize’—when he’s met data center electricians making $280K a year",
+        "link": "https://fortune.com/2026/03/19/mike-rowe-dirty-jobs-host-skilled-trade-warning-education-alarm-gen-z-six-figure-careers-data-center-electricans/",
+        "published": "2026-03-19T15:42:40",
+        "summary": "America pushed a generation toward college—now it’s short hundreds of thousands of skilled workers, and “Dirty Jobs” host Mike Rowe is joining CEOs of top companies like Nvidia, Ford, and BlackRock in...",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "Bitcoin struggles to hold $70,000 as oil surge jolts risk assets",
+        "link": "https://fortune.com/2026/03/19/bitcoin-struggles-to-hold-70000-as-oil-surge-jolts-risk-assets/",
+        "published": "2026-03-19T14:40:33",
+        "summary": "Other cryptocurrencies such as Ether, BNB and XRP also declined.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "France is experiencing wave of crypto assault. One involved an influencer’s father doused with gasoline",
+        "link": "https://fortune.com/2026/03/19/france-is-experiencing-wave-of-crypto-assault/",
+        "published": "2026-03-19T19:35:10",
+        "summary": "A majority of so-called wrench attacks so far this year have occurred in France.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "War, oil, and an unpaid TSA: The perfect storm of travel chaos feels like the pandemic all over again",
+        "link": "https://fortune.com/2026/03/19/war-oil-tsa-shutdown-perfect-storm-travelers-pandemic/",
+        "published": "2026-03-19T19:21:42",
+        "summary": "Flights face new disruption as war, oil costs, and TSA pay issues hit travelers",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "Uber will operate its own robotaxis again—this time with Rivian’s not‑yet‑built EVs",
+        "link": "https://fortune.com/2026/03/19/uber-robotaxi-fleet-rivian-r2/",
+        "published": "2026-03-19T19:12:33",
+        "summary": "After studying the competition for years via partnerships, Uber is apparently ready to take on more risk again.",
+        "category": "商业财经"
+      }
+    ],
+    "BBC Technology": [
+      {
+        "source": "BBC Technology",
+        "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
+        "link": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-03-19T15:33:22",
+        "summary": "Meta wants creators to \"rediscover\" Facebook, but a social media expert says viewers will not follow.",
+        "category": "商业财经"
+      },
+      {
+        "source": "BBC Technology",
+        "title": "US messageboard 4Chan mocks £520,000 fine for UK online safety breaches",
+        "link": "https://www.bbc.com/news/articles/c624330lg1ko?at_medium=RSS&at_campaign=rss",
+        "published": "2026-03-19T12:13:04",
+        "summary": "The fine includes £450,000 for lack of age checks to prevent children from seeing pornography.",
+        "category": "商业财经"
+      },
+      {
+        "source": "BBC Technology",
+        "title": "Amazon's Alexa has had an AI upgrade. Now she's got more to say",
+        "link": "https://www.bbc.com/news/articles/c3ewe7v7gpgo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-03-19T05:55:42",
+        "summary": "There has been criticism the Echo has stagnated, while other AI chatbots have become much easier to communicate with.",
+        "category": "商业财经"
+      }
+    ],
+    "arXiv AI": [
+      {
+        "source": "arXiv AI",
+        "title": "Generative AI-assisted Participatory Modeling in Socio-Environmental Planning under Deep Uncertainty",
+        "link": "https://arxiv.org/abs/2603.17021",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17021v1 Announce Type: new \nAbstract: Socio-environmental planning under deep uncertainty requires researchers to identify and conceptualize problems before exploring policies and deploying...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv AI",
+        "title": "Transformers are Bayesian Networks",
+        "link": "https://arxiv.org/abs/2603.17063",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17063v1 Announce Type: new \nAbstract: Transformers are the dominant architecture in AI, yet why they work remains poorly understood. This paper offers a precise answer: a transformer is a B...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv AI",
+        "title": "Cascade-Aware Multi-Agent Routing: Spatio-Temporal Sidecars and Geometry-Switching",
+        "link": "https://arxiv.org/abs/2603.17112",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17112v1 Announce Type: new \nAbstract: A common architectural pattern in advanced AI reasoning systems is the symbolic graph network: specialized agents or modules connected by delegation ed...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv AI",
+        "title": "How Clued up are LLMs? Evaluating Multi-Step Deductive Reasoning in a Text-Based Game Environment",
+        "link": "https://arxiv.org/abs/2603.17169",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17169v1 Announce Type: new \nAbstract: Deducing whodunit proves challenging for LLM agents. In this paper, we implement a text-based multi-agent version of the classic board game Clue as a r...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv AI",
+        "title": "AI Scientist via Synthetic Task Scaling",
+        "link": "https://arxiv.org/abs/2603.17216",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17216v1 Announce Type: new \nAbstract: With the advent of AI agents, automatic scientific discovery has become a tenable goal. Many recent works scaffold agentic systems that can perform mac...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv AI",
+        "title": "Draft-and-Prune: Improving the Reliability of Auto-formalization for Logical Reasoning",
+        "link": "https://arxiv.org/abs/2603.17233",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17233v1 Announce Type: new \nAbstract: Auto-formalization (AF) translates natural-language reasoning problems into solver-executable programs, enabling symbolic solvers to perform sound logi...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv AI",
+        "title": "Graph-Native Cognitive Memory for AI Agents: Formal Belief Revision Semantics for Versioned Memory Architectures",
+        "link": "https://arxiv.org/abs/2603.17244",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17244v1 Announce Type: new \nAbstract: While individual components for AI agent memory exist in prior systems, their architectural synthesis and formal grounding remain underexplored. We pre...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv AI",
+        "title": "Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations",
+        "link": "https://arxiv.org/abs/2603.17305",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17305v1 Announce Type: new \nAbstract: We propose CRAFT, a red-teaming alignment framework that leverages model reasoning capabilities and hidden representations to improve robustness agains...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv AI",
+        "title": "InfoDensity: Rewarding Information-Dense Traces for Efficient Reasoning",
+        "link": "https://arxiv.org/abs/2603.17310",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17310v1 Announce Type: new \nAbstract: Large Language Models (LLMs) with extended reasoning capabilities often generate verbose and redundant reasoning traces, incurring unnecessary computat...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv AI",
+        "title": "Physics-informed offline reinforcement learning eliminates catastrophic fuel waste in maritime routing",
+        "link": "https://arxiv.org/abs/2603.17319",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17319v1 Announce Type: new \nAbstract: International shipping produces approximately 3% of global greenhouse gas emissions, yet voyage routing remains dominated by heuristic methods. We pres...",
+        "category": "学术研究"
+      }
+    ],
+    "arXiv NLP": [
+      {
+        "source": "arXiv NLP",
+        "title": "Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context",
+        "link": "https://arxiv.org/abs/2603.15653",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15653v1 Announce Type: new \nAbstract: Long-context handling remains a core challenge for language models: even with extended context windows, models often fail to reliably extract, reason o...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv NLP",
+        "title": "MedArena: Comparing LLMs for Medicine-in-the-Wild Clinician Preferences",
+        "link": "https://arxiv.org/abs/2603.15677",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15677v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly central to clinician workflows, spanning clinical decision support, medical education, and patient commun...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv NLP",
+        "title": "MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification",
+        "link": "https://arxiv.org/abs/2603.15726",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15726v1 Announce Type: new \nAbstract: We present MiroThinker-1.7, a new research agent designed for complex long-horizon reasoning tasks. Building on this foundation, we further introduce M...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv NLP",
+        "title": "Morphemes Without Borders: Evaluating Root-Pattern Morphology in Arabic Tokenizers and LLMs",
+        "link": "https://arxiv.org/abs/2603.15773",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15773v1 Announce Type: new \nAbstract: This work investigates how effectively large language models (LLMs) and their tokenization schemes represent and generate Arabic root-pattern morpholog...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv NLP",
+        "title": "COGNAC at SemEval-2026 Task 5: LLM Ensembles for Human-Level Word Sense Plausibility Rating in Challenging Narratives",
+        "link": "https://arxiv.org/abs/2603.15897",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15897v1 Announce Type: new \nAbstract: We describe our system for SemEval-2026 Task 5, which requires rating the plausibility of given word senses of homonyms in short stories on a 5-point L...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv NLP",
+        "title": "Agent-based imitation dynamics can yield efficiently compressed population-level vocabularies",
+        "link": "https://arxiv.org/abs/2603.15903",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15903v1 Announce Type: new \nAbstract: Natural languages have been argued to evolve under pressure to efficiently compress meanings into words by optimizing the Information Bottleneck (IB) c...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv NLP",
+        "title": "CTG-DB: An Ontology-Based Transformation of ClinicalTrials.gov to Enable Cross-Trial Drug Safety Analyses",
+        "link": "https://arxiv.org/abs/2603.15936",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15936v2 Announce Type: new \nAbstract: ClinicalTrials .gov (CT .gov) is the largest publicly accessible registry of clinical studies, yet its registry-oriented architecture and heterogeneous...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv NLP",
+        "title": "BANGLASOCIALBENCH: A Benchmark for Evaluating Sociopragmatic and Cultural Alignment of LLMs in Bangladeshi Social Interaction",
+        "link": "https://arxiv.org/abs/2603.15949",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15949v1 Announce Type: new \nAbstract: Large Language Models have demonstrated strong multilingual fluency, yet fluency alone does not guarantee socially appropriate language use. In high-co...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv NLP",
+        "title": "POLAR:A Per-User Association Test in Embedding Space",
+        "link": "https://arxiv.org/abs/2603.15950",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15950v1 Announce Type: new \nAbstract: Most intrinsic association probes operate at the word, sentence, or corpus level, obscuring author-level variation. We present POLAR (Per-user On-axis ...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv NLP",
+        "title": "A Family of LLMs Liberated from Static Vocabularies",
+        "link": "https://arxiv.org/abs/2603.15953",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15953v1 Announce Type: new \nAbstract: Tokenization is a central component of natural language processing in current large language models (LLMs), enabling models to convert raw text into pr...",
+        "category": "学术研究"
+      }
+    ],
+    "arXiv ML": [
+      {
+        "source": "arXiv ML",
+        "title": "A foundation model for electrodermal activity data",
+        "link": "https://arxiv.org/abs/2603.16878",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16878v1 Announce Type: new \nAbstract: Foundation models have recently extended beyond natural language and vision to timeseries domains, including physiological signals. However, progress i...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv ML",
+        "title": "Federated Multi Agent Deep Learning and Neural Networks for Advanced Distributed Sensing in Wireless Networks",
+        "link": "https://arxiv.org/abs/2603.16881",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16881v1 Announce Type: new \nAbstract: Multi-agent deep learning (MADL), including multi-agent deep reinforcement learning (MADRL), distributed/federated training, and graph-structured neura...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv ML",
+        "title": "Multi-Agent Reinforcement Learning for Dynamic Pricing: Balancing Profitability,Stability and Fairness",
+        "link": "https://arxiv.org/abs/2603.16888",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16888v1 Announce Type: new \nAbstract: Dynamic pricing in competitive retail markets requires strategies that adapt to fluctuating demand and competitor behavior. In this work, we present a ...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv ML",
+        "title": "From Language to Action in Arabic: Reliable Structured Tool Calling via Data-Centric Fine-Tuning",
+        "link": "https://arxiv.org/abs/2603.16901",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16901v1 Announce Type: new \nAbstract: Function-calling language models are essential for agentic AI systems that translate natural language into executable structured actions, yet existing ...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv ML",
+        "title": "What on Earth is AlphaEarth? Hierarchical structure and functional interpretability for global land cover",
+        "link": "https://arxiv.org/abs/2603.16911",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16911v1 Announce Type: new \nAbstract: Geospatial foundation models generate high-dimensional embeddings that achieve strong predictive performance, yet their internal organization remains o...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv ML",
+        "title": "HoloByte: Continuous Hyperspherical Distillation for Tokenizer-Free Modeling",
+        "link": "https://arxiv.org/abs/2603.16917",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16917v1 Announce Type: new \nAbstract: Sequence modeling universally relies on discrete subword tokenization to circumvent the $\\mathcal{O}(N^2)$ computational intractability of native byte-...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv ML",
+        "title": "MHPO: Modulated Hazard-aware Policy Optimization for Stable Reinforcement Learning",
+        "link": "https://arxiv.org/abs/2603.16929",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16929v1 Announce Type: new \nAbstract: Regulating the importance ratio is critical for the training stability of Group Relative Policy Optimization (GRPO) based frameworks. However, prevaili...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv ML",
+        "title": "Integrating Explainable Machine Learning and Mixed-Integer Optimization for Personalized Sleep Quality Intervention",
+        "link": "https://arxiv.org/abs/2603.16937",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16937v1 Announce Type: new \nAbstract: Sleep quality is influenced by a complex interplay of behavioral, environmental, and psychosocial factors, yet most computational studies focus mainly ...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv ML",
+        "title": "Minimum-Action Learning: Energy-Constrained Symbolic Model Selection for Physical Law Identification from Noisy Data",
+        "link": "https://arxiv.org/abs/2603.16951",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16951v1 Announce Type: new \nAbstract: Identifying physical laws from noisy observational data is a central challenge in scientific machine learning. We present Minimum-Action Learning (MAL)...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv ML",
+        "title": "Formal verification of tree-based machine learning models for lateral spreading",
+        "link": "https://arxiv.org/abs/2603.16983",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16983v1 Announce Type: new \nAbstract: Machine learning models for geotechnical hazard prediction can achieve high accuracy while learning physically inconsistent relationships from sparse o...",
+        "category": "学术研究"
+      }
+    ],
+    "arXiv CV": [
+      {
+        "source": "arXiv CV",
+        "title": "Multi-Modal Multi-Agent Reinforcement Learning for Radiology Report Generation: Radiologist-Like Workflow with Clinically Verifiable Rewards",
+        "link": "https://arxiv.org/abs/2603.16876",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16876v1 Announce Type: new \nAbstract: We propose MARL-Rad, a novel multi-modal multi-agent reinforcement learning framework for radiology report generation that coordinates region-specific ...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv CV",
+        "title": "Tokenization vs. Augmentation: A Systematic Study of Writer Variance in IMU-Based Online Handwriting Recognition",
+        "link": "https://arxiv.org/abs/2603.16883",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16883v1 Announce Type: new \nAbstract: Inertial measurement unit-based online handwriting recognition enables the recognition of input signals collected across different writing surfaces but...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv CV",
+        "title": "Leveraging Large Vision Model for Multi-UAV Co-perception in Low-Altitude Wireless Networks",
+        "link": "https://arxiv.org/abs/2603.16927",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16927v1 Announce Type: new \nAbstract: Multi-uncrewed aerial vehicle (UAV) cooperative perception has emerged as a promising paradigm for diverse low-altitude economy applications, where com...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv CV",
+        "title": "Facial beauty prediction fusing transfer learning and broad learning system",
+        "link": "https://arxiv.org/abs/2603.16930",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16930v1 Announce Type: new \nAbstract: Facial beauty prediction (FBP) is an important and challenging problem in the fields of computer vision and machine learning. Not only it is easily pro...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv CV",
+        "title": "Script-to-Slide Grounding: Grounding Script Sentences to Slide Objects for Automatic Instructional Video Generation",
+        "link": "https://arxiv.org/abs/2603.16931",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16931v1 Announce Type: new \nAbstract: While slide-based videos augmented with visual effects are widely utilized in education and research presentations, the video editing process -- partic...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv CV",
+        "title": "Look Where It Matters: High-Resolution Crops Retrieval for Efficient VLMs",
+        "link": "https://arxiv.org/abs/2603.16932",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16932v1 Announce Type: new \nAbstract: Vision-language models (VLMs) typically process images at a native high-resolution, forcing a trade-off between accuracy and computational efficiency: ...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv CV",
+        "title": "AgriChat: A Multimodal Large Language Model for Agriculture Image Understanding",
+        "link": "https://arxiv.org/abs/2603.16934",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16934v1 Announce Type: new \nAbstract: The deployment of Multimodal Large Language Models (MLLMs) in agriculture is currently stalled by a critical trade-off: the existing literature lacks t...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv CV",
+        "title": "GenLie: A Global-Enhanced Lie Detection Network under Sparsity and Semantic Interference",
+        "link": "https://arxiv.org/abs/2603.16935",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16935v1 Announce Type: new \nAbstract: Video-based lie detection aims to identify deceptive behaviors from visual cues. Despite recent progress, its core challenge lies in learning sparse ye...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv CV",
+        "title": "TDMM-LM: Bridging Facial Understanding and Animation via Language Models",
+        "link": "https://arxiv.org/abs/2603.16936",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16936v1 Announce Type: new \nAbstract: Text-guided human body animation has advanced rapidly, yet facial animation lags due to the scarcity of well-annotated, text-paired facial corpora. To ...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv CV",
+        "title": "Solution for 10th Competition on Ambivalence/Hesitancy (AH) Video Recognition Challenge using Divergence-Based Multimodal Fusion",
+        "link": "https://arxiv.org/abs/2603.16939",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16939v1 Announce Type: new \nAbstract: We address the Ambivalence/Hesitancy (A/H) Video Recognition Challenge at the 10th ABAW Competition (CVPR 2026). We propose a divergence-based multimod...",
+        "category": "学术研究"
+      }
+    ],
+    "199IT": [
+      {
+        "source": "199IT",
+        "title": "韧性构建：转型期的社会创新",
+        "link": "http://www.199it.com/archives/1809487.html",
+        "published": "2026-03-19T22:00:57",
+        "summary": "Schwab Foundation发布了2026年获奖者报告“转型时期的社会创新”。报告介绍了2026年Schwab Foundation基金会的获奖者——这是一群极具影响力的社会创新者，他们让我们明白，领导力可以建立在目标和诚信的基础上，同时仍能在公共利益方面展现出雄心和创新精神。从企业家和运动推动者到公共和私营部门的变革推动者，他们体现了这样一个信念——以及这一信念的证明——我们的经济和社会能...",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "欧洲车队电动化：产业拐点与万亿级机遇",
+        "link": "http://www.199it.com/archives/1817468.html",
+        "published": "2026-03-19T21:30:53",
+        "summary": "企业车队贡献约60%的新车销量，并覆盖几乎全部商用车市场，同时占道路交通碳排放的重要份额，其中乘用车约45%、轻型商用车约12%、卡车和公交约27%。",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "Sensor Tower ：2026 年印度移动应用市场报告",
+        "link": "http://www.199it.com/archives/1812770.html",
+        "published": "2026-03-19T21:00:55",
+        "summary": "2025年全年下载量达255亿次，同比增长4%，但较此前高速扩张明显趋稳；与此同时，总使用时长达到1.23万亿小时，同比增长9%，人均年使用时长超过840小时，表明用户粘性持续增强。",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "迈向未来互联网：治理范式的重塑与协同",
+        "link": "http://www.199it.com/archives/1729937.html",
+        "published": "2026-03-19T20:00:12",
+        "summary": "当前互联网已覆盖约53.5亿人口，但全球仍有约26亿人处于离线状态，实际渗透率仅66%。这一数据揭示数字鸿沟依然显著，同时也反映出基础设施与内容可达性的结构性不足。",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "2026年印度主要市场台式机与笔记本电脑出货量预测（附原数据表） ​​​",
+        "link": "http://www.199it.com/archives/1817508.html",
+        "published": "2026-03-19T18:08:38",
+        "summary": "2026年印度主要市场台式机与笔记本电脑出货量预测（附原数据表） ​​​",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "2026年印度主要市场台式机与笔记本电脑出货量同比预测（附原数据表） ​​​",
+        "link": "http://www.199it.com/archives/1817505.html",
+        "published": "2026-03-19T18:07:39",
+        "summary": "2026年印度主要市场台式机与笔记本电脑出货量同比预测（附原数据表） ​​​",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "Crunchbase：2025年独角兽投资退出创新高",
+        "link": "http://www.199it.com/archives/1803466.html",
+        "published": "2026-03-19T18:00:57",
+        "summary": "根据Crunchbase的数据分析，在经历了三年的低迷后，独角兽公司的退出活动终于在2025年回暖。独角兽公司的首次公开募股数量已回升至2021年之前的水平，而并购交易在数量和金额上均创下历史新高。",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "腾讯控股：2025年全年营收7517.66亿元，同比增长14%",
+        "link": "http://www.199it.com/archives/1817385.html",
+        "published": "2026-03-19T12:11:19",
+        "summary": "腾讯控股发布2025年财报，全年营业收入7517.66亿元，同比增长14%；归母净利润2248.42亿元，同比增长16%。第四季度营收1943.71亿元，同比增长13%。截至2025年底，微信及WeChat合并月活账户数达14.18亿，同比增长2%。腾讯云在AI需求带动下实现规模化盈利，混元等AI模型能力持续提升。",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "宾利：2025年营收微跌1%利润暴跌42%，裁员6%",
+        "link": "http://www.199it.com/archives/1817389.html",
+        "published": "2026-03-19T12:11:10",
+        "summary": "宾利公布2025年财报，营收微跌1%但营业利润暴跌超42%至2.16亿欧元，公司宣布裁员275人，占员工总数6%。业绩下滑主因美国关税造成约4200万欧元损失、汇率波动及中国市场需求疲软导致全球交付量下滑5%。同时，宾利将全系纯电目标从2030年推迟至2035年后，行业整体承压，保时捷、阿斯顿·马丁等品牌也面临销量利润下滑与裁员。",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "瑞银：2026年2月即时零售美团订单份额51% 淘宝闪购42%",
+        "link": "http://www.199it.com/archives/1817397.html",
+        "published": "2026-03-19T12:10:52",
+        "summary": "瑞银2026年3月报告显示，2月即时零售市场按骑手应用停留时长测算，美团、阿里、京东份额分别为67%、23%、10%；按订单量估算则为51%、42%、7%。易观分析同期报告则称淘宝闪购以45.2%份额反超美团。两份报告结论迥异，根源在于统计口径差异，包括订单量/GTV口径、品类与履约时效界定等，并揭示了部分报告可能存在的定制化倾向。",
+        "category": "政策与产业"
+      }
+    ]
+  },
+  "by_category": {
+    "AI科技": [
+      {
+        "source": "TechCrunch AI",
+        "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+        "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+        "published": "2026-03-19T22:09:24",
+        "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
+        "category": "AI科技"
+      },
+      {
+        "source": "TechCrunch AI",
+        "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+        "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+        "published": "2026-03-19T19:09:02",
+        "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
+        "category": "AI科技"
+      },
+      {
+        "source": "TechCrunch AI",
+        "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+        "link": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+        "published": "2026-03-19T17:24:13",
+        "summary": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
+        "category": "AI科技"
+      },
+      {
+        "source": "TechCrunch AI",
+        "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+        "link": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
+        "published": "2026-03-19T16:14:00",
+        "summary": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.",
+        "category": "AI科技"
+      },
+      {
+        "source": "TechCrunch AI",
+        "title": "TechCrunch Startup Battlefield 200 nominations are still open",
+        "link": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
+        "published": "2026-03-19T15:00:00",
+        "summary": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access.",
+        "category": "AI科技"
+      },
+      {
+        "source": "TechCrunch AI",
+        "title": "Amazon brings Alexa+ to the UK",
+        "link": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
+        "published": "2026-03-19T12:27:24",
+        "summary": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
+        "category": "AI科技"
+      },
+      {
+        "source": "TechCrunch AI",
+        "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
+        "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
+        "published": "2026-03-19T08:00:00",
+        "summary": "After compressing models from major AI labs, including OpenAI, Meta, DeepSeek, and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models an...",
+        "category": "AI科技"
+      },
+      {
+        "source": "The Verge AI",
+        "title": "OpenAI is planning a desktop ‘superapp’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+        "published": "2026-03-20T00:09:38",
+        "summary": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making th...",
+        "category": "AI科技"
+      },
+      {
+        "source": "The Verge AI",
+        "title": "A rogue AI led to a serious security incident at Meta",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+        "published": "2026-03-19T18:20:05",
+        "summary": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The I...",
+        "category": "AI科技"
+      },
+      {
+        "source": "The Verge AI",
+        "title": "Adobe’s AI image generator can now be trained on your own art",
+        "link": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
+        "published": "2026-03-19T13:00:00",
+        "summary": "Adobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creat...",
+        "category": "AI科技"
+      },
+      {
+        "source": "The Verge AI",
+        "title": "Fitbit&#8217;s AI health coach will soon be able to read your medical records",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
+        "published": "2026-03-19T12:27:23",
+        "summary": "Would you share your medical records with a personal trainer? How about a virtual one? Google, which this week announced it is giving Fitbit's AI health coach the ability to read your medical records,...",
+        "category": "AI科技"
+      },
+      {
+        "source": "GitHub Blog",
+        "title": "Rethinking open source mentorship in the AI era",
+        "link": "https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/",
+        "published": "2026-03-19T18:00:00",
+        "summary": "<p>As contribution volume grows, mentorship signals are harder to read. The 3 Cs framework helps maintainers mentor more strategically... without burning out.</p>\n<p>The post <a href=\"https://github.b...",
+        "category": "AI科技"
+      },
+      {
+        "source": "GitHub Blog",
+        "title": "How Squad runs coordinated AI agents inside your repository",
+        "link": "https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/",
+        "published": "2026-03-19T16:09:50",
+        "summary": "<p>An inside look at repository-native orchestration with GitHub Copilot and the design patterns behind multi-agent workflows that stay inspectable, predictable, and collaborative. </p>\n<p>The post <a...",
+        "category": "AI科技"
+      },
+      {
+        "source": "量子位",
+        "title": "Qwen3.5-Max预览版首度亮相，阿里千问登顶中国最强模型",
+        "link": "https://www.qbitai.com/2026/03/389610.html",
+        "published": "2026-03-20T02:11:30",
+        "summary": "阿里千问位列全球前五",
+        "category": "AI科技"
+      },
+      {
+        "source": "量子位",
+        "title": "Meta Agent失控泄密，小扎紧急拉响顶格警报",
+        "link": "https://www.qbitai.com/2026/03/389570.html",
+        "published": "2026-03-20T00:52:59",
+        "summary": "能让小扎栽跟头的，还得是“AI”。",
+        "category": "AI科技"
+      },
+      {
+        "source": "量子位",
+        "title": "黄仁勋：每一家工业企业都将成为机器人公司！连发物理AI全家桶",
+        "link": "https://www.qbitai.com/2026/03/389569.html",
+        "published": "2026-03-20T00:52:21",
+        "summary": "抛出了一整套物理AI基础设施",
+        "category": "AI科技"
+      },
+      {
+        "source": "量子位",
+        "title": "太初元碁推出企业级“养虾”方案，发布太初龙虾一体机（TecoClaw）",
+        "link": "https://www.qbitai.com/2026/03/389562.html",
+        "published": "2026-03-19T12:35:39",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "量子位",
+        "title": "阿里宣布AI战略商业目标：未来五年，云和AI商业化收入突破1000亿美元",
+        "link": "https://www.qbitai.com/2026/03/389559.html",
+        "published": "2026-03-19T12:07:52",
+        "summary": "正式突破1000亿元人民币",
+        "category": "AI科技"
+      },
+      {
+        "source": "量子位",
+        "title": "阿里财报电话会：平头哥GPU芯片已累计规模化交付47万片",
+        "link": "https://www.qbitai.com/2026/03/389556.html",
+        "published": "2026-03-19T12:05:42",
+        "summary": "涵盖包括互联网、金融服务、自动驾驶等多个行业。",
+        "category": "AI科技"
+      },
+      {
+        "source": "量子位",
+        "title": "老黄怒怼玩家根本不懂AI！英伟达新AI功能遭全网抵制，游戏圈炸锅了",
+        "link": "https://www.qbitai.com/2026/03/389447.html",
+        "published": "2026-03-19T11:35:27",
+        "summary": "游戏角色集体“整容”了",
+        "category": "AI科技"
+      },
+      {
+        "source": "量子位",
+        "title": "于骞出席德国慕尼黑汽车论坛：世界模型+强化学习是通向物理AI的必经之路",
+        "link": "https://www.qbitai.com/2026/03/389442.html",
+        "published": "2026-03-19T11:02:55",
+        "summary": "世界模型+强化学习",
+        "category": "AI科技"
+      },
+      {
+        "source": "量子位",
+        "title": "同事群里催催催，龙虾自动回回回！刚发布的「飞书龙虾」把我解脱了",
+        "link": "https://www.qbitai.com/2026/03/389322.html",
+        "published": "2026-03-19T10:45:00",
+        "summary": "无需部署，人人可用",
+        "category": "AI科技"
+      },
+      {
+        "source": "量子位",
+        "title": "斯洛伐克首次迎来无人驾驶，文远知行全球版图扩至十二国",
+        "link": "https://www.qbitai.com/2026/03/389315.html",
+        "published": "2026-03-19T10:20:38",
+        "summary": "文远知行将进一步深化在欧洲市场的商业化布局。",
+        "category": "AI科技"
+      },
+      {
+        "source": "36氪",
+        "title": "从能力到商品：Skills市场正在重塑开发者的生产方式",
+        "link": "https://36kr.com/p/3730644353286150?f=rss",
+        "published": "2026-03-20T02:19:20",
+        "summary": "<p>技能是产业竞争力的重要体现方式之一 。在上海，一场 AI 时代的技能革命也在悄然展开——进入 2026 年，新赛季的竞争不再是大模型间的参数比拼，而是谁能真正走进工厂、实验室和写字楼，变成“会做事”的生产力工具。开源项目 OpenClaw 的迅速走红，折射出以 Skills 市场等形式的开放共享的新趋势——或许正是那把撬开这场 Agent 变革的锁钥。</p>\n  <p>简言之， Skill...",
+        "category": "AI科技"
+      },
+      {
+        "source": "36氪",
+        "title": "港中文95后博士、OPPO员工做了款AI可穿戴硬件，要成为用户全天候情感导师｜硬氪首发",
+        "link": "https://36kr.com/p/3729647028960903?f=rss",
+        "published": "2026-03-20T01:20:00",
+        "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，深圳十镜科技有限公司（以下简称“十镜科技”）近日完成数千万元天使轮融资，本轮由元禾原点投资，融资资金将主要用于核心技术研发、产品结构迭代优化及小批量量产落地。首款产品Spiro计划于&nbsp;2026年4月在北美独立站上线、6月量产。</p>\n  <p>十镜科技成立于2025年7月，创始人兼CEO赵之赫是一名95后连续...",
+        "category": "AI科技"
+      },
+      {
+        "source": "36氪",
+        "title": "8点1氪丨贾国龙推出新品牌“天边砂锅焖面”；涨价4000元，新一代小米SU7起售价21.99万元；麦当劳回应卖蛋挞",
+        "link": "https://36kr.com/p/3730515366871046?f=rss",
+        "published": "2026-03-19T23:59:21",
+        "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>ZARA、H&amp;M、拉夫劳伦等，被海关总署点名通报</li>\n   <li>腾讯股价大跌原因：加大AI投入或削减回购</li>\n   <li>欧盟证实：马斯克X缴纳1.2亿欧元罚款</li>\n   <li>中国移动“移动梦网”等业务将下线</li>\n   <li>现货黄金跌破4700美元</li>\n   <li>腾讯回应在美游戏投资...",
+        "category": "AI科技"
+      },
+      {
+        "source": "36氪",
+        "title": "氪星晚报｜��大利亚就业依然强劲，支持澳央行的鹰派立场；首款国产化“龙虾云电脑”发布；法官下令恢复美国之音员工职务，推翻特朗普关停决定",
+        "link": "https://36kr.com/p/3729727275220613?f=rss",
+        "published": "2026-03-19T10:39:47",
+        "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://www.36kr.com/newsflashes/3729201896996481\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>马斯克：SpaceX AI和特斯拉预计将继续大规模订购英伟达芯片</strong></a></p>\n  <p...",
+        "category": "AI科技"
+      },
+      {
+        "source": "36氪",
+        "title": "AWE 2026观察：AI重构家庭空间",
+        "link": "https://36kr.com/p/3729551142534532?f=rss",
+        "published": "2026-03-19T08:27:34",
+        "summary": "<p>作者：王利</p>\n  <p>编辑：王小坤</p>\n  <p>想象一下，你身处一间密闭场所，四周音箱环绕。接着，音乐响起，声音从不同方向传来：有的掠过头顶，有的在左耳回响，每个声源的位置都清晰可辨。随后，你戴上一副耳机。奇怪的是，耳机隔音似乎并不好，外面声音清晰依旧。听了一会，你有些腻了，摘下耳机，才发现四周的音箱早已关闭——刚才以为仍由音箱播放的音乐，其实一直出自耳机。</p>\n  <p>...",
+        "category": "AI科技"
+      },
+      {
+        "source": "36氪",
+        "title": "超级创业者时代：如何让个人拥有组织级能力",
+        "link": "https://36kr.com/p/3729545296559749?f=rss",
+        "published": "2026-03-19T07:45:41",
+        "summary": "<h3><strong>序章｜一个人，就是一家公司：第四次个体经济浪潮正在爆发</strong></h3>\n  <p>历史上每一次生产关系的重构，都诞生于旧有组织形态的瓶颈与新技术力量的碰撞。从1980年代的街头个体户，到1999年《个人独资企业法》确立的法人主体，再到2014年“大众创业、万众创新”的移动互联网浪潮——中国个体经济政策的每一次跃升，都是时代的一次集体答卷。</p>\n  <p>而今...",
+        "category": "AI科技"
+      },
+      {
+        "source": "36氪",
+        "title": "长三角企业国际化合作发展交流会暨新华·中国企业出海合作中心（长三角）在宁启幕",
+        "link": "https://36kr.com/p/3729511818001799?f=rss",
+        "published": "2026-03-19T06:55:53",
+        "summary": "<p>3月17日，以“从长三角到全球：共筑企业出海新航线”为主题的长三角企业国际化合作发展交流会暨“新华·中国企业出海合作中心（长三角）”启动仪式在南京新华国际会议中心隆重举行，活动由香港长三角企业家国际联盟与江苏省国际商会联合主办。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260319/...",
+        "category": "AI科技"
+      },
+      {
+        "source": "36氪",
+        "title": "因胜传媒成功协办长三角企业国际化合作发展交流会",
+        "link": "https://36kr.com/p/3729505125350792?f=rss",
+        "published": "2026-03-19T06:49:21",
+        "summary": "<p>2026年3月17日，由香港长三角企业家国际联盟与江苏省国际商会联合主办、南京因胜文化传媒有限公司（简称“因胜传媒”）独家协办的“从长三角到全球：共筑企业出海新航线”为主题的长三角企业国际化合作发展交流会暨“新华·中国企业出海合作中心（长三角）”启动仪式在南京新华国际会议中心隆重举行。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img....",
+        "category": "AI科技"
+      },
+      {
+        "source": "36氪",
+        "title": "腾讯不愿在微信里躺平",
+        "link": "https://36kr.com/p/3729475100917126?f=rss",
+        "published": "2026-03-19T06:23:30",
+        "summary": "<p>作者&nbsp;|&nbsp;张帆 黄绎达</p>\n  <p>编辑&nbsp;|&nbsp;黄绎达</p>\n  <p>腾讯依旧还是那个稳健的腾讯。</p>\n  <p>3月18日，腾讯公布了2025年全年业绩。财报数据显示，公司在2025年实现收入7518亿元，同比增长14%；同期实现经营利润2416亿元，同比增长16%；同期Non-IFRS归母净利润录得2596亿元，同比增长17%。</p>...",
+        "category": "AI科技"
+      },
+      {
+        "source": "36氪",
+        "title": "揭秘蔚来芯片分拆始末，正积极接触多头部车企 | 36氪独家",
+        "link": "https://36kr.com/p/3729446000967304?f=rss",
+        "published": "2026-03-19T05:49:13",
+        "summary": "<p>3月10日，蔚来汽车公布财报，2025年四季度盈利超12亿元。这是蔚来在连续多个季度亏损数十亿元后，首次单季度盈利。</p>\n  <p>在这份盈利的财报背后，李斌对企业进行了一系列改革以严控成本，同时也将部分投入巨大的业务做了拆分以改善财务结构。</p>\n  <p>芯片业务无疑是蔚来最“烧钱”的业务之一。李斌曾在2025年的中国电动汽车百人会论坛上，测算过NX9031芯片的研发成本——一颗N...",
+        "category": "AI科技"
+      },
+      {
+        "source": "雷锋网",
+        "title": "员工曝宇树对外标榜弹性双休，内部却是另一套规则，非常卷；永辉喊话山姆不要让供应商二选一，业内人士称他们在躲永辉；傅盛开撕周鸿祎",
+        "link": "https://www.leiphone.com/category/zaobao/KUOUGnow9NtG6kxq.html",
+        "published": "2026-03-20T00:51:00",
+        "summary": "<p style=\"text-align: center;\"><span style=\"font-size: 24px;\"><strong>要闻提示</strong></span><br /></p><p style=\"text-align: justify;\">1.宇树某程序员发帖称：宇树对外标榜弹性双休，内部却是另一套规则，非常卷</p><p style=\"text-align: justif...",
+        "category": "AI科技"
+      },
+      {
+        "source": "雷锋网",
+        "title": "超级创业者时代：如何让个人拥有组织级能力",
+        "link": "https://www.leiphone.com/category/industrynews/05NHwrQPUa9nsG7M.html",
+        "published": "2026-03-19T13:19:00",
+        "summary": "<h3>序章｜一个人，就是一家公司：第四次个体经济浪潮正在爆发</h3><p>历史上每一次生产关系的重构，都诞生于旧有组织形态的瓶颈与新技术力量的碰撞。从1980年代的街头个体户，到1999年《个人独资企业法》确立的法人主体，再到2014年“大众创业、万众创新”的移动互联网浪潮——中国个体经济政策的每一次跃升，都是时代的一次集体答卷。</p><p>而今天，<strong>随着Agent、OpenC...",
+        "category": "AI科技"
+      },
+      {
+        "source": "雷锋网",
+        "title": "阿里财报电话会：3月季度消费复苏明显，实物电商成交和CMR增速都显著回升",
+        "link": "https://www.leiphone.com/category/industrynews/A4j0I080EcQzwqqO.html",
+        "published": "2026-03-19T12:12:00",
+        "summary": "<p>3月19日晚间，阿里巴巴电商事业群CEO蒋凡在财报分析师会议上表示，3月季度已看到消费复苏比较明显，在即时零售战略的共同拉动下，实物电商成交和CMR增速都有显著回升。<br /></p><p>&nbsp;<span style=\"color: #FFFFFF;\">雷峰网</span></p><p><span style=\"color: #FFFFFF;\">&nbsp;</span></p><...",
+        "category": "AI科技"
+      },
+      {
+        "source": "雷锋网",
+        "title": "阿里财报电话会：平头哥GPU芯片已累计规模化交付47万片",
+        "link": "https://www.leiphone.com/category/industrynews/FRBajqXxesyPKYbv.html",
+        "published": "2026-03-19T11:55:00",
+        "summary": "<p>3月19日，在2026财年Q3财报分析师电话会上，阿里巴巴表示，平头哥自研的GPU芯片已实现规模化量产，截至26年2月，已经累计规模化交付47万片。在阿里云的实际业务场景，60%以上的平头哥芯片服务于外部商业化客户，已完成规模化外部客户AI任务适配，支持了400多家企业客户的AI任务，涵盖包括互联网、金融服务、自动驾驶等多个行业。<br /></p><p><span style=\"color...",
+        "category": "AI科技"
+      },
+      {
+        "source": "雷锋网",
+        "title": "阿里宣布AI战略商业目标：未来五年，云和AI商业化年收入突破1000亿美元",
+        "link": "https://www.leiphone.com/category/industrynews/FOvcT4JtrsGoDpbc.html",
+        "published": "2026-03-19T11:53:00",
+        "summary": "<p>&nbsp;3月19日，在阿里巴巴集团2026财年Q3财报分析师电话会上，CEO吴泳铭表示，阿里云2026财年截至2月底的外部商业化收入正式突破1000亿元人民币。面对长期的AI市场成长动能，阿里集团AI战略的商业目标也非常明确——未来五年，包含MaaS在内的云和AI商业化年收入突破1000亿美元。</p><p><span style=\"color: #FFFFFF;\">雷峰网</span>...",
+        "category": "AI科技"
+      },
+      {
+        "source": "雷锋网",
+        "title": "增速领跑！追觅科技获评英国《金融时报》年度高增长企业",
+        "link": "https://www.leiphone.com/category/industrynews/N6IqojhyxTPZJdfP.html",
+        "published": "2026-03-19T10:32:00",
+        "summary": "<p><br /></p><p>3月17日，追觅科技获评国际权威财经媒体《金融时报》年度高增长企业，凭借连续7年年复合增长率超100%的发展业绩强势登榜。该榜单由《金融时报》携手权威调研机构Statista联合发布，旨在寻找并表彰动力强劲、业务扩张迅速的企业，具有高度权威性和国际认可度。</p><p style=\"text-align: center;\"><img src=\"https://sta...",
+        "category": "AI科技"
+      },
+      {
+        "source": "雷锋网",
+        "title": "电商版“龙虾”来了！阿里悟空发布，用AI帮商家7✖️24小时经营淘宝天猫店",
+        "link": "https://www.leiphone.com/category/industrynews/9lko1QGOpLvQcCZo.html",
+        "published": "2026-03-19T04:21:00",
+        "summary": "<p>电商版“龙虾”来了！近日，阿里巴巴正式推出全球首个企业级AI原生工作平台——“悟空”，在电商领域，淘宝、天猫核心经营能力将以Skill（技能模块）形式陆续接入，商家可以像搭积木一样，把这些Skill进行组合并在悟空上创造自己的AI工作流，搭建出一支可随时随地待命的覆盖开店、选品、营销、运营、发货等各个环节的AI Agent团队。</p><p>更厉害的是，除了电商经营，商家还能通过悟空接入财税...",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "深圳 17 岁高中生回应成 Kimi 论文第一作者：不要造神，成果属于团队",
+        "link": "https://www.infoq.cn/article/CI5daAFmzhA1IWN2Z6zD?utm_source=rss&utm_medium=article",
+        "published": "2026-03-20T10:39:02",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/CI5daAFmzhA1IWN2Z6zD?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "Meta内部Agent失控升级：首个Sev 1级事故曝光，系统数据裸奔了两小时",
+        "link": "https://www.infoq.cn/article/IfVHPs1luTCi7om8XzgR?utm_source=rss&utm_medium=article",
+        "published": "2026-03-20T10:26:55",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/IfVHPs1luTCi7om8XzgR?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "针对全球化规模的架构设计：深入了解DoorDash统一、模块化的配送员入驻平台",
+        "link": "https://www.infoq.cn/article/PmBbwTjmUHNToWXSyEp4?utm_source=rss&utm_medium=article",
+        "published": "2026-03-20T10:00:00",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/PmBbwTjmUHNToWXSyEp4?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "智能体架构的降龙十八掌：从原型到工程落地的“生死取舍”｜QCon北京",
+        "link": "https://www.infoq.cn/article/3BUqAjZIrpKVwfbpKqBX?utm_source=rss&utm_medium=article",
+        "published": "2026-03-20T09:55:00",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/3BUqAjZIrpKVwfbpKqBX?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "针对库存优化的 Snowflake Intelligence 供应链助手",
+        "link": "https://www.infoq.cn/article/p0UmiTXd3w2fAfIWV6r0?utm_source=rss&utm_medium=article",
+        "published": "2026-03-19T21:37:49",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/p0UmiTXd3w2fAfIWV6r0?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "我把 MiniMax M2.7 扔进真实业务里：它替我省了 BI 和程序员的钱",
+        "link": "https://www.infoq.cn/article/wxlURmwIyV0JWJRHswAx?utm_source=rss&utm_medium=article",
+        "published": "2026-03-19T21:35:07",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/wxlURmwIyV0JWJRHswAx?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "从AI编程到Agent开发 九章云极智算云助力生态普惠升级",
+        "link": "https://www.infoq.cn/article/d0fGGHB46WOiqtAUbgAF?utm_source=rss&utm_medium=article",
+        "published": "2026-03-19T15:04:13",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/d0fGGHB46WOiqtAUbgAF?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "发 token 当工资？工程师不只拿现金和期权，开始按 token 分身价了",
+        "link": "https://www.infoq.cn/article/ChuKpAjxIo4oA3DwsdD3?utm_source=rss&utm_medium=article",
+        "published": "2026-03-19T14:40:13",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/ChuKpAjxIo4oA3DwsdD3?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "极客部落“OPC 创业者招募计划”正式启动 —— 携手朝阳区赋能 AI 时代独角兽，助推人才高质量发展",
+        "link": "https://www.infoq.cn/article/LbxEy5EyhN3e4CW05IIw?utm_source=rss&utm_medium=article",
+        "published": "2026-03-19T14:39:48",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/LbxEy5EyhN3e4CW05IIw?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "InfoQ",
+        "title": "神秘爆款模型被小米认领！雷军直言超过马斯克 xAI Grok，罗福莉透露MiMo-V2-Pro将开源",
+        "link": "https://www.infoq.cn/article/RrUxZpVIe44S0slaHvr5?utm_source=rss&utm_medium=article",
+        "published": "2026-03-19T14:35:51",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/RrUxZpVIe44S0slaHvr5?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Push events into a running session with channels",
+        "link": "https://code.claude.com/docs/en/channels",
+        "published": "2026-03-20T00:22:08",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47448524\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Astral to Join OpenAI",
+        "link": "https://astral.sh/blog/openai",
+        "published": "2026-03-19T13:05:50",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47438723\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Drugwars for the TI-82/83/83 Calculators",
+        "link": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
+        "published": "2026-03-20T00:26:47",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47448566\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Google details new 24-hour process to sideload unverified Android apps",
+        "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+        "published": "2026-03-19T17:16:04",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47442690\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+        "link": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+        "published": "2026-03-20T01:09:45",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47448994\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Cockpit is a web-based graphical interface for servers",
+        "link": "https://github.com/cockpit-project/cockpit",
+        "published": "2026-03-19T20:33:02",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47445599\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "Hacker News",
+        "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+        "link": "https://github.com/KittenML/KittenTTS",
+        "published": "2026-03-19T15:56:06",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=47441546\">Comments</a>",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "WWW2026｜让双塔“开天眼”：快手 GRank 赋予生成器“预判”能力，在线召回快准兼得",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.364557",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "Qwen3.5-Max预览版首度亮相，阿里千问登顶中国最强模型",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.365055",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "刚刚，OpenAI买下Python最强基建，准备垄断开发者「生产资料」",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.365344",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "北航，清华，北大联合发布： 异构智能体协同强化学习！",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.365595",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "让机器人感知「有证可查」：3D 视觉全局求解器综述",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.366062",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "脑机接口赛道爆发在即，一场由AI主导的全球直播在发出什么预警？",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.366233",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "因聚而升，融智有为：华为中国合作伙伴大会2026成功启幕",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.366402",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "飞书发布飞书版“小龙虾”  用户一下点击即可拥有专属 Agent",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.366549",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "行业里程碑！智元 × 清华 × 麦吉尔：全球首创 MANSION 框架，打造下一代具身智能 “试验场”",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.366722",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "机器之心",
+        "title": "华为发布全新AI数据基础设施，加速全场景推理体验升级",
+        "link": "https://www.jiqizhixin.com/articles",
+        "published": "2026-03-20T03:53:42.366873",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "新智元",
+        "title": "企业级场景硬碰硬！国产智能体bit-Agent小青龙正面挑战OpenClaw小龙虾",
+        "link": "https://ailab.cn/20260313164742_1/",
+        "published": "2026-03-20T03:53:50.107238",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "新智元",
+        "title": "AI杀死SaaS？这个问题也许问错了",
+        "link": "https://ailab.cn/20260319164771_1/",
+        "published": "2026-03-20T03:53:50.107386",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "新智元",
+        "title": "两业融合的广州解法：AI如何串起一座城",
+        "link": "https://ailab.cn/20260319164756_1/",
+        "published": "2026-03-20T03:53:50.107484",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "新智元",
+        "title": "获近亿元融资，一家AI公司的两周转型小龙虾实战故事",
+        "link": "https://ailab.cn/20260310164710_1/",
+        "published": "2026-03-20T03:53:50.107569",
+        "summary": "",
+        "category": "AI科技"
+      },
+      {
+        "source": "新智元",
+        "title": "构建会思考的测试Agent：从自动化到自主智能的演进",
+        "link": "https://ailab.cn/20260311164728_1/",
+        "published": "2026-03-20T03:53:50.107646",
+        "summary": "",
+        "category": "AI科技"
+      }
+    ],
+    "商业财经": [
+      {
+        "source": "CNBC Finance",
+        "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
+        "link": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html",
+        "published": "2026-03-19T17:24:32",
+        "summary": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
+        "category": "商业财经"
+      },
+      {
+        "source": "CNBC Finance",
+        "title": "OpenClaw demand in China is driving up the price of used MacBooks",
+        "link": "https://www.cnbc.com/2026/03/19/openclaw-demand-in-china-is-driving-up-the-price-of-secondhand-macbooks.html",
+        "published": "2026-03-19T11:02:11",
+        "summary": "People in China are rushing to buy preowned computers to try OpenClaw with demand for MacBooks particularly high, according to one reseller.",
+        "category": "商业财经"
+      },
+      {
+        "source": "CNBC Finance",
+        "title": "Here's what changed in the new Fed statement",
+        "link": "https://www.cnbc.com/2026/03/18/federal-reserve-meeting-statement-march.html",
+        "published": "2026-03-19T14:09:38",
+        "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in January.",
+        "category": "商业财经"
+      },
+      {
+        "source": "CNBC Finance",
+        "title": "JPMorgan Chase taps A'ja Wilson, Tom Brady for new athlete wealth management push",
+        "link": "https://www.cnbc.com/2026/03/18/jpmorgan-athlete-wealth-management-tom-brady-dwyane-wade.html",
+        "published": "2026-03-19T14:20:28",
+        "summary": "JPMorgan's move reflects growing competition among banks and wealth managers to serve athletes, who are increasingly becoming entrepreneurs and investors.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "Baked by Melissa’s founder was fired at 24. Two decades later, she’s ‘so freaking thrilled’ to step down as CEO",
+        "link": "https://fortune.com/2026/03/19/baked-by-melissas-founder-so-freaking-thrilled-to-step-down-as-ceo-melissa-ben-ishay/",
+        "published": "2026-03-19T20:35:48",
+        "summary": "The last cupcake brand standing from the 2010s boom is now open to a sale.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "Jack Schlossberg on why Democrats lost young men to Trump—and it starts with the reason he quit the Biden campaign",
+        "link": "https://fortune.com/2026/03/19/jack-schlossberg-young-men-trump-social-media-jfk-grandson/",
+        "published": "2026-03-19T18:40:49",
+        "summary": "Schlossberg also told Fortune which party really represents \"modernity,\" and why Democrats need to stand for something.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "Gen Z’s straight‑A boom is quietly shrinking their paychecks",
+        "link": "https://fortune.com/2026/03/19/gen-z-grade-inflation-earnings-loss-absences-suspensions/",
+        "published": "2026-03-19T21:10:57",
+        "summary": "Grade inflation offers short-term gains, but poorer future test scores, lower graduation rates, and lower annual earnings, a new study finds.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "The CEO of Patreon blasts AI companies for the ‘bogus excuse’ they’re using to not pay artists",
+        "link": "https://fortune.com/2026/03/19/ceo-patreon-jack-conte-influencers-content-creators-ai-openai-anthropic-copyright-fair-use-lawsuits/",
+        "published": "2026-03-19T18:36:54",
+        "summary": "Jack Conte says AI firms' fair use claims fall apart when you look at their Disney and Warner deals.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "TV host Mike Rowe slams schools for portraying skilled trades as a ‘consolation prize’—when he’s met data center electricians making $280K a year",
+        "link": "https://fortune.com/2026/03/19/mike-rowe-dirty-jobs-host-skilled-trade-warning-education-alarm-gen-z-six-figure-careers-data-center-electricans/",
+        "published": "2026-03-19T15:42:40",
+        "summary": "America pushed a generation toward college—now it’s short hundreds of thousands of skilled workers, and “Dirty Jobs” host Mike Rowe is joining CEOs of top companies like Nvidia, Ford, and BlackRock in...",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "Bitcoin struggles to hold $70,000 as oil surge jolts risk assets",
+        "link": "https://fortune.com/2026/03/19/bitcoin-struggles-to-hold-70000-as-oil-surge-jolts-risk-assets/",
+        "published": "2026-03-19T14:40:33",
+        "summary": "Other cryptocurrencies such as Ether, BNB and XRP also declined.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "France is experiencing wave of crypto assault. One involved an influencer’s father doused with gasoline",
+        "link": "https://fortune.com/2026/03/19/france-is-experiencing-wave-of-crypto-assault/",
+        "published": "2026-03-19T19:35:10",
+        "summary": "A majority of so-called wrench attacks so far this year have occurred in France.",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "War, oil, and an unpaid TSA: The perfect storm of travel chaos feels like the pandemic all over again",
+        "link": "https://fortune.com/2026/03/19/war-oil-tsa-shutdown-perfect-storm-travelers-pandemic/",
+        "published": "2026-03-19T19:21:42",
+        "summary": "Flights face new disruption as war, oil costs, and TSA pay issues hit travelers",
+        "category": "商业财经"
+      },
+      {
+        "source": "Fortune",
+        "title": "Uber will operate its own robotaxis again—this time with Rivian’s not‑yet‑built EVs",
+        "link": "https://fortune.com/2026/03/19/uber-robotaxi-fleet-rivian-r2/",
+        "published": "2026-03-19T19:12:33",
+        "summary": "After studying the competition for years via partnerships, Uber is apparently ready to take on more risk again.",
+        "category": "商业财经"
+      },
+      {
+        "source": "BBC Technology",
+        "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
+        "link": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-03-19T15:33:22",
+        "summary": "Meta wants creators to \"rediscover\" Facebook, but a social media expert says viewers will not follow.",
+        "category": "商业财经"
+      },
+      {
+        "source": "BBC Technology",
+        "title": "US messageboard 4Chan mocks £520,000 fine for UK online safety breaches",
+        "link": "https://www.bbc.com/news/articles/c624330lg1ko?at_medium=RSS&at_campaign=rss",
+        "published": "2026-03-19T12:13:04",
+        "summary": "The fine includes £450,000 for lack of age checks to prevent children from seeing pornography.",
+        "category": "商业财经"
+      },
+      {
+        "source": "BBC Technology",
+        "title": "Amazon's Alexa has had an AI upgrade. Now she's got more to say",
+        "link": "https://www.bbc.com/news/articles/c3ewe7v7gpgo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-03-19T05:55:42",
+        "summary": "There has been criticism the Echo has stagnated, while other AI chatbots have become much easier to communicate with.",
+        "category": "商业财经"
+      }
+    ],
+    "学术研究": [
+      {
+        "source": "arXiv AI",
+        "title": "Generative AI-assisted Participatory Modeling in Socio-Environmental Planning under Deep Uncertainty",
+        "link": "https://arxiv.org/abs/2603.17021",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17021v1 Announce Type: new \nAbstract: Socio-environmental planning under deep uncertainty requires researchers to identify and conceptualize problems before exploring policies and deploying...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv AI",
+        "title": "Transformers are Bayesian Networks",
+        "link": "https://arxiv.org/abs/2603.17063",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17063v1 Announce Type: new \nAbstract: Transformers are the dominant architecture in AI, yet why they work remains poorly understood. This paper offers a precise answer: a transformer is a B...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv AI",
+        "title": "Cascade-Aware Multi-Agent Routing: Spatio-Temporal Sidecars and Geometry-Switching",
+        "link": "https://arxiv.org/abs/2603.17112",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17112v1 Announce Type: new \nAbstract: A common architectural pattern in advanced AI reasoning systems is the symbolic graph network: specialized agents or modules connected by delegation ed...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv AI",
+        "title": "How Clued up are LLMs? Evaluating Multi-Step Deductive Reasoning in a Text-Based Game Environment",
+        "link": "https://arxiv.org/abs/2603.17169",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17169v1 Announce Type: new \nAbstract: Deducing whodunit proves challenging for LLM agents. In this paper, we implement a text-based multi-agent version of the classic board game Clue as a r...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv AI",
+        "title": "AI Scientist via Synthetic Task Scaling",
+        "link": "https://arxiv.org/abs/2603.17216",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17216v1 Announce Type: new \nAbstract: With the advent of AI agents, automatic scientific discovery has become a tenable goal. Many recent works scaffold agentic systems that can perform mac...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv AI",
+        "title": "Draft-and-Prune: Improving the Reliability of Auto-formalization for Logical Reasoning",
+        "link": "https://arxiv.org/abs/2603.17233",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17233v1 Announce Type: new \nAbstract: Auto-formalization (AF) translates natural-language reasoning problems into solver-executable programs, enabling symbolic solvers to perform sound logi...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv AI",
+        "title": "Graph-Native Cognitive Memory for AI Agents: Formal Belief Revision Semantics for Versioned Memory Architectures",
+        "link": "https://arxiv.org/abs/2603.17244",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17244v1 Announce Type: new \nAbstract: While individual components for AI agent memory exist in prior systems, their architectural synthesis and formal grounding remain underexplored. We pre...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv AI",
+        "title": "Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations",
+        "link": "https://arxiv.org/abs/2603.17305",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17305v1 Announce Type: new \nAbstract: We propose CRAFT, a red-teaming alignment framework that leverages model reasoning capabilities and hidden representations to improve robustness agains...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv AI",
+        "title": "InfoDensity: Rewarding Information-Dense Traces for Efficient Reasoning",
+        "link": "https://arxiv.org/abs/2603.17310",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17310v1 Announce Type: new \nAbstract: Large Language Models (LLMs) with extended reasoning capabilities often generate verbose and redundant reasoning traces, incurring unnecessary computat...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv AI",
+        "title": "Physics-informed offline reinforcement learning eliminates catastrophic fuel waste in maritime routing",
+        "link": "https://arxiv.org/abs/2603.17319",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.17319v1 Announce Type: new \nAbstract: International shipping produces approximately 3% of global greenhouse gas emissions, yet voyage routing remains dominated by heuristic methods. We pres...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv NLP",
+        "title": "Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context",
+        "link": "https://arxiv.org/abs/2603.15653",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15653v1 Announce Type: new \nAbstract: Long-context handling remains a core challenge for language models: even with extended context windows, models often fail to reliably extract, reason o...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv NLP",
+        "title": "MedArena: Comparing LLMs for Medicine-in-the-Wild Clinician Preferences",
+        "link": "https://arxiv.org/abs/2603.15677",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15677v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly central to clinician workflows, spanning clinical decision support, medical education, and patient commun...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv NLP",
+        "title": "MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification",
+        "link": "https://arxiv.org/abs/2603.15726",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15726v1 Announce Type: new \nAbstract: We present MiroThinker-1.7, a new research agent designed for complex long-horizon reasoning tasks. Building on this foundation, we further introduce M...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv NLP",
+        "title": "Morphemes Without Borders: Evaluating Root-Pattern Morphology in Arabic Tokenizers and LLMs",
+        "link": "https://arxiv.org/abs/2603.15773",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15773v1 Announce Type: new \nAbstract: This work investigates how effectively large language models (LLMs) and their tokenization schemes represent and generate Arabic root-pattern morpholog...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv NLP",
+        "title": "COGNAC at SemEval-2026 Task 5: LLM Ensembles for Human-Level Word Sense Plausibility Rating in Challenging Narratives",
+        "link": "https://arxiv.org/abs/2603.15897",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15897v1 Announce Type: new \nAbstract: We describe our system for SemEval-2026 Task 5, which requires rating the plausibility of given word senses of homonyms in short stories on a 5-point L...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv NLP",
+        "title": "Agent-based imitation dynamics can yield efficiently compressed population-level vocabularies",
+        "link": "https://arxiv.org/abs/2603.15903",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15903v1 Announce Type: new \nAbstract: Natural languages have been argued to evolve under pressure to efficiently compress meanings into words by optimizing the Information Bottleneck (IB) c...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv NLP",
+        "title": "CTG-DB: An Ontology-Based Transformation of ClinicalTrials.gov to Enable Cross-Trial Drug Safety Analyses",
+        "link": "https://arxiv.org/abs/2603.15936",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15936v2 Announce Type: new \nAbstract: ClinicalTrials .gov (CT .gov) is the largest publicly accessible registry of clinical studies, yet its registry-oriented architecture and heterogeneous...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv NLP",
+        "title": "BANGLASOCIALBENCH: A Benchmark for Evaluating Sociopragmatic and Cultural Alignment of LLMs in Bangladeshi Social Interaction",
+        "link": "https://arxiv.org/abs/2603.15949",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15949v1 Announce Type: new \nAbstract: Large Language Models have demonstrated strong multilingual fluency, yet fluency alone does not guarantee socially appropriate language use. In high-co...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv NLP",
+        "title": "POLAR:A Per-User Association Test in Embedding Space",
+        "link": "https://arxiv.org/abs/2603.15950",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15950v1 Announce Type: new \nAbstract: Most intrinsic association probes operate at the word, sentence, or corpus level, obscuring author-level variation. We present POLAR (Per-user On-axis ...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv NLP",
+        "title": "A Family of LLMs Liberated from Static Vocabularies",
+        "link": "https://arxiv.org/abs/2603.15953",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.15953v1 Announce Type: new \nAbstract: Tokenization is a central component of natural language processing in current large language models (LLMs), enabling models to convert raw text into pr...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv ML",
+        "title": "A foundation model for electrodermal activity data",
+        "link": "https://arxiv.org/abs/2603.16878",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16878v1 Announce Type: new \nAbstract: Foundation models have recently extended beyond natural language and vision to timeseries domains, including physiological signals. However, progress i...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv ML",
+        "title": "Federated Multi Agent Deep Learning and Neural Networks for Advanced Distributed Sensing in Wireless Networks",
+        "link": "https://arxiv.org/abs/2603.16881",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16881v1 Announce Type: new \nAbstract: Multi-agent deep learning (MADL), including multi-agent deep reinforcement learning (MADRL), distributed/federated training, and graph-structured neura...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv ML",
+        "title": "Multi-Agent Reinforcement Learning for Dynamic Pricing: Balancing Profitability,Stability and Fairness",
+        "link": "https://arxiv.org/abs/2603.16888",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16888v1 Announce Type: new \nAbstract: Dynamic pricing in competitive retail markets requires strategies that adapt to fluctuating demand and competitor behavior. In this work, we present a ...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv ML",
+        "title": "From Language to Action in Arabic: Reliable Structured Tool Calling via Data-Centric Fine-Tuning",
+        "link": "https://arxiv.org/abs/2603.16901",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16901v1 Announce Type: new \nAbstract: Function-calling language models are essential for agentic AI systems that translate natural language into executable structured actions, yet existing ...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv ML",
+        "title": "What on Earth is AlphaEarth? Hierarchical structure and functional interpretability for global land cover",
+        "link": "https://arxiv.org/abs/2603.16911",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16911v1 Announce Type: new \nAbstract: Geospatial foundation models generate high-dimensional embeddings that achieve strong predictive performance, yet their internal organization remains o...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv ML",
+        "title": "HoloByte: Continuous Hyperspherical Distillation for Tokenizer-Free Modeling",
+        "link": "https://arxiv.org/abs/2603.16917",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16917v1 Announce Type: new \nAbstract: Sequence modeling universally relies on discrete subword tokenization to circumvent the $\\mathcal{O}(N^2)$ computational intractability of native byte-...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv ML",
+        "title": "MHPO: Modulated Hazard-aware Policy Optimization for Stable Reinforcement Learning",
+        "link": "https://arxiv.org/abs/2603.16929",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16929v1 Announce Type: new \nAbstract: Regulating the importance ratio is critical for the training stability of Group Relative Policy Optimization (GRPO) based frameworks. However, prevaili...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv ML",
+        "title": "Integrating Explainable Machine Learning and Mixed-Integer Optimization for Personalized Sleep Quality Intervention",
+        "link": "https://arxiv.org/abs/2603.16937",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16937v1 Announce Type: new \nAbstract: Sleep quality is influenced by a complex interplay of behavioral, environmental, and psychosocial factors, yet most computational studies focus mainly ...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv ML",
+        "title": "Minimum-Action Learning: Energy-Constrained Symbolic Model Selection for Physical Law Identification from Noisy Data",
+        "link": "https://arxiv.org/abs/2603.16951",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16951v1 Announce Type: new \nAbstract: Identifying physical laws from noisy observational data is a central challenge in scientific machine learning. We present Minimum-Action Learning (MAL)...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv ML",
+        "title": "Formal verification of tree-based machine learning models for lateral spreading",
+        "link": "https://arxiv.org/abs/2603.16983",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16983v1 Announce Type: new \nAbstract: Machine learning models for geotechnical hazard prediction can achieve high accuracy while learning physically inconsistent relationships from sparse o...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv CV",
+        "title": "Multi-Modal Multi-Agent Reinforcement Learning for Radiology Report Generation: Radiologist-Like Workflow with Clinically Verifiable Rewards",
+        "link": "https://arxiv.org/abs/2603.16876",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16876v1 Announce Type: new \nAbstract: We propose MARL-Rad, a novel multi-modal multi-agent reinforcement learning framework for radiology report generation that coordinates region-specific ...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv CV",
+        "title": "Tokenization vs. Augmentation: A Systematic Study of Writer Variance in IMU-Based Online Handwriting Recognition",
+        "link": "https://arxiv.org/abs/2603.16883",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16883v1 Announce Type: new \nAbstract: Inertial measurement unit-based online handwriting recognition enables the recognition of input signals collected across different writing surfaces but...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv CV",
+        "title": "Leveraging Large Vision Model for Multi-UAV Co-perception in Low-Altitude Wireless Networks",
+        "link": "https://arxiv.org/abs/2603.16927",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16927v1 Announce Type: new \nAbstract: Multi-uncrewed aerial vehicle (UAV) cooperative perception has emerged as a promising paradigm for diverse low-altitude economy applications, where com...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv CV",
+        "title": "Facial beauty prediction fusing transfer learning and broad learning system",
+        "link": "https://arxiv.org/abs/2603.16930",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16930v1 Announce Type: new \nAbstract: Facial beauty prediction (FBP) is an important and challenging problem in the fields of computer vision and machine learning. Not only it is easily pro...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv CV",
+        "title": "Script-to-Slide Grounding: Grounding Script Sentences to Slide Objects for Automatic Instructional Video Generation",
+        "link": "https://arxiv.org/abs/2603.16931",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16931v1 Announce Type: new \nAbstract: While slide-based videos augmented with visual effects are widely utilized in education and research presentations, the video editing process -- partic...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv CV",
+        "title": "Look Where It Matters: High-Resolution Crops Retrieval for Efficient VLMs",
+        "link": "https://arxiv.org/abs/2603.16932",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16932v1 Announce Type: new \nAbstract: Vision-language models (VLMs) typically process images at a native high-resolution, forcing a trade-off between accuracy and computational efficiency: ...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv CV",
+        "title": "AgriChat: A Multimodal Large Language Model for Agriculture Image Understanding",
+        "link": "https://arxiv.org/abs/2603.16934",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16934v1 Announce Type: new \nAbstract: The deployment of Multimodal Large Language Models (MLLMs) in agriculture is currently stalled by a critical trade-off: the existing literature lacks t...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv CV",
+        "title": "GenLie: A Global-Enhanced Lie Detection Network under Sparsity and Semantic Interference",
+        "link": "https://arxiv.org/abs/2603.16935",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16935v1 Announce Type: new \nAbstract: Video-based lie detection aims to identify deceptive behaviors from visual cues. Despite recent progress, its core challenge lies in learning sparse ye...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv CV",
+        "title": "TDMM-LM: Bridging Facial Understanding and Animation via Language Models",
+        "link": "https://arxiv.org/abs/2603.16936",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16936v1 Announce Type: new \nAbstract: Text-guided human body animation has advanced rapidly, yet facial animation lags due to the scarcity of well-annotated, text-paired facial corpora. To ...",
+        "category": "学术研究"
+      },
+      {
+        "source": "arXiv CV",
+        "title": "Solution for 10th Competition on Ambivalence/Hesitancy (AH) Video Recognition Challenge using Divergence-Based Multimodal Fusion",
+        "link": "https://arxiv.org/abs/2603.16939",
+        "published": "2026-03-19T04:00:00",
+        "summary": "arXiv:2603.16939v1 Announce Type: new \nAbstract: We address the Ambivalence/Hesitancy (A/H) Video Recognition Challenge at the 10th ABAW Competition (CVPR 2026). We propose a divergence-based multimod...",
+        "category": "学术研究"
+      }
+    ],
+    "政策与产业": [
+      {
+        "source": "199IT",
+        "title": "韧性构建：转型期的社会创新",
+        "link": "http://www.199it.com/archives/1809487.html",
+        "published": "2026-03-19T22:00:57",
+        "summary": "Schwab Foundation发布了2026年获奖者报告“转型时期的社会创新”。报告介绍了2026年Schwab Foundation基金会的获奖者——这是一群极具影响力的社会创新者，他们让我们明白，领导力可以建立在目标和诚信的基础上，同时仍能在公共利益方面展现出雄心和创新精神。从企业家和运动推动者到公共和私营部门的变革推动者，他们体现了这样一个信念——以及这一信念的证明——我们的经济和社会能...",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "欧洲车队电动化：产业拐点与万亿级机遇",
+        "link": "http://www.199it.com/archives/1817468.html",
+        "published": "2026-03-19T21:30:53",
+        "summary": "企业车队贡献约60%的新车销量，并覆盖几乎全部商用车市场，同时占道路交通碳排放的重要份额，其中乘用车约45%、轻型商用车约12%、卡车和公交约27%。",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "Sensor Tower ：2026 年印度移动应用市场报告",
+        "link": "http://www.199it.com/archives/1812770.html",
+        "published": "2026-03-19T21:00:55",
+        "summary": "2025年全年下载量达255亿次，同比增长4%，但较此前高速扩张明显趋稳；与此同时，总使用时长达到1.23万亿小时，同比增长9%，人均年使用时长超过840小时，表明用户粘性持续增强。",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "迈向未来互联网：治理范式的重塑与协同",
+        "link": "http://www.199it.com/archives/1729937.html",
+        "published": "2026-03-19T20:00:12",
+        "summary": "当前互联网已覆盖约53.5亿人口，但全球仍有约26亿人处于离线状态，实际渗透率仅66%。这一数据揭示数字鸿沟依然显著，同时也反映出基础设施与内容可达性的结构性不足。",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "2026年印度主要市场台式机与笔记本电脑出货量预测（附原数据表） ​​​",
+        "link": "http://www.199it.com/archives/1817508.html",
+        "published": "2026-03-19T18:08:38",
+        "summary": "2026年印度主要市场台式机与笔记本电脑出货量预测（附原数据表） ​​​",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "2026年印度主要市场台式机与笔记本电脑出货量同比预测（附原数据表） ​​​",
+        "link": "http://www.199it.com/archives/1817505.html",
+        "published": "2026-03-19T18:07:39",
+        "summary": "2026年印度主要市场台式机与笔记本电脑出货量同比预测（附原数据表） ​​​",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "Crunchbase：2025年独角兽投资退出创新高",
+        "link": "http://www.199it.com/archives/1803466.html",
+        "published": "2026-03-19T18:00:57",
+        "summary": "根据Crunchbase的数据分析，在经历了三年的低迷后，独角兽公司的退出活动终于在2025年回暖。独角兽公司的首次公开募股数量已回升至2021年之前的水平，而并购交易在数量和金额上均创下历史新高。",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "腾讯控股：2025年全年营收7517.66亿元，同比增长14%",
+        "link": "http://www.199it.com/archives/1817385.html",
+        "published": "2026-03-19T12:11:19",
+        "summary": "腾讯控股发布2025年财报，全年营业收入7517.66亿元，同比增长14%；归母净利润2248.42亿元，同比增长16%。第四季度营收1943.71亿元，同比增长13%。截至2025年底，微信及WeChat合并月活账户数达14.18亿，同比增长2%。腾讯云在AI需求带动下实现规模化盈利，混元等AI模型能力持续提升。",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "宾利：2025年营收微跌1%利润暴跌42%，裁员6%",
+        "link": "http://www.199it.com/archives/1817389.html",
+        "published": "2026-03-19T12:11:10",
+        "summary": "宾利公布2025年财报，营收微跌1%但营业利润暴跌超42%至2.16亿欧元，公司宣布裁员275人，占员工总数6%。业绩下滑主因美国关税造成约4200万欧元损失、汇率波动及中国市场需求疲软导致全球交付量下滑5%。同时，宾利将全系纯电目标从2030年推迟至2035年后，行业整体承压，保时捷、阿斯顿·马丁等品牌也面临销量利润下滑与裁员。",
+        "category": "政策与产业"
+      },
+      {
+        "source": "199IT",
+        "title": "瑞银：2026年2月即时零售美团订单份额51% 淘宝闪购42%",
+        "link": "http://www.199it.com/archives/1817397.html",
+        "published": "2026-03-19T12:10:52",
+        "summary": "瑞银2026年3月报告显示，2月即时零售市场按骑手应用停留时长测算，美团、阿里、京东份额分别为67%、23%、10%；按订单量估算则为51%、42%、7%。易观分析同期报告则称淘宝闪购以45.2%份额反超美团。两份报告结论迥异，根源在于统计口径差异，包括订单量/GTV口径、品类与履约时效界定等，并揭示了部分报告可能存在的定制化倾向。",
+        "category": "政策与产业"
+      }
+    ]
+  }
+}
